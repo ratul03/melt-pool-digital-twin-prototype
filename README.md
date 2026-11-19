@@ -66,6 +66,9 @@ passed (`check_summary.json`).
 - Seeds and draws are not independent tests; the alloy is the unit of analysis.
 - The study code checks the SHA-256 hash of its frozen inputs. `reproduce.py` and `run_prototype.py` therefore copy
   the inputs into the folder layout of the original studies in a working folder, without changing the code.
+- `CHECKSUMS.sha256` records every file with its original line endings. Git can convert line endings when files
+  are uploaded or downloaded, so a checksum check may flag text files on some systems. `reproduce.py` and
+  `run_prototype.py` restore the recorded bytes before running, so the hash checks of the study code still pass.
 
 ## Data source
 

@@ -16,6 +16,7 @@ What it does
 """
 
 import argparse
+import hashlib
 import json
 import shutil
 import subprocess
@@ -28,9 +29,36 @@ PKG = Path(__file__).resolve().parent
 STORED = PKG / "results/chapter6_main_design/main_design_runs"
 
 
+def _recorded_hashes():
+    """SHA-256 of every package file, from CHECKSUMS.sha256."""
+    out = {}
+    path = PKG / "CHECKSUMS.sha256"
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            digest, name = line.split("  ", 1)
+            out[name] = digest
+    return out
+
+
+RECORDED = _recorded_hashes()
+
+
 def copy(src, dst):
+    """Copy a file and restore the exact bytes recorded in CHECKSUMS.sha256.
+
+    Git can change line endings (LF or CRLF) when the repository is uploaded or downloaded.
+    The study code checks the SHA-256 hash of its inputs, so the original line endings are restored here.
+    """
     dst.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(src, dst)
+    data = Path(src).read_bytes()
+    want = RECORDED.get(Path(src).resolve().relative_to(PKG).as_posix())
+    if want:
+        lf = data.replace(b"\r\n", b"\n")
+        for candidate in (data, lf, lf.replace(b"\n", b"\r\n")):
+            if hashlib.sha256(candidate).hexdigest() == want:
+                data = candidate
+                break
+    dst.write_bytes(data)
 
 
 def build_workspace(work):
