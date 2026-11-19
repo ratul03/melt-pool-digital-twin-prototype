@@ -1,0 +1,45 @@
+width raw inputs checked 1078
+width Cu10Sn replay, raw inputs and persistence checked
+width Hastelloy X replay, raw inputs and persistence checked
+width IN625 replay, raw inputs and persistence checked
+width IN718 replay, raw inputs and persistence checked
+width IN738LC replay, raw inputs and persistence checked
+width SS17-4PH replay, raw inputs and persistence checked
+width SS316L replay, raw inputs and persistence checked
+width Ti-6Al-4V replay, raw inputs and persistence checked
+{
+  "passed": 4248,
+  "failed": 0,
+  "failures": [],
+  "scenarios": 8,
+  "raw_input_rejections": 0,
+  "check_counts": {
+    "raw_features_equal_frozen_features": 1078,
+    "frozen_prediction_matches_offline": 460,
+    "exact_offline_match_exists": 460,
+    "frozen_prediction_matches_chapter6_cache": 460,
+    "update_matches_bruteforce": 300,
+    "update_matches_chapter6_code": 300,
+    "update_range_ordered_nonnegative": 300,
+    "state_choice_matches_query": 300,
+    "offline_calibration_margin": 160,
+    "source_range_matches_offline_with_bound": 160,
+    "finite_sample_unbounded_below_nine": 149,
+    "fixed_point_predictions": 15,
+    "unsupported_process_rejected": 8,
+    "nonfinite_input_rejected": 8,
+    "save_reload_exact_state": 8,
+    "fixed_test_observation_rejected": 8,
+    "duplicate_observation_rejected": 8,
+    "observation_without_prediction_rejected": 8,
+    "negative_input_rejected": 8,
+    "postbuild_input_rejected": 8,
+    "corrupted_state_rejected": 8,
+    "wrong_alloy_rejected": 8,
+    "missing_input_rejected": 8,
+    "wrong_measurement_unit_rejected": 8,
+    "manual_measurement_version_increment": 8,
+    "method_code_identical_to_chapter6": 1,
+    "all_frozen_records_supported": 1
+  }
+}

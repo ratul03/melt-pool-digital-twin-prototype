@@ -1,0 +1,290 @@
+[
+  {
+    "task": "length",
+    "alloy": "IN625",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 20,
+          "k": 19,
+          "q": 20.748291871877818,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:97",
+          "task": "length",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 20,
+            "k": 19,
+            "q": 20.748291871877818,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 1080.5109968002675,
+          "unit": "um",
+          "frozen_predicted": 1080.5109968002675,
+          "update_form": null,
+          "lower": 1059.7627049283897,
+          "upper": 1101.2592886721454
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:97",
+          "task": "length",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [],
+          "predicted": 950.3703432771772,
+          "unit": "um",
+          "frozen_predicted": 1080.5109968002675,
+          "update_form": "shift",
+          "lower": 705.9845537487627,
+          "upper": 1179.2485565678262
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:97",
+          "task": "length",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 931.5190160037969,
+          "unit": "um",
+          "frozen_predicted": 1080.5109968002675,
+          "update_form": "linear",
+          "lower": 844.7762727603069,
+          "upper": 1031.5920212655385
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "length",
+    "alloy": "SS316L",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 23,
+          "k": 22,
+          "q": 33.29894588360409,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:1279",
+          "task": "length",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 23,
+            "k": 22,
+            "q": 33.29894588360409,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 1416.5904816286843,
+          "unit": "um",
+          "frozen_predicted": 1416.5904816286843,
+          "update_form": null,
+          "lower": 1383.2915357450802,
+          "upper": 1449.8894275122884
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:1279",
+          "task": "length",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 228.88045827203064,
+          "unit": "um",
+          "frozen_predicted": 1416.5904816286843,
+          "update_form": "linear",
+          "lower": 85.52172676847317,
+          "upper": 342.208826023312
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "length",
+    "alloy": "Ti-6Al-4V",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 19,
+          "k": 18,
+          "q": 28.28243798585345,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:323",
+          "task": "length",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 19,
+            "k": 18,
+            "q": 28.28243798585345,
+            "unbounded": false
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate."
+          ],
+          "predicted": 815.0652163662072,
+          "unit": "um",
+          "frozen_predicted": 815.0652163662072,
+          "update_form": null,
+          "lower": 786.7827783803538,
+          "upper": 843.3476543520607
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:323",
+          "task": "length",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate."
+          ],
+          "predicted": 175.47121371047444,
+          "unit": "um",
+          "frozen_predicted": 815.0652163662072,
+          "update_form": "linear",
+          "lower": 116.84196622012576,
+          "upper": 238.24388285929456
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:length:323",
+          "task": "length",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate."
+          ],
+          "predicted": 176.5249920355534,
+          "unit": "um",
+          "frozen_predicted": 815.0652163662072,
+          "update_form": "linear",
+          "lower": 125.16631634290138,
+          "upper": 221.98971949940074
+        },
+        "n_test_queries": 20
+      }
+    ]
+  }
+]

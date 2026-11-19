@@ -1,0 +1,128 @@
+{
+  "created_utc": "2026-10-22T01:21:46.219381+00:00",
+  "status": "frozen_before_any_interval_or_metric",
+  "question": "With n measurements on an unseen alloy, does a frozen ML model plus a model update and jackknife+ give better 90% intervals than (a) the existing calibration methods and (b) models built from the target measurements alone?",
+  "disclosure": "The proposed method family (shift / linear update with jackknife+, zero clip) and the target-only linear baselines were chosen after an exploratory test on 2026-10-22 using the 20 Oct fixed test rows. Exploratory equal-alloy depth interval scores at 9 measurements were: current method + clip 567, ML linear update + clip 402, target-only P+V + clip 411. This run uses 50 fresh, group-aware test draws per alloy and a fixed selection rule. Rows are the same physical records, so this reduces but cannot remove selection bias.",
+  "tasks": {
+    "primary": "depth",
+    "secondary": [
+      "width",
+      "length"
+    ],
+    "excluded": {
+      "classification": "Reported as a secondary negative result on 20 Oct; known unquarantined unit-error rows 679-681."
+    }
+  },
+  "alpha": 0.1,
+  "budgets": [
+    9,
+    12,
+    15,
+    20,
+    30
+  ],
+  "repeats": 50,
+  "test_n": 20,
+  "min_test_n": 15,
+  "cohorts": {
+    "primary": ">= 40 alloy rows",
+    "secondary": "29-39 rows, budget 9 only"
+  },
+  "partition_rule": "Condition groups = identical active model inputs (rounded 1e-9). Groups go wholly to test or pool. Greedy random fill of test to <= 20 rows. Calibration = nested prefixes of one random pool permutation.",
+  "seed_base": 20261022,
+  "models": "Unchanged frozen excluded-alloy models, seeds 0-4 (Weeks 1-2 seed 0, Weeks 3-4 refits 1-4).",
+  "methods": {
+    "source_split": [
+      "existing",
+      "Frozen ML point, split conformal on other alloys' reserved calibration rows"
+    ],
+    "target_split": [
+      "existing",
+      "Frozen ML point, split conformal on target residuals (20 Oct Thesis C method)"
+    ],
+    "mean_target_split": [
+      "baseline",
+      "Training mean, split conformal on target residuals (20 Oct simple predictor)"
+    ],
+    "target_mean_jk": [
+      "baseline",
+      "Target-sample mean, jackknife+ (training mean plus shift update)"
+    ],
+    "target_linE_jk": [
+      "baseline",
+      "Target-only OLS y ~ 1 + P/V, jackknife+"
+    ],
+    "target_linPV_jk": [
+      "baseline",
+      "Target-only OLS y ~ 1 + P + V, jackknife+"
+    ],
+    "target_auto_jk": [
+      "baseline",
+      "Target-only, choose mean / P/V / P+V by inner LOO MSE, jackknife+"
+    ],
+    "ml_shift_jk": [
+      "proposed",
+      "Frozen ML plus intercept update r ~ 1, jackknife+"
+    ],
+    "ml_linear_jk": [
+      "proposed",
+      "Frozen ML plus intercept and slope update r ~ 1 + p, jackknife+"
+    ],
+    "ml_auto_jk": [
+      "proposed",
+      "Frozen ML, choose shift or linear update by inner LOO MSE, jackknife+ (PRIMARY)"
+    ]
+  },
+  "target_only_features": [
+    "Power",
+    "Velocity"
+  ],
+  "selection_rule": "Auto methods choose the candidate with the lowest exact LOO MSE on calibration data; ties -> simpler. The choice runs inside every jackknife fold.",
+  "physical_bound": "Primary results clip lower bounds at 0 for every method (geometry >= 0; coverage cannot fall). Unclipped results are stored as well.",
+  "metrics": [
+    "coverage",
+    "mean_width",
+    "interval_score (alpha=0.1)",
+    "lower_penalty",
+    "upper_penalty",
+    "MAE",
+    "negative_lower_fraction"
+  ],
+  "aggregation": "Rows -> condition; mean over repeats within (alloy, seed, budget, method); mean over seeds; equal-alloy mean within cohort. Alloy is the unit of analysis.",
+  "acceptability": "A method is acceptable only if its equal-alloy coverage >= 0.85 (jackknife+ worst case is 0.80).",
+  "hypotheses": {
+    "H_primary": "Depth, primary cohort, budget 9, clipped: ml_auto_jk has a lower equal-alloy interval score than target_split (the 20 Oct method). Test: exact two-sided Wilcoxon signed-rank on alloy-level differences; with 7 alloys the smallest attainable p is 0.0156.",
+    "H_existing": "ml_auto_jk beats source_split and target_split at every budget (all tasks). Descriptive + Wilcoxon.",
+    "H_baseline": "ml_auto_jk beats mean_target_split and target_mean_jk at every budget.",
+    "H_prior_value": "ml_auto_jk vs target_auto_jk: report the difference by budget; a crossover is allowed and is itself a result. No direction is assumed."
+  },
+  "decision_rule_for_superiority": "Call ml_auto_jk superior to a comparator on a task and budget only if (1) its equal-alloy interval score is lower, (2) it wins in a majority of alloys, and (3) both coverages are acceptable.",
+  "frozen_files": {
+    "code/common.py": "11fda3f7c8ec3d3b1e5a93832331f36fa230c15ddd1e744117b5fba125962e0e",
+    "code/01_make_partitions.py": "631ab226733cd653d41d6744af6d54971607bbd5c2d80cad7d934a5159fa6143",
+    "code/02_cache_predictions.py": "d1884b23c6eac6dccf636f9953bb9250f50070a6ae3a32167394230abbcdb33a",
+    "code/03_run_experiment.py": "020583e0288b81cbe206a9aff284d3af22ba633318ef4b2576593a8d40572482",
+    "code/04_summarise.py": "32dc338ccb1a883b4a6b7494422181703b30e3153d71bbf1e1655272d237e3de",
+    "inputs/prepare.py": "1e328f1b4a21b303360fad2de351a3165c251505aabf3b0baeb5f7da1509380f",
+    "protocol/partitions.json": "211a84fbdadefa0a40cf577e4b0fd80dc72f6a75bc940b3347e14c1ecdd8374c",
+    "data/ml_predictions.csv": "f17e3dfdc5af6e106e4665665db1355bd9993ae9a7182d5f7516db0b3819f940",
+    "data/source_calibration_scores.csv": "189fdc1b83a1be8a3d15b0bb34f3e7367d1ddd9a13a21099c627c6f88aecd78a",
+    "data/model_registry.csv": "8e505fe836296656501e825752b1917c81e8dc3a3d0dd4e7b829ffa16954547b"
+  },
+  "inherited_files": {
+    "Thesis_C_Weeks_1_2/protocol/frozen.json": "0d74ef6b8bedaf9d53b68f167f9f1e68251946025b1b4ffb3241657d52334913",
+    "Thesis_C_Weeks_1_2/protocol/splits.json": "3d2efc606642024e5f6f631636933903f37a2dffa67ad2edf02e4ac163746e31",
+    "Thesis_C_Weeks_1_2/data/depth.csv": "59b2794b97e85f7d3e4b8b3f09882b629e3a967cea4bcbbf3bdd130acbe85255",
+    "Thesis_C_Weeks_1_2/data/width.csv": "23f96a9f208c2282a75d9c6785e0c2aeac316044bfc78a04843b906601a35c18",
+    "Thesis_C_Weeks_1_2/data/length.csv": "b05962ab8ea87881a73b39937c8cac55c078713b6fc3972fc62e09577a24bd75"
+  },
+  "sources": {
+    "jackknife+": "Barber, Candes, Ramdas, Tibshirani (2021) Ann. Statist. 49(1), doi:10.1214/20-AOS1965",
+    "split conformal": "Angelopoulos and Bates, arXiv:2107.07511",
+    "interval score": "Gneiting and Raftery (2007) JASA, doi:10.1198/016214506000001437",
+    "model updating": "Janssen et al. (2008) J Clin Epidemiol 61(1):76-86; Vergouwe et al. closed testing procedure",
+    "grouped evaluation": "Meredig et al. (2018) Mol. Syst. Des. Eng.; Roberts et al. (2017) Ecography",
+    "redundancy control": "Li, Fu, Omee, Hu (2024) npj Comput. Mater. (MD-HIT)",
+    "transfer vs scratch": "Menon, Mondal, Basak (2022) SFF Symposium, SS316L -> IN718"
+  }
+}

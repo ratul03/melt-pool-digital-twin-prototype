@@ -1,0 +1,20 @@
+{
+  "created_utc": "2026-11-02T02:51:45.822536+00:00",
+  "status": "Post-results correction of a scoring defect. Made after the frozen results were seen.",
+  "defect": "The frozen runner clipped only the lower bound at 0. When the upper bound was also negative, the clipped interval was inverted (lower > upper), giving negative widths. Found by an independent audit on 2 Nov 2026: 10 clipped condition rows with negative mean width; the audit counted 1,638 affected clipped condition rows and 2,746 inverted interval evaluations.",
+  "correction": "Clipped intervals now project BOTH endpoints onto [0, inf): lower = max(lower, 0), upper = max(upper, 0). If both endpoints are negative the interval becomes [0, 0]. metrics() now refuses any inverted interval. Unclipped results are unchanged.",
+  "unchanged": "Partitions, cached predictions, methods, hypotheses, primary test and decision rules are unchanged. The frozen outputs are kept in frozen_outputs_2026-10-22/.",
+  "amended_files": {
+    "code/common.py": {
+      "frozen_sha256": "11fda3f7c8ec3d3b1e5a93832331f36fa230c15ddd1e744117b5fba125962e0e",
+      "new_sha256": "aab1d503fd080415040dc789fa3752fb077dd851be2957f2d46169ccf3524633"
+    },
+    "code/03_run_experiment.py": {
+      "frozen_sha256": "020583e0288b81cbe206a9aff284d3af22ba633318ef4b2576593a8d40572482",
+      "new_sha256": "7d432e59f6eea3121a6d689c8283bb3639dbf4b2bc8a916c0164423f9d834a94"
+    }
+  },
+  "other_changed_files": {
+    "code/05_verify.py": "adds ordering, nonnegative-bound and negative-width checks; brute force uses the corrected clipping"
+  }
+}

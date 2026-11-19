@@ -1,0 +1,51 @@
+task,protocol,alloy,path,n_train,n_reserved_cal,n_test,reload_verified
+depth,random,,models\depth_random_000_s0.joblib,589,148,185,True
+depth,leave_one_alloy_out,4140 steel,models\depth_leave_one_alloy_out_001_s0.joblib,735,184,3,True
+depth,leave_one_alloy_out,AlSi10Mg,models\depth_leave_one_alloy_out_002_s0.joblib,714,179,29,True
+depth,leave_one_alloy_out,HCP Cu,models\depth_leave_one_alloy_out_003_s0.joblib,733,184,5,True
+depth,leave_one_alloy_out,Hastelloy X,models\depth_leave_one_alloy_out_004_s0.joblib,704,177,41,True
+depth,leave_one_alloy_out,IN625,models\depth_leave_one_alloy_out_005_s0.joblib,662,166,94,True
+depth,leave_one_alloy_out,IN718,models\depth_leave_one_alloy_out_006_s0.joblib,705,177,40,True
+depth,leave_one_alloy_out,IN738LC,models\depth_leave_one_alloy_out_007_s0.joblib,697,175,50,True
+depth,leave_one_alloy_out,MS1-,models\depth_leave_one_alloy_out_008_s0.joblib,728,182,12,True
+depth,leave_one_alloy_out,SS17-4PH,models\depth_leave_one_alloy_out_009_s0.joblib,662,166,94,True
+depth,leave_one_alloy_out,SS304L,models\depth_leave_one_alloy_out_010_s0.joblib,732,184,6,True
+depth,leave_one_alloy_out,SS316L,models\depth_leave_one_alloy_out_011_s0.joblib,454,114,354,True
+depth,leave_one_alloy_out,Ti-49Al-2Cr-2Nb,models\depth_leave_one_alloy_out_012_s0.joblib,721,181,20,True
+depth,leave_one_alloy_out,Ti-6Al-4V,models\depth_leave_one_alloy_out_013_s0.joblib,614,154,154,True
+depth,leave_one_alloy_out,TiC/Inconel 718,models\depth_leave_one_alloy_out_014_s0.joblib,731,183,8,True
+depth,leave_one_alloy_out,WE43,models\depth_leave_one_alloy_out_015_s0.joblib,728,182,12,True
+width,random,,models\width_random_080_s0.joblib,689,173,216,True
+width,leave_one_alloy_out,AA7075,models\width_leave_one_alloy_out_081_s0.joblib,860,216,2,True
+width,leave_one_alloy_out,AlSi10Mg,models\width_leave_one_alloy_out_082_s0.joblib,844,211,23,True
+width,leave_one_alloy_out,Cu10Sn,models\width_leave_one_alloy_out_083_s0.joblib,834,209,35,True
+width,leave_one_alloy_out,HCP Cu,models\width_leave_one_alloy_out_084_s0.joblib,851,213,14,True
+width,leave_one_alloy_out,Hastelloy X,models\width_leave_one_alloy_out_085_s0.joblib,829,208,41,True
+width,leave_one_alloy_out,IN625,models\width_leave_one_alloy_out_086_s0.joblib,788,198,92,True
+width,leave_one_alloy_out,IN718,models\width_leave_one_alloy_out_087_s0.joblib,816,205,57,True
+width,leave_one_alloy_out,IN738LC,models\width_leave_one_alloy_out_088_s0.joblib,822,206,50,True
+width,leave_one_alloy_out,Invar36,models\width_leave_one_alloy_out_089_s0.joblib,848,212,18,True
+width,leave_one_alloy_out,MS1-,models\width_leave_one_alloy_out_090_s0.joblib,852,214,12,True
+width,leave_one_alloy_out,SS17-4PH,models\width_leave_one_alloy_out_091_s0.joblib,780,195,103,True
+width,leave_one_alloy_out,SS304L,models\width_leave_one_alloy_out_092_s0.joblib,857,215,6,True
+width,leave_one_alloy_out,SS316L,models\width_leave_one_alloy_out_093_s0.joblib,479,120,479,True
+width,leave_one_alloy_out,Ti-49Al-2Cr-2Nb,models\width_leave_one_alloy_out_094_s0.joblib,846,212,20,True
+width,leave_one_alloy_out,Ti-6Al-4V,models\width_leave_one_alloy_out_095_s0.joblib,796,200,82,True
+width,leave_one_alloy_out,TiC/Inconel 718,models\width_leave_one_alloy_out_096_s0.joblib,856,214,8,True
+width,leave_one_alloy_out,Tungsten,models\width_leave_one_alloy_out_097_s0.joblib,843,211,24,True
+width,leave_one_alloy_out,WE43,models\width_leave_one_alloy_out_098_s0.joblib,852,214,12,True
+length,random,,models\length_random_175_s0.joblib,92,23,29,True
+length,leave_one_alloy_out,IN625,models\length_leave_one_alloy_out_176_s0.joblib,79,20,45,True
+length,leave_one_alloy_out,IN718,models\length_leave_one_alloy_out_177_s0.joblib,112,29,3,True
+length,leave_one_alloy_out,Invar36,models\length_leave_one_alloy_out_178_s0.joblib,108,27,9,True
+length,leave_one_alloy_out,SS316L,models\length_leave_one_alloy_out_179_s0.joblib,91,23,30,True
+length,leave_one_alloy_out,Ti-6Al-4V,models\length_leave_one_alloy_out_180_s0.joblib,76,19,49,True
+length,leave_one_alloy_out,TiC/Inconel 718,models\length_leave_one_alloy_out_181_s0.joblib,108,28,8,True
+classification,random,,models\classification_random_210_s0.joblib,428,107,134,True
+classification,leave_one_alloy_out,AlSi10Mg,models\classification_leave_one_alloy_out_211_s0.joblib,519,130,20,True
+classification,leave_one_alloy_out,HCP Cu,models\classification_leave_one_alloy_out_212_s0.joblib,531,133,5,True
+classification,leave_one_alloy_out,IN718,models\classification_leave_one_alloy_out_213_s0.joblib,416,105,148,True
+classification,leave_one_alloy_out,SS316L,models\classification_leave_one_alloy_out_214_s0.joblib,313,79,277,True
+classification,leave_one_alloy_out,Ti-6Al-4V,models\classification_leave_one_alloy_out_215_s0.joblib,368,92,209,True
+classification,leave_one_alloy_out,TiC/Inconel 718,models\classification_leave_one_alloy_out_216_s0.joblib,532,133,4,True
+classification,leave_one_alloy_out,Tungsten,models\classification_leave_one_alloy_out_217_s0.joblib,530,133,6,True

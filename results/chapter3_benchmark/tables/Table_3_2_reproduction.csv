@@ -1,0 +1,5 @@
+configuration,metric,published,reproduced_mean,reproduced_sd,records
+Depth NN with absorptivity 2 and hatch spacing,R2,0.958,0.9404893456455584,0.0690057754731676,293
+Width GB with elemental features,R2,0.9773,0.995041161146162,0.003161774687527,1136
+Length GB with hatch spacing,R2,0.9962,0.9978756567689888,0.0014954183688367,144
+RFC with both absorptivities and hatch spacing,accuracy,0.8841,0.8758333333333332,0.00761486120104048,77

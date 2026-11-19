@@ -1,0 +1,12 @@
+{
+  "hypothesis": "Depth, primary cohort, budget 9, clipped: ml_auto_jk has a lower equal-alloy interval score than target_split (the 20 Oct method). Test: exact two-sided Wilcoxon signed-rank on alloy-level differences; with 7 alloys the smallest attainable p is 0.0156.",
+  "proposed_IS": 438.7890937995583,
+  "comparator_IS": 624.1386017431199,
+  "relative_change": -0.29696850575482764,
+  "alloys_proposed_better": 3,
+  "n_alloys": 7,
+  "wilcoxon_exact_p": 0.8125,
+  "proposed_coverage": 0.8903714285714285,
+  "comparator_coverage": 0.8945714285714285,
+  "supported": false
+}

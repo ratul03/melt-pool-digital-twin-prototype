@@ -1,0 +1,824 @@
+[
+  {
+    "task": "depth",
+    "alloy": "AlSi10Mg",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 179,
+          "k": 162,
+          "q": 56.56039000712269,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1550",
+          "task": "depth",
+          "alloy": "AlSi10Mg",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 179,
+            "k": 162,
+            "q": 56.56039000712269,
+            "unbounded": false
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate."
+          ],
+          "predicted": 147.9404181366069,
+          "unit": "um",
+          "frozen_predicted": 147.9404181366069,
+          "update_form": null,
+          "lower": 91.3800281294842,
+          "upper": 204.50080814372959
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1550",
+          "task": "depth",
+          "alloy": "AlSi10Mg",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate.",
+            "The point prediction is negative; it is shown unchanged, and the range is bounded at zero."
+          ],
+          "predicted": -72.23258421884748,
+          "unit": "um",
+          "frozen_predicted": 147.9404181366069,
+          "update_form": "shift",
+          "lower": 0.0,
+          "upper": 430.18383223819603
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "Hastelloy X",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 177,
+          "k": 161,
+          "q": 66.54178294764077,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:638",
+          "task": "depth",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 177,
+            "k": 161,
+            "q": 66.54178294764077,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 46.029193861991814,
+          "unit": "um",
+          "frozen_predicted": 46.029193861991814,
+          "update_form": null,
+          "lower": 0.0,
+          "upper": 112.57097680963258
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:638",
+          "task": "depth",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 57.481579857175525,
+          "unit": "um",
+          "frozen_predicted": 46.029193861991814,
+          "update_form": "linear",
+          "lower": 16.704909321310204,
+          "upper": 104.80697416403501
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:638",
+          "task": "depth",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 53.616987129356446,
+          "unit": "um",
+          "frozen_predicted": 46.029193861991814,
+          "update_form": "linear",
+          "lower": 25.644538002459804,
+          "upper": 85.89021313319564
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "IN625",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 166,
+          "k": 151,
+          "q": 67.01413671459909,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1325",
+          "task": "depth",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 166,
+            "k": 151,
+            "q": 67.01413671459909,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 69.53065159306193,
+          "unit": "um",
+          "frozen_predicted": 69.53065159306193,
+          "update_form": null,
+          "lower": 2.516514878462843,
+          "upper": 136.544788307661
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1325",
+          "task": "depth",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 53.28762810081089,
+          "unit": "um",
+          "frozen_predicted": 69.53065159306193,
+          "update_form": "linear",
+          "lower": 12.074554090221888,
+          "upper": 90.17795099505307
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1325",
+          "task": "depth",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 55.97380023062636,
+          "unit": "um",
+          "frozen_predicted": 69.53065159306193,
+          "update_form": "linear",
+          "lower": 17.99101532049648,
+          "upper": 94.5686102381849
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "IN718",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 177,
+          "k": 161,
+          "q": 66.33361280341367,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:985",
+          "task": "depth",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 177,
+            "k": 161,
+            "q": 66.33361280341367,
+            "unbounded": false
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate.",
+            "The point prediction is negative; it is shown unchanged, and the range is bounded at zero."
+          ],
+          "predicted": -35.78418290075754,
+          "unit": "um",
+          "frozen_predicted": -35.78418290075754,
+          "update_form": null,
+          "lower": 0.0,
+          "upper": 30.54942990265613
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:985",
+          "task": "depth",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate."
+          ],
+          "predicted": 98.29225986873917,
+          "unit": "um",
+          "frozen_predicted": -35.78418290075754,
+          "update_form": "shift",
+          "lower": 0.0,
+          "upper": 408.14618487046727
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:985",
+          "task": "depth",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "One or more inputs are over five training standard deviations from the training mean; this is a diagnostic, not a validated confidence estimate.",
+            "The point prediction is negative; it is shown unchanged, and the range is bounded at zero."
+          ],
+          "predicted": -64.82469187697339,
+          "unit": "um",
+          "frozen_predicted": -35.78418290075754,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 482.166483374478
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "IN738LC",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 175,
+          "k": 159,
+          "q": 76.51990018968964,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1546",
+          "task": "depth",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 175,
+            "k": 159,
+            "q": 76.51990018968964,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 329.9194448008975,
+          "unit": "um",
+          "frozen_predicted": 329.9194448008975,
+          "update_form": null,
+          "lower": 253.3995446112079,
+          "upper": 406.43934499058713
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1546",
+          "task": "depth",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "The point prediction is negative; it is shown unchanged, and the range is bounded at zero."
+          ],
+          "predicted": -66.12399124458614,
+          "unit": "um",
+          "frozen_predicted": 329.9194448008975,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 648.7661734010605
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1546",
+          "task": "depth",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 228.1341426642558,
+          "unit": "um",
+          "frozen_predicted": 329.9194448008975,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 472.57770210723265
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "SS17-4PH",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 166,
+          "k": 151,
+          "q": 74.71717901002353,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:605",
+          "task": "depth",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 166,
+            "k": 151,
+            "q": 74.71717901002353,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 54.28931212704215,
+          "unit": "um",
+          "frozen_predicted": 54.28931212704215,
+          "update_form": null,
+          "lower": 0.0,
+          "upper": 129.00649113706567
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:605",
+          "task": "depth",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 46.65249307264777,
+          "unit": "um",
+          "frozen_predicted": 54.28931212704215,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 426.54944334919395
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:605",
+          "task": "depth",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 49.30836875015535,
+          "unit": "um",
+          "frozen_predicted": 54.28931212704215,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 97.31809215405099
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "SS316L",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 114,
+          "k": 104,
+          "q": 96.0766043526483,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1277",
+          "task": "depth",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 114,
+            "k": 104,
+            "q": 96.0766043526483,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 167.76437604852538,
+          "unit": "um",
+          "frozen_predicted": 167.76437604852538,
+          "update_form": null,
+          "lower": 71.68777169587707,
+          "upper": 263.8409804011737
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1277",
+          "task": "depth",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [],
+          "predicted": 166.64477138477858,
+          "unit": "um",
+          "frozen_predicted": 167.76437604852538,
+          "update_form": "shift",
+          "lower": 0.0,
+          "upper": 447.8812932008585
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1277",
+          "task": "depth",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [],
+          "predicted": 162.6246620254921,
+          "unit": "um",
+          "frozen_predicted": 167.76437604852538,
+          "update_form": "shift",
+          "lower": 13.593757730830902,
+          "upper": 327.3430299301177
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "depth",
+    "alloy": "Ti-6Al-4V",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 154,
+          "k": 140,
+          "q": 82.31042075781602,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1554",
+          "task": "depth",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 154,
+            "k": 140,
+            "q": 82.31042075781602,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 101.9352197837164,
+          "unit": "um",
+          "frozen_predicted": 101.9352197837164,
+          "update_form": null,
+          "lower": 19.624799025900387,
+          "upper": 184.24564054153242
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1554",
+          "task": "depth",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 146.5836674081627,
+          "unit": "um",
+          "frozen_predicted": 101.9352197837164,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 355.0583241242814
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:depth:1554",
+          "task": "depth",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 89.68380215081234,
+          "unit": "um",
+          "frozen_predicted": 101.9352197837164,
+          "update_form": "linear",
+          "lower": 0.0,
+          "upper": 320.1575871041657
+        },
+        "n_test_queries": 20
+      }
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "depth_alloys_with_more_than_one_property_value": [],
+  "depth_alloys_melting_T_not_equal_table_A10": [],
+  "width_alloys_with_more_than_one_property_value": [],
+  "width_alloys_melting_T_not_equal_table_A10": [],
+  "length_alloys_with_more_than_one_property_value": [],
+  "length_alloys_melting_T_not_equal_table_A10": [],
+  "classification_alloys_with_more_than_one_property_value": [
+    "IN718",
+    "SS316L",
+    "Ti-6Al-4V"
+  ],
+  "classification_alloys_melting_T_not_equal_table_A10": [
+    "IN718",
+    "SS316L",
+    "Ti-6Al-4V"
+  ],
+  "classification_tested_alloys": 4,
+  "classification_publications_per_tested_alloy_min_max": [
+    1,
+    3
+  ],
+  "classification_max_publications_shared_with_other_alloys": 1,
+  "depth_tested_alloys": 9,
+  "depth_publications_per_tested_alloy_min_max": [
+    1,
+    13
+  ],
+  "depth_max_publications_shared_with_other_alloys": 2,
+  "length_tested_alloys": 3,
+  "length_publications_per_tested_alloy_min_max": [
+    1,
+    1
+  ],
+  "length_max_publications_shared_with_other_alloys": 0,
+  "width_tested_alloys": 11,
+  "width_publications_per_tested_alloy_min_max": [
+    1,
+    13
+  ],
+  "width_max_publications_shared_with_other_alloys": 2,
+  "classification_loao_fitting_sets_larger_than_random_per_seed": [
+    [
+      1,
+      4,
+      428
+    ],
+    [
+      1,
+      4,
+      428
+    ],
+    [
+      1,
+      4,
+      428
+    ],
+    [
+      1,
+      4,
+      428
+    ],
+    [
+      1,
+      4,
+      428
+    ]
+  ],
+  "depth_loao_fitting_sets_larger_than_random_per_seed": [
+    [
+      8,
+      9,
+      589
+    ],
+    [
+      8,
+      9,
+      589
+    ],
+    [
+      8,
+      9,
+      589
+    ],
+    [
+      8,
+      9,
+      589
+    ],
+    [
+      8,
+      9,
+      589
+    ]
+  ],
+  "length_loao_fitting_sets_larger_than_random_per_seed": [
+    [
+      0,
+      3,
+      92
+    ],
+    [
+      0,
+      3,
+      92
+    ],
+    [
+      0,
+      3,
+      92
+    ],
+    [
+      0,
+      3,
+      92
+    ],
+    [
+      0,
+      3,
+      92
+    ]
+  ],
+  "width_loao_fitting_sets_larger_than_random_per_seed": [
+    [
+      10,
+      11,
+      689
+    ],
+    [
+      10,
+      11,
+      689
+    ],
+    [
+      10,
+      11,
+      689
+    ],
+    [
+      10,
+      11,
+      689
+    ],
+    [
+      10,
+      11,
+      689
+    ]
+  ]
+}

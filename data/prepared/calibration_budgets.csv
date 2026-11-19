@@ -1,0 +1,139 @@
+task,alloy,budget,min_eval,n,eligible
+depth,4140 steel,9,20,3,False
+depth,4140 steel,20,20,3,False
+depth,4140 steel,40,30,3,False
+depth,AlSi10Mg,9,20,29,True
+depth,AlSi10Mg,20,20,29,False
+depth,AlSi10Mg,40,30,29,False
+depth,HCP Cu,9,20,5,False
+depth,HCP Cu,20,20,5,False
+depth,HCP Cu,40,30,5,False
+depth,Hastelloy X,9,20,41,True
+depth,Hastelloy X,20,20,41,True
+depth,Hastelloy X,40,30,41,False
+depth,IN625,9,20,94,True
+depth,IN625,20,20,94,True
+depth,IN625,40,30,94,True
+depth,IN718,9,20,40,True
+depth,IN718,20,20,40,True
+depth,IN718,40,30,40,False
+depth,IN738LC,9,20,50,True
+depth,IN738LC,20,20,50,True
+depth,IN738LC,40,30,50,False
+depth,MS1-,9,20,12,False
+depth,MS1-,20,20,12,False
+depth,MS1-,40,30,12,False
+depth,SS17-4PH,9,20,94,True
+depth,SS17-4PH,20,20,94,True
+depth,SS17-4PH,40,30,94,True
+depth,SS304L,9,20,6,False
+depth,SS304L,20,20,6,False
+depth,SS304L,40,30,6,False
+depth,SS316L,9,20,354,True
+depth,SS316L,20,20,354,True
+depth,SS316L,40,30,354,True
+depth,Ti-49Al-2Cr-2Nb,9,20,20,False
+depth,Ti-49Al-2Cr-2Nb,20,20,20,False
+depth,Ti-49Al-2Cr-2Nb,40,30,20,False
+depth,Ti-6Al-4V,9,20,154,True
+depth,Ti-6Al-4V,20,20,154,True
+depth,Ti-6Al-4V,40,30,154,True
+depth,TiC/Inconel 718,9,20,8,False
+depth,TiC/Inconel 718,20,20,8,False
+depth,TiC/Inconel 718,40,30,8,False
+depth,WE43,9,20,12,False
+depth,WE43,20,20,12,False
+depth,WE43,40,30,12,False
+width,AA7075,9,20,2,False
+width,AA7075,20,20,2,False
+width,AA7075,40,30,2,False
+width,AlSi10Mg,9,20,23,False
+width,AlSi10Mg,20,20,23,False
+width,AlSi10Mg,40,30,23,False
+width,Cu10Sn,9,20,35,True
+width,Cu10Sn,20,20,35,False
+width,Cu10Sn,40,30,35,False
+width,HCP Cu,9,20,14,False
+width,HCP Cu,20,20,14,False
+width,HCP Cu,40,30,14,False
+width,Hastelloy X,9,20,41,True
+width,Hastelloy X,20,20,41,True
+width,Hastelloy X,40,30,41,False
+width,IN625,9,20,92,True
+width,IN625,20,20,92,True
+width,IN625,40,30,92,True
+width,IN718,9,20,57,True
+width,IN718,20,20,57,True
+width,IN718,40,30,57,False
+width,IN738LC,9,20,50,True
+width,IN738LC,20,20,50,True
+width,IN738LC,40,30,50,False
+width,Invar36,9,20,18,False
+width,Invar36,20,20,18,False
+width,Invar36,40,30,18,False
+width,MS1-,9,20,12,False
+width,MS1-,20,20,12,False
+width,MS1-,40,30,12,False
+width,SS17-4PH,9,20,103,True
+width,SS17-4PH,20,20,103,True
+width,SS17-4PH,40,30,103,True
+width,SS304L,9,20,6,False
+width,SS304L,20,20,6,False
+width,SS304L,40,30,6,False
+width,SS316L,9,20,479,True
+width,SS316L,20,20,479,True
+width,SS316L,40,30,479,True
+width,Ti-49Al-2Cr-2Nb,9,20,20,False
+width,Ti-49Al-2Cr-2Nb,20,20,20,False
+width,Ti-49Al-2Cr-2Nb,40,30,20,False
+width,Ti-6Al-4V,9,20,82,True
+width,Ti-6Al-4V,20,20,82,True
+width,Ti-6Al-4V,40,30,82,True
+width,TiC/Inconel 718,9,20,8,False
+width,TiC/Inconel 718,20,20,8,False
+width,TiC/Inconel 718,40,30,8,False
+width,Tungsten,9,20,24,False
+width,Tungsten,20,20,24,False
+width,Tungsten,40,30,24,False
+width,WE43,9,20,12,False
+width,WE43,20,20,12,False
+width,WE43,40,30,12,False
+length,IN625,9,20,45,True
+length,IN625,20,20,45,True
+length,IN625,40,30,45,False
+length,IN718,9,20,3,False
+length,IN718,20,20,3,False
+length,IN718,40,30,3,False
+length,Invar36,9,20,9,False
+length,Invar36,20,20,9,False
+length,Invar36,40,30,9,False
+length,SS316L,9,20,30,True
+length,SS316L,20,20,30,False
+length,SS316L,40,30,30,False
+length,Ti-6Al-4V,9,20,49,True
+length,Ti-6Al-4V,20,20,49,True
+length,Ti-6Al-4V,40,30,49,False
+length,TiC/Inconel 718,9,20,8,False
+length,TiC/Inconel 718,20,20,8,False
+length,TiC/Inconel 718,40,30,8,False
+classification,AlSi10Mg,9,20,20,False
+classification,AlSi10Mg,20,20,20,False
+classification,AlSi10Mg,40,30,20,False
+classification,HCP Cu,9,20,5,False
+classification,HCP Cu,20,20,5,False
+classification,HCP Cu,40,30,5,False
+classification,IN718,9,20,148,True
+classification,IN718,20,20,148,True
+classification,IN718,40,30,148,True
+classification,SS316L,9,20,277,True
+classification,SS316L,20,20,277,True
+classification,SS316L,40,30,277,True
+classification,Ti-6Al-4V,9,20,209,True
+classification,Ti-6Al-4V,20,20,209,True
+classification,Ti-6Al-4V,40,30,209,True
+classification,TiC/Inconel 718,9,20,4,False
+classification,TiC/Inconel 718,20,20,4,False
+classification,TiC/Inconel 718,40,30,4,False
+classification,Tungsten,9,20,6,False
+classification,Tungsten,20,20,6,False
+classification,Tungsten,40,30,6,False

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Melt-pool research prototype</title>
+<style>
+:root{font-family:Segoe UI,Arial,sans-serif;color:#192b3b;background:#f2f5f8;font-size:15px}
+*{box-sizing:border-box}body{margin:0}header{background:#14334d;color:white;padding:27px max(24px,calc((100vw - 1260px)/2))}
+h1{margin:4px 0 8px;font-size:29px}h2{font-size:20px;margin:0 0 16px}h3{font-size:16px;margin:0 0 12px}
+header p{max-width:900px;margin:0;line-height:1.5;color:#d8e5f0}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:1.4px;color:#accee8}
+main{max-width:1308px;margin:auto;padding:24px}.controls,.card{background:white;border:1px solid #dce4ec;border-radius:12px;padding:21px}
+.controls{display:flex;gap:18px;align-items:end;flex-wrap:wrap;margin-bottom:20px}.controls label{min-width:170px}
+label{display:block;font-size:13px;color:#486072}select,input,textarea{display:block;width:100%;margin-top:6px;padding:9px;border:1px solid #b8c8d6;border-radius:5px;font:inherit;background:white;color:#192b3b}
+textarea{min-height:75px;font-size:12px}button{background:#22659b;color:#fff;border:0;border-radius:6px;padding:11px 16px;font:inherit;cursor:pointer}
+button.secondary{color:#22659b;background:#e9f1f7}button:disabled{opacity:.5;cursor:wait}.grid{display:grid;grid-template-columns:1.05fr 1fr;gap:20px}
+.fields{display:grid;grid-template-columns:1fr 1fr;gap:12px}.full{grid-column:1/-1}.muted{color:#5a6d7b;font-size:13px;line-height:1.5}
+.buttons{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}.result{padding:20px;background:#f0f6fb;border-radius:9px;margin-bottom:15px}
+.big{font-size:32px;line-height:1.3;font-weight:650}.tag{display:inline-block;background:#e4eef5;border-radius:16px;padding:5px 10px;color:#215779;font-size:12px}
+.range{font-size:19px;margin:8px 0}.warning{color:#84561a;background:#fff7e9;padding:10px;border-radius:6px;margin:8px 0;font-size:13px;line-height:1.5}
+#status{min-height:25px;margin:12px 0;color:#235979}#status.error{color:#a52b2b}.history{max-height:170px;overflow:auto;font-size:13px}
+table{width:100%;border-collapse:collapse;font-size:13px;margin-top:10px}th,td{padding:9px 8px;text-align:left;border-bottom:1px solid #dde5ed}
+th{color:#496171;font-weight:600;background:#f4f7fa}.section{margin-top:22px}img{width:100%;height:auto;display:block}
+.scope{margin-top:16px;font-size:12px;color:#697887}.summary{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+details{margin:12px 0}summary{cursor:pointer;color:#275e89}.measure{display:flex;gap:10px;align-items:end}.measure label{flex:1}
+@media(max-width:900px){.grid,.summary{grid-template-columns:1fr}.fields{grid-template-columns:1fr 1fr}header{padding:22px}main{padding:16px}}
+</style>
+</head>
+<body>
+<header><div class="eyebrow">Thesis C · computational research prototype</div><h1>Melt-pool predictions and measurement updates</h1>
+<p>Explore a saved model, add measurements and see how its uncertainty changes. Each output is evaluated separately. The model’s point prediction stays fixed during calibration.</p></header>
+<main>
+<div class="controls">
+<label>Output<select id="task"><option value="depth">Depth</option><option value="width">Width</option><option value="length">Length</option><option value="classification">Defect category</option></select></label>
+<label>Alloy excluded from training<select id="alloy"></select></label>
+<button id="load">Start a fresh session</button><div class="muted" id="scope">Choose a saved model to begin.</div>
+</div>
+<div id="status" aria-live="polite">Loading available models…</div>
+<div class="grid">
+<section class="card"><h2>1. Enter the process and material inputs</h2>
+<p class="muted">Inputs use the units shown. The starting example is a fixed evaluation record. Editing it creates a separate manual trial.</p>
+<form id="form"><div class="fields" id="fields"></div><div class="buttons"><button id="predict" type="submit">Predict</button><button id="restore" class="secondary" type="button">Restore evaluation example</button></div></form>
+<div class="scope">SLM process only. Width uses the inherited composition representation. Classification needs an audited material absorptivity coefficient.</div>
+</section>
+<section class="card"><h2>2. Inspect the prediction</h2><div id="prediction" class="result"><p class="muted">Start a session to display the prediction and uncertainty.</p></div>
+<div id="warnings"></div><h3>Calibration state</h3><div id="calibration" class="muted"></div>
+<p class="muted">The 90% level is a calibration target, not a guarantee for every alloy or input. Fewer than nine target measurements give an unbounded regression interval under this rule.</p>
+</section>
+<section class="card"><h2>3. Add a measurement</h2>
+<p class="muted">The replay button reveals one permitted historical observation after recording its prediction. Fixed evaluation labels are excluded from updates.</p>
+<div class="buttons"><button id="next">Reveal next replay measurement</button><button id="nine" class="secondary">Replay to 9</button><button id="twenty" class="secondary">Replay to 20</button></div>
+<details><summary>Add a measurement for a manual input trial</summary>
+<p class="muted">First edit the inputs and predict. Manual measurements update this session only; they never enter the frozen experiment results.</p>
+<div class="measure"><label>Measured value<input id="measurement" placeholder="µm, or a supported category"></label><button id="observe">Add measurement</button></div>
+</details>
+<div class="buttons"><button id="save" class="secondary">Save session</button><button id="reload" class="secondary">Reload saved session</button></div>
+</section>
+<section class="card"><h2>4. Trace the updates</h2><div id="history" class="history"></div>
+<p class="muted">Each update replaces source calibration with the target measurements collected so far. It changes the interval or category set, without retraining the predictor.</p>
+</section>
+</div>
+<section class="card section"><h2>Completed experiment results</h2>
+<p class="muted">These are the Chapter 6 results: equal weight for each alloy, averaged over five model seeds and the measurement draws (geometry: 50 group-aware draws; defect class: 20 measurement orders). Your interactive session does not alter them.</p>
+<div id="results"></div><details open><summary>Depth: ML versus the calibrated simple predictor</summary><img src="/figures/01_depth_comparison.png" alt="Depth comparison of interval score, coverage and width across calibration budgets"></details>
+<details><summary>Why the interval score changes</summary><img src="/figures/03_interval_score_decomposition.png" alt="Depth interval score separated into width and penalties"></details>
+<details><summary>All geometry outputs</summary><img src="/figures/04_geometry_comparison.png" alt="Calibration results for depth, width and length"></details>
+<details><summary>Defect category sets</summary><img src="/figures/05_classification_sets.png" alt="Classification coverage and prediction set sizes"></details>
+</section>
+<p class="scope">Research prototype using existing experimental data. No live machine connection or validated manufacturing acceptance criterion. Geometry datasets and defect labels are separate tasks.</p>
+</main>
+<script>
+let catalogue, session, current, results, busy=false, edited=false, manualId=null;
+const $=id=>document.getElementById(id);
+function status(message,error=false){$('status').textContent=message;$('status').className=error?'error':''}
+function esc(v){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function fmt(x,n=2){return x==null?'—':Number(x).toFixed(n)}
+async function api(route,body){let r=await fetch('/api/'+route,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});let j=await r.json();if(!r.ok)throw Error(j.error);return j}
+async function run(fn){if(busy)return;busy=true;document.querySelectorAll('button').forEach(b=>b.disabled=true);try{await fn()}catch(e){status(e.message,true)}finally{busy=false;document.querySelectorAll('button').forEach(b=>b.disabled=false)}}
+function alloys(){let options=catalogue.tasks[$('task').value];$('alloy').innerHTML=options.map(x=>`<option>${esc(x.alloy)}</option>`).join('');let paired=options.find(x=>x.paired);if(paired)$('alloy').value=paired.alloy}
+function form(){let raw=session.sample;$('fields').innerHTML=session.required.map(k=>`<label>${esc(catalogue.fields[k].label)} (${esc(catalogue.fields[k].unit)})<input type="number" step="any" min="0" required data-field="${k}" value="${raw[k]}"></label>`).join('');if(raw.composition_wt_pct)$('fields').innerHTML+=`<label class="full">Composition (element: weight %)<textarea id="composition">${esc(JSON.stringify(raw.composition_wt_pct))}</textarea></label>`;edited=false;manualId=null;$('form').oninput=()=>{edited=true;manualId=null}}
+function readraw(){let raw={alloy:session.alloy,process:'SLM'};session.required.forEach(k=>raw[k]=Number(document.querySelector(`[data-field="${k}"]`).value));if($('composition'))raw.composition_wt_pct=JSON.parse($('composition').value);return raw}
+function showstate(){let s=session.state;let geo=session.task!=='classification';let tag=s.phase==='source'?'Source calibration':(geo?'Target measurements, model update':'Target measurements');let rng=r=>r.phase==='source'?fmt(r.q)+(geo?' µm':' score units'):(r.unbounded?'unbounded':(geo?'jackknife+, '+r.choice+' update':fmt(r.q)+' score units'));$('calibration').innerHTML=`<span class="tag">${esc(tag)}</span> · version ${s.version} · ${s.n_cal} calibration records<br>Range: ${esc(rng(s))}`;$('scope').textContent=session.model_scope;$('history').innerHTML='<table><tr><th>Version</th><th>Records</th><th>Range</th></tr>'+session.history.map(r=>`<tr><td>${r.version}</td><td>${r.n_cal}</td><td>${esc(rng(r))}</td></tr>`).join('')+'</table>';showresults()}
+function showprediction(p){current=p;if(session.task==='classification'){$('prediction').innerHTML=`<span class="tag">${esc(p.role.replaceAll('_',' '))}</span><div class="big">${esc(p.predicted)}</div><div class="range">Category set: ${p.category_set.length?p.category_set.map(esc).join(', '):'empty'}</div>`}else{$('prediction').innerHTML=`<span class="tag">${esc(p.role.replaceAll('_',' '))}</span><div class="big">${fmt(p.predicted)} µm</div><div class="range">${p.lower==null?'Unbounded interval':fmt(p.lower)+' to '+fmt(p.upper)+' µm'}</div>`+(p.update_form?`<div class="muted">Frozen model: ${fmt(p.frozen_predicted)} µm · ${esc(p.update_form)} update</div>`:'')}$('warnings').innerHTML=p.warnings.map(w=>`<div class="warning">${esc(w)}</div>`).join('')}
+async function predict(){let raw=readraw();if(edited&&!manualId)manualId='manual:'+crypto.randomUUID();let id=edited?manualId:session.sample_id;let p=await api('query',{session_id:session.session_id,query_id:id,raw,role:edited?'prospective':'fixed_test'});showprediction(p)}
+async function refresh(){showstate();await predict()}
+async function start(){status('Loading the saved model…');session=await api('create',{task:$('task').value,alloy:$('alloy').value});form();await refresh();status('Model ready. The evaluation example is protected from measurement updates.')}
+async function reveal(target){if(!session)throw Error('Start a session first');if(target>session.max_demo_measurements)throw Error('This alloy supports only nine replay measurements.');do{session=await api('reveal',{session_id:session.session_id});showstate()}while(session.state.version<target);await predict();status(`${session.state.version} measurements applied.`+(session.task==='classification'?' Class sets recalibrated.':(session.state.unbounded?' Fewer than nine: no update yet.':' Prediction updated ('+session.state.choice+' form).')))}
+function showresults(){if(!results||!session)return;let cls=session.task==='classification';if(cls){let rows=results.classification;$('results').innerHTML=`<table><tr><th>Predictor</th><th>Measurements</th><th>Coverage</th><th>Mean set size</th><th>All-four fraction</th></tr>`+rows.map(r=>`<tr><td>${r.predictor==='ml'?'ML':'Simple'}</td><td>${r.budget}</td><td>${fmt(r.coverage*100)}%</td><td>${fmt(r.mean_set_size)}</td><td>${fmt(r.full_set_fraction*100)}%</td></tr>`).join('')+'</table>'}else{let name={source_split:'Calibration on other alloys',target_split:'Target calibration',ml_auto_jk:'ML + automatic update (proposed)'};let rows=results.geometry.filter(r=>r.task===session.task);$('results').innerHTML=`<table><tr><th>Method</th><th>Measurements</th><th>Coverage</th><th>Interval score (µm)</th><th>Mean width (µm)</th></tr>`+rows.map(r=>`<tr><td>${esc(name[r.method])}</td><td>${r.budget}</td><td>${fmt(r.coverage*100)}%</td><td>${fmt(r.interval_score)}</td><td>${fmt(r.mean_width)}</td></tr>`).join('')+'</table>'}}
+$('task').onchange=()=>{alloys()};$('load').onclick=()=>run(start);
+$('form').onsubmit=e=>{e.preventDefault();run(async()=>{if(!session)throw Error('Start a session first');await predict();status(edited?'Manual input trial recorded.':'Evaluation prediction refreshed.')})};
+$('restore').onclick=()=>run(async()=>{form();await predict();status('Evaluation example restored.')});
+$('next').onclick=()=>run(()=>reveal((session?.state.version||0)+1));$('nine').onclick=()=>run(()=>{if(session.state.version>=9)throw Error('This session already has at least nine measurements.');return reveal(9)});$('twenty').onclick=()=>run(()=>{if(session.state.version>=20)throw Error('This session already has twenty measurements.');return reveal(20)});
+$('observe').onclick=()=>run(async()=>{if(!current)throw Error('Predict first');let value=session.task==='classification'?$('measurement').value:Number($('measurement').value);if(!$('measurement').value.trim())throw Error('Enter a measurement');session=await api('observe',{session_id:session.session_id,query_id:current.query_id,value,unit:session.task==='classification'?'category':'um'});await refresh();status('Measurement recorded.')});
+$('save').onclick=()=>run(async()=>{session=await api('save',{session_id:session.session_id});status('Session saved with its predictions, measurements and history.')});
+$('reload').onclick=()=>run(async()=>{session=await api('reload',{session_id:session.session_id});form();await refresh();status('Saved session reloaded and checked against the model.')});
+(async()=>{catalogue=await(await fetch('/api/catalogue')).json();results=await(await fetch('/api/results')).json();alloys();await run(start)})().catch(e=>status(e.message,true));
+</script>
+</body></html>

@@ -1,0 +1,845 @@
+[
+  {
+    "task": "width",
+    "alloy": "Cu10Sn",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 209,
+          "k": 189,
+          "q": 72.71949750575448,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1362",
+          "task": "width",
+          "alloy": "Cu10Sn",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 209,
+            "k": 189,
+            "q": 72.71949750575448,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 297.777403987175,
+          "unit": "um",
+          "frozen_predicted": 297.777403987175,
+          "update_form": null,
+          "lower": 225.0579064814205,
+          "upper": 370.49690149292945
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1362",
+          "task": "width",
+          "alloy": "Cu10Sn",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 259.9901114651686,
+          "unit": "um",
+          "frozen_predicted": 297.777403987175,
+          "update_form": "linear",
+          "lower": 175.10248832592265,
+          "upper": 394.12014785796623
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "Hastelloy X",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 208,
+          "k": 189,
+          "q": 59.1385967675904,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:638",
+          "task": "width",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 208,
+            "k": 189,
+            "q": 59.1385967675904,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 94.75%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 121.56067847103378,
+          "unit": "um",
+          "frozen_predicted": 121.56067847103378,
+          "update_form": null,
+          "lower": 62.42208170344338,
+          "upper": 180.69927523862418
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:638",
+          "task": "width",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 94.75%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 109.74821240077694,
+          "unit": "um",
+          "frozen_predicted": 121.56067847103378,
+          "update_form": "linear",
+          "lower": 84.68640150037024,
+          "upper": 141.57498007795039
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:638",
+          "task": "width",
+          "alloy": "Hastelloy X",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 94.75%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 107.00892105381534,
+          "unit": "um",
+          "frozen_predicted": 121.56067847103378,
+          "update_form": "linear",
+          "lower": 85.0,
+          "upper": 131.5201815002545
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "IN625",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 198,
+          "k": 180,
+          "q": 65.05680150233559,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1323",
+          "task": "width",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 198,
+            "k": 180,
+            "q": 65.05680150233559,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 98.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 166.6006254203248,
+          "unit": "um",
+          "frozen_predicted": 166.6006254203248,
+          "update_form": null,
+          "lower": 101.54382391798922,
+          "upper": 231.6574269226604
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1323",
+          "task": "width",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "Composition totals 98.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 169.73565375668812,
+          "unit": "um",
+          "frozen_predicted": 166.6006254203248,
+          "update_form": "shift",
+          "lower": 31.465482272411947,
+          "upper": 271.25108522316367
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1323",
+          "task": "width",
+          "alloy": "IN625",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 98.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 162.75774448049106,
+          "unit": "um",
+          "frozen_predicted": 166.6006254203248,
+          "update_form": "linear",
+          "lower": 86.4767618851001,
+          "upper": 251.01301375482322
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "IN718",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 205,
+          "k": 186,
+          "q": 65.58382475510226,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:985",
+          "task": "width",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 205,
+            "k": 186,
+            "q": 65.58382475510226,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 85.80%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 146.41373155743895,
+          "unit": "um",
+          "frozen_predicted": 146.41373155743895,
+          "update_form": null,
+          "lower": 80.8299068023367,
+          "upper": 211.9975563125412
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:985",
+          "task": "width",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 85.80%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 143.48790741234228,
+          "unit": "um",
+          "frozen_predicted": 146.41373155743895,
+          "update_form": "linear",
+          "lower": 117.91072527283669,
+          "upper": 175.17831675530886
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:985",
+          "task": "width",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "Composition totals 85.80%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 136.0894788469137,
+          "unit": "um",
+          "frozen_predicted": 146.41373155743895,
+          "update_form": "shift",
+          "lower": 0.0,
+          "upper": 433.1679328018478
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "IN738LC",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 206,
+          "k": 187,
+          "q": 54.39502781408146,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1546",
+          "task": "width",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 206,
+            "k": 187,
+            "q": 54.39502781408146,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 96.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 247.58677020260774,
+          "unit": "um",
+          "frozen_predicted": 247.58677020260774,
+          "update_form": null,
+          "lower": 193.19174238852628,
+          "upper": 301.9817980166892
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1546",
+          "task": "width",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "Composition totals 96.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 264.2854943815382,
+          "unit": "um",
+          "frozen_predicted": 247.58677020260774,
+          "update_form": "shift",
+          "lower": 125.77818929560792,
+          "upper": 320.83072894372583
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1546",
+          "task": "width",
+          "alloy": "IN738LC",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 96.35%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 214.24848439479678,
+          "unit": "um",
+          "frozen_predicted": 247.58677020260774,
+          "update_form": "linear",
+          "lower": 151.84821878810044,
+          "upper": 268.50957467781853
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "SS17-4PH",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 195,
+          "k": 177,
+          "q": 69.16110985917501,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1241",
+          "task": "width",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 195,
+            "k": 177,
+            "q": 69.16110985917501,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 98.65%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 140.82229539064033,
+          "unit": "um",
+          "frozen_predicted": 140.82229539064033,
+          "update_form": null,
+          "lower": 71.66118553146532,
+          "upper": 209.98340524981535
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1241",
+          "task": "width",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "Composition totals 98.65%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 161.57762627324306,
+          "unit": "um",
+          "frozen_predicted": 140.82229539064033,
+          "update_form": "shift",
+          "lower": 0.0,
+          "upper": 290.55469262735244
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "shift"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1241",
+          "task": "width",
+          "alloy": "SS17-4PH",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "shift"
+          },
+          "warnings": [
+            "Composition totals 98.65%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 204.92386470144356,
+          "unit": "um",
+          "frozen_predicted": 140.82229539064033,
+          "update_form": "shift",
+          "lower": 53.62225247750476,
+          "upper": 341.81579957072154
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "SS316L",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 120,
+          "k": 109,
+          "q": 43.12651060404977,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1685",
+          "task": "width",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 120,
+            "k": 109,
+            "q": 43.12651060404977,
+            "unbounded": false
+          },
+          "warnings": [
+            "Composition totals 97.70%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 443.7881050476896,
+          "unit": "um",
+          "frozen_predicted": 443.7881050476896,
+          "update_form": null,
+          "lower": 400.66159444363984,
+          "upper": 486.9146156517394
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1685",
+          "task": "width",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 97.70%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 239.45867409590488,
+          "unit": "um",
+          "frozen_predicted": 443.7881050476896,
+          "update_form": "linear",
+          "lower": 137.81456703868946,
+          "upper": 366.079936431695
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1685",
+          "task": "width",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [
+            "Composition totals 97.70%; unspecified fractions are zero under the inherited representation."
+          ],
+          "predicted": 248.9351718467854,
+          "unit": "um",
+          "frozen_predicted": 443.7881050476896,
+          "update_form": "linear",
+          "lower": 177.25566676385637,
+          "upper": 328.22177235694755
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "width",
+    "alloy": "Ti-6Al-4V",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 200,
+          "k": 181,
+          "q": 59.164515376456734,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1553",
+          "task": "width",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 200,
+            "k": 181,
+            "q": 59.164515376456734,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": 88.8727187106907,
+          "unit": "um",
+          "frozen_predicted": 88.8727187106907,
+          "update_form": null,
+          "lower": 29.70820333423397,
+          "upper": 148.03723408714745
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_update",
+          "n_cal": 9,
+          "k": 9,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1553",
+          "task": "width",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_update",
+            "n_cal": 9,
+            "k": 9,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 110.7721598988704,
+          "unit": "um",
+          "frozen_predicted": 88.8727187106907,
+          "update_form": "linear",
+          "lower": 15.948353516042616,
+          "upper": 184.54520359776058
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_update",
+          "n_cal": 20,
+          "k": 19,
+          "unbounded": false,
+          "choice": "linear"
+        },
+        "example": {
+          "query_id": "meltpoolnet:regression:width:1553",
+          "task": "width",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_update",
+            "n_cal": 20,
+            "k": 19,
+            "unbounded": false,
+            "choice": "linear"
+          },
+          "warnings": [],
+          "predicted": 99.36350218632518,
+          "unit": "um",
+          "frozen_predicted": 88.8727187106907,
+          "update_form": "linear",
+          "lower": 10.196028488500417,
+          "upper": 156.99323262617418
+        },
+        "n_test_queries": 20
+      }
+    ]
+  }
+]

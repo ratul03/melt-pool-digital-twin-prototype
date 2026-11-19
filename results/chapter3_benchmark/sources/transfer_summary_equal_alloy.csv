@@ -1,0 +1,17 @@
+task,protocol,predictor,MAE,accuracy,n_alloys
+classification,leave_one_alloy_out,ml,,0.447425940960047,4
+classification,leave_one_alloy_out,simple,,0.47308194614388804,4
+classification,random,ml,,0.8084379000840037,4
+classification,random,simple,,0.46345235512165067,4
+depth,leave_one_alloy_out,ml,106.60805567278199,,9
+depth,leave_one_alloy_out,simple,95.20433494569241,,9
+depth,random,ml,29.305654457844675,,9
+depth,random,simple,92.37931230616508,,9
+length,leave_one_alloy_out,ml,560.8261390721987,,3
+length,leave_one_alloy_out,simple,473.4428581709447,,3
+length,random,ml,9.907020093639527,,3
+length,random,simple,334.99956873831485,,3
+width,leave_one_alloy_out,ml,79.0900233316697,,11
+width,leave_one_alloy_out,simple,74.87624283759037,,11
+width,random,ml,24.769813007950717,,11
+width,random,simple,69.23845963426356,,11

@@ -1,0 +1,4 @@
+task,budget,method,coverage,mean_width,interval_score,lower_penalty,upper_penalty,MAE,n_alloys,fraction_conditions_coverage_below_0.8,method_label
+depth,9,source_split,0.6463142857142856,134.27466300595992,1142.594126220573,675.8793741481342,332.44008906647895,97.05020872240212,7,0.6788571428571428,Calibration on other alloys (existing practice)
+length,9,source_split,0.0869,128.70123585407316,8592.280628010105,8312.312351871095,151.2670402849375,483.125927333542,2,0.986,Calibration on other alloys (existing practice)
+width,9,source_split,0.7690143692564745,124.11173226400103,425.6367681138543,184.21683921063428,117.308196639219,46.5341741285692,7,0.4188571428571429,Calibration on other alloys (existing practice)

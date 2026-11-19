@@ -1,0 +1,5 @@
+output,model,usable_rows,setting,features
+depth,NN,922,"hidden layers 64-32-64, ReLU, alpha 0.065533, target scaled",Power; Velocity; density; Cp; k; melting T; beam D; layer thickness
+width,GB,1078,495 estimators,Power; Velocity; density; Cp; k; melting T; proc_PBF; proc_DED; elem_atomic_number; elem_atomic_volume; elem_ionization_energy; elem_heat_of_fusion; elem_electron_affinity
+length,GB,144,353 estimators,Power; Velocity; density; Cp; k; melting T; proc_PBF; proc_DED; Hatch spacing
+classification,RFC,669,160 trees,Power; Velocity; beam D; density; Cp; k; melting T; absorptivity_1

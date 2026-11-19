@@ -1,0 +1,20 @@
+task,alloy,cohort,n_rows,n_condition_groups,largest_group
+depth,AlSi10Mg,secondary,29,29,1
+depth,Hastelloy X,primary,41,41,1
+depth,IN625,primary,94,51,7
+depth,IN718,primary,40,40,1
+depth,IN738LC,primary,50,50,1
+depth,SS17-4PH,primary,94,94,1
+depth,SS316L,primary,354,354,1
+depth,Ti-6Al-4V,primary,154,120,9
+width,Cu10Sn,secondary,35,35,1
+width,Hastelloy X,primary,41,12,4
+width,IN625,primary,92,49,7
+width,IN718,primary,57,53,2
+width,IN738LC,primary,50,49,2
+width,SS17-4PH,primary,103,94,2
+width,SS316L,primary,479,387,4
+width,Ti-6Al-4V,primary,82,50,9
+length,IN625,primary,45,45,1
+length,SS316L,secondary,30,30,1
+length,Ti-6Al-4V,primary,49,29,5

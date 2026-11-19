@@ -1,0 +1,35 @@
+[
+  {
+    "task": "depth",
+    "budget": 20,
+    "ml_interval_score_um": 697.7103237485527,
+    "simple_interval_score_um": 571.4854264483057,
+    "ml_minus_simple_interval_score_um": 126.224897300247,
+    "ml_coverage": 0.9365714285714286,
+    "simple_coverage": 0.8887857142857143,
+    "n_alloys": 7,
+    "alloys_favouring_ml_interval_score": 4
+  },
+  {
+    "task": "width",
+    "budget": 20,
+    "ml_interval_score_um": 294.0440583830321,
+    "simple_interval_score_um": 430.12467255435234,
+    "ml_minus_simple_interval_score_um": -136.08061417132024,
+    "ml_coverage": 0.9155,
+    "simple_coverage": 0.8523571428571428,
+    "n_alloys": 7,
+    "alloys_favouring_ml_interval_score": 4
+  },
+  {
+    "task": "length",
+    "budget": 20,
+    "ml_interval_score_um": 1148.6417687461992,
+    "simple_interval_score_um": 1180.9759096602263,
+    "ml_minus_simple_interval_score_um": -32.3341409140271,
+    "ml_coverage": 0.952,
+    "simple_coverage": 0.995,
+    "n_alloys": 2,
+    "alloys_favouring_ml_interval_score": 1
+  }
+]

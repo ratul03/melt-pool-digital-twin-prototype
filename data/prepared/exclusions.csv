@@ -1,0 +1,3194 @@
+task,row_id,reason,raw_label
+depth,157,missing_or_invalid:depth of meltpool,desirable
+depth,158,missing_or_invalid:depth of meltpool,
+depth,159,missing_or_invalid:depth of meltpool,
+depth,160,missing_or_invalid:depth of meltpool,desirable
+depth,161,missing_or_invalid:depth of meltpool,balling
+depth,162,missing_or_invalid:depth of meltpool,
+depth,163,missing_or_invalid:depth of meltpool,
+depth,164,missing_or_invalid:depth of meltpool,LOF
+depth,165,missing_or_invalid:depth of meltpool,
+depth,166,"missing_or_invalid:beam D,layer thickness",
+depth,167,"missing_or_invalid:beam D,layer thickness",
+depth,168,"missing_or_invalid:beam D,layer thickness",
+depth,169,"missing_or_invalid:beam D,layer thickness",
+depth,170,"missing_or_invalid:beam D,layer thickness",
+depth,171,"missing_or_invalid:beam D,layer thickness",
+depth,172,"missing_or_invalid:beam D,layer thickness",
+depth,173,"missing_or_invalid:beam D,layer thickness",
+depth,174,"missing_or_invalid:beam D,layer thickness",
+depth,175,missing_or_invalid:beam D,LOF
+depth,176,missing_or_invalid:beam D,LOF
+depth,177,missing_or_invalid:beam D,LOF
+depth,178,missing_or_invalid:beam D,desirable
+depth,179,missing_or_invalid:beam D,LOF
+depth,180,missing_or_invalid:beam D,LOF
+depth,181,missing_or_invalid:beam D,desirable
+depth,182,missing_or_invalid:beam D,
+depth,183,missing_or_invalid:beam D,LOF
+depth,184,missing_or_invalid:beam D,desirable
+depth,185,missing_or_invalid:beam D,
+depth,186,missing_or_invalid:beam D,LOF
+depth,497,missing_or_invalid:layer thickness,
+depth,498,missing_or_invalid:layer thickness,balling
+depth,499,missing_or_invalid:layer thickness,balling
+depth,500,missing_or_invalid:layer thickness,balling
+depth,576,missing_or_invalid:k,
+depth,577,missing_or_invalid:k,
+depth,578,missing_or_invalid:k,
+depth,579,missing_or_invalid:k,
+depth,610,"missing_or_invalid:density,Cp,k",
+depth,611,"missing_or_invalid:density,Cp,k",
+depth,612,"missing_or_invalid:density,Cp,k",
+depth,613,"missing_or_invalid:density,Cp,k",
+depth,614,"missing_or_invalid:density,Cp,k",
+depth,615,"missing_or_invalid:density,Cp,k",
+depth,616,"missing_or_invalid:density,Cp,k",
+depth,617,"missing_or_invalid:density,Cp,k",
+depth,618,"missing_or_invalid:density,Cp,k",
+depth,619,"missing_or_invalid:density,Cp,k",
+depth,620,"missing_or_invalid:density,Cp,k",
+depth,621,"missing_or_invalid:density,Cp,k",
+depth,622,"missing_or_invalid:density,Cp,k",
+depth,623,"missing_or_invalid:density,Cp,k",
+depth,624,"missing_or_invalid:density,Cp,k",
+depth,625,"missing_or_invalid:density,Cp,k",
+depth,626,"missing_or_invalid:density,Cp,k",
+depth,627,"missing_or_invalid:density,Cp,k",
+depth,628,"missing_or_invalid:density,Cp,k",
+depth,629,"missing_or_invalid:density,Cp,k",
+depth,630,"missing_or_invalid:density,Cp,k",
+depth,631,"missing_or_invalid:density,Cp,k",
+depth,632,"missing_or_invalid:density,Cp,k",
+depth,633,"missing_or_invalid:density,Cp,k",
+depth,634,"missing_or_invalid:density,Cp,k",
+depth,640,missing_or_invalid:beam D,
+depth,641,missing_or_invalid:beam D,
+depth,642,missing_or_invalid:beam D,
+depth,643,missing_or_invalid:beam D,LOF
+depth,644,missing_or_invalid:beam D,
+depth,645,missing_or_invalid:beam D,
+depth,646,missing_or_invalid:beam D,
+depth,647,missing_or_invalid:beam D,
+depth,648,missing_or_invalid:beam D,
+depth,649,missing_or_invalid:beam D,
+depth,650,missing_or_invalid:beam D,
+depth,651,missing_or_invalid:beam D,LOF
+depth,652,missing_or_invalid:layer thickness,LOF
+depth,653,missing_or_invalid:layer thickness,desirable
+depth,654,missing_or_invalid:layer thickness,keyhole
+depth,655,missing_or_invalid:layer thickness,keyhole
+depth,656,missing_or_invalid:layer thickness,keyhole
+depth,657,missing_or_invalid:layer thickness,desirable
+depth,658,missing_or_invalid:layer thickness,keyhole
+depth,659,missing_or_invalid:layer thickness,keyhole
+depth,660,missing_or_invalid:layer thickness,keyhole
+depth,661,missing_or_invalid:layer thickness,keyhole
+depth,662,missing_or_invalid:layer thickness,keyhole
+depth,663,missing_or_invalid:layer thickness,keyhole
+depth,664,missing_or_invalid:layer thickness,keyhole
+depth,665,missing_or_invalid:layer thickness,LOF
+depth,666,missing_or_invalid:layer thickness,desirable
+depth,667,missing_or_invalid:layer thickness,keyhole
+depth,668,missing_or_invalid:layer thickness,keyhole
+depth,669,missing_or_invalid:layer thickness,keyhole
+depth,670,missing_or_invalid:layer thickness,keyhole
+depth,671,missing_or_invalid:layer thickness,keyhole
+depth,672,missing_or_invalid:layer thickness,keyhole
+depth,673,missing_or_invalid:layer thickness,keyhole
+depth,674,missing_or_invalid:layer thickness,desirable
+depth,675,missing_or_invalid:layer thickness,keyhole
+depth,676,missing_or_invalid:layer thickness,keyhole
+depth,677,missing_or_invalid:layer thickness,keyhole
+depth,678,missing_or_invalid:layer thickness,keyhole
+depth,679,missing_or_invalid:layer thickness,keyhole
+depth,680,missing_or_invalid:layer thickness,keyhole
+depth,681,missing_or_invalid:layer thickness,keyhole
+depth,682,missing_or_invalid:layer thickness,keyhole
+depth,683,missing_or_invalid:layer thickness,keyhole
+depth,684,missing_or_invalid:layer thickness,keyhole
+depth,685,missing_or_invalid:layer thickness,keyhole
+depth,686,missing_or_invalid:layer thickness,keyhole
+depth,687,missing_or_invalid:layer thickness,keyhole
+depth,688,missing_or_invalid:layer thickness,keyhole
+depth,689,missing_or_invalid:layer thickness,keyhole
+depth,690,missing_or_invalid:layer thickness,keyhole
+depth,691,missing_or_invalid:layer thickness,keyhole
+depth,692,missing_or_invalid:layer thickness,desirable
+depth,693,missing_or_invalid:layer thickness,keyhole
+depth,694,missing_or_invalid:layer thickness,keyhole
+depth,695,missing_or_invalid:layer thickness,keyhole
+depth,696,missing_or_invalid:layer thickness,keyhole
+depth,697,missing_or_invalid:layer thickness,keyhole
+depth,698,missing_or_invalid:layer thickness,keyhole
+depth,699,missing_or_invalid:layer thickness,
+depth,700,missing_or_invalid:layer thickness,
+depth,701,missing_or_invalid:layer thickness,
+depth,702,missing_or_invalid:layer thickness,
+depth,703,missing_or_invalid:layer thickness,
+depth,704,missing_or_invalid:layer thickness,
+depth,705,missing_or_invalid:layer thickness,
+depth,706,missing_or_invalid:layer thickness,
+depth,707,missing_or_invalid:layer thickness,
+depth,708,missing_or_invalid:layer thickness,
+depth,709,missing_or_invalid:layer thickness,
+depth,710,missing_or_invalid:layer thickness,
+depth,711,missing_or_invalid:layer thickness,
+depth,712,missing_or_invalid:layer thickness,
+depth,713,missing_or_invalid:layer thickness,
+depth,714,missing_or_invalid:layer thickness,
+depth,715,missing_or_invalid:layer thickness,
+depth,716,missing_or_invalid:layer thickness,
+depth,717,missing_or_invalid:layer thickness,
+depth,718,missing_or_invalid:layer thickness,
+depth,719,missing_or_invalid:layer thickness,
+depth,720,missing_or_invalid:layer thickness,
+depth,721,missing_or_invalid:layer thickness,
+depth,728,missing_or_invalid:depth of meltpool,
+depth,729,missing_or_invalid:depth of meltpool,
+depth,730,missing_or_invalid:depth of meltpool,
+depth,731,missing_or_invalid:depth of meltpool,
+depth,732,missing_or_invalid:depth of meltpool,
+depth,733,missing_or_invalid:depth of meltpool,
+depth,734,missing_or_invalid:depth of meltpool,
+depth,735,missing_or_invalid:depth of meltpool,
+depth,736,missing_or_invalid:depth of meltpool,
+depth,737,missing_or_invalid:depth of meltpool,
+depth,738,missing_or_invalid:depth of meltpool,
+depth,739,missing_or_invalid:depth of meltpool,
+depth,740,missing_or_invalid:depth of meltpool,
+depth,741,missing_or_invalid:depth of meltpool,
+depth,772,missing_or_invalid:layer thickness,keyhole
+depth,773,missing_or_invalid:layer thickness,keyhole
+depth,774,missing_or_invalid:layer thickness,keyhole
+depth,775,missing_or_invalid:layer thickness,keyhole
+depth,776,missing_or_invalid:layer thickness,keyhole
+depth,777,missing_or_invalid:layer thickness,keyhole
+depth,778,missing_or_invalid:layer thickness,keyhole
+depth,779,missing_or_invalid:layer thickness,keyhole
+depth,780,missing_or_invalid:layer thickness,keyhole
+depth,781,missing_or_invalid:layer thickness,keyhole
+depth,782,missing_or_invalid:layer thickness,keyhole
+depth,828,"missing_or_invalid:beam D,layer thickness",
+depth,829,"missing_or_invalid:beam D,layer thickness",
+depth,830,"missing_or_invalid:beam D,layer thickness",
+depth,831,"missing_or_invalid:beam D,layer thickness",
+depth,832,"missing_or_invalid:beam D,layer thickness",
+depth,833,"missing_or_invalid:beam D,layer thickness",
+depth,834,"missing_or_invalid:beam D,layer thickness",
+depth,835,"missing_or_invalid:beam D,layer thickness",
+depth,836,"missing_or_invalid:beam D,layer thickness",
+depth,847,missing_or_invalid:layer thickness,
+depth,848,missing_or_invalid:layer thickness,
+depth,849,missing_or_invalid:layer thickness,
+depth,850,missing_or_invalid:layer thickness,
+depth,851,missing_or_invalid:layer thickness,
+depth,852,missing_or_invalid:layer thickness,
+depth,853,missing_or_invalid:layer thickness,
+depth,986,missing_or_invalid:depth of meltpool,
+depth,987,missing_or_invalid:layer thickness,
+depth,988,missing_or_invalid:layer thickness,
+depth,989,missing_or_invalid:layer thickness,
+depth,990,missing_or_invalid:layer thickness,
+depth,991,missing_or_invalid:layer thickness,
+depth,992,missing_or_invalid:layer thickness,
+depth,993,missing_or_invalid:layer thickness,
+depth,994,missing_or_invalid:layer thickness,
+depth,995,missing_or_invalid:layer thickness,
+depth,999,missing_or_invalid:depth of meltpool,
+depth,1004,missing_or_invalid:depth of meltpool,
+depth,1018,missing_or_invalid:depth of meltpool,
+depth,1019,missing_or_invalid:depth of meltpool,
+depth,1154,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1155,missing_or_invalid:layer thickness,
+depth,1156,missing_or_invalid:layer thickness,
+depth,1157,missing_or_invalid:layer thickness,
+depth,1158,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1159,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1160,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1161,missing_or_invalid:layer thickness,
+depth,1162,missing_or_invalid:layer thickness,
+depth,1163,missing_or_invalid:layer thickness,
+depth,1164,missing_or_invalid:layer thickness,
+depth,1165,missing_or_invalid:layer thickness,
+depth,1166,missing_or_invalid:layer thickness,
+depth,1167,missing_or_invalid:layer thickness,
+depth,1168,missing_or_invalid:layer thickness,balling
+depth,1169,missing_or_invalid:layer thickness,
+depth,1170,missing_or_invalid:layer thickness,
+depth,1171,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1172,missing_or_invalid:layer thickness,balling
+depth,1173,missing_or_invalid:layer thickness,balling
+depth,1174,"missing_or_invalid:layer thickness,depth of meltpool",
+depth,1175,missing_or_invalid:layer thickness,balling
+depth,1176,missing_or_invalid:layer thickness,balling
+depth,1177,missing_or_invalid:layer thickness,balling
+depth,1184,missing_or_invalid:layer thickness,
+depth,1185,missing_or_invalid:layer thickness,
+depth,1186,missing_or_invalid:layer thickness,
+depth,1187,missing_or_invalid:layer thickness,
+depth,1188,missing_or_invalid:layer thickness,
+depth,1189,missing_or_invalid:layer thickness,
+depth,1190,missing_or_invalid:layer thickness,
+depth,1191,missing_or_invalid:layer thickness,
+depth,1192,missing_or_invalid:layer thickness,
+depth,1193,missing_or_invalid:layer thickness,
+depth,1194,missing_or_invalid:layer thickness,
+depth,1195,missing_or_invalid:layer thickness,
+depth,1196,missing_or_invalid:layer thickness,
+depth,1217,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1218,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",
+depth,1219,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1220,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1221,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1222,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",
+depth,1223,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1224,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1225,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1226,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1227,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1228,"missing_or_invalid:density,Cp,k,beam D",LOF
+depth,1229,"missing_or_invalid:density,Cp,k,beam D",desirable
+depth,1230,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1231,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",
+depth,1232,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1233,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",desirable
+depth,1234,"missing_or_invalid:density,Cp,k,beam D",desirable
+depth,1235,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1236,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1237,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1238,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1239,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1240,"missing_or_invalid:density,Cp,k,beam D,depth of meltpool",LOF
+depth,1241,missing_or_invalid:beam D,
+depth,1242,missing_or_invalid:beam D,
+depth,1243,missing_or_invalid:beam D,
+depth,1244,missing_or_invalid:beam D,
+depth,1245,missing_or_invalid:beam D,
+depth,1246,missing_or_invalid:beam D,
+depth,1247,missing_or_invalid:beam D,
+depth,1248,missing_or_invalid:beam D,
+depth,1249,missing_or_invalid:beam D,
+depth,1280,"missing_or_invalid:beam D,layer thickness",keyhole
+depth,1281,"missing_or_invalid:beam D,layer thickness",desirable
+depth,1307,missing_or_invalid:depth of meltpool,LOF
+depth,1308,missing_or_invalid:depth of meltpool,LOF
+depth,1327,missing_or_invalid:depth of meltpool,
+depth,1328,missing_or_invalid:beam D,
+depth,1329,missing_or_invalid:beam D,
+depth,1330,missing_or_invalid:beam D,
+depth,1331,missing_or_invalid:beam D,
+depth,1332,missing_or_invalid:beam D,
+depth,1333,missing_or_invalid:beam D,
+depth,1334,missing_or_invalid:beam D,
+depth,1335,missing_or_invalid:beam D,
+depth,1336,missing_or_invalid:beam D,
+depth,1337,missing_or_invalid:beam D,
+depth,1338,missing_or_invalid:beam D,
+depth,1339,missing_or_invalid:beam D,
+depth,1340,missing_or_invalid:beam D,
+depth,1341,missing_or_invalid:beam D,
+depth,1342,missing_or_invalid:beam D,
+depth,1343,missing_or_invalid:beam D,
+depth,1344,missing_or_invalid:beam D,
+depth,1345,missing_or_invalid:beam D,
+depth,1346,missing_or_invalid:beam D,
+depth,1347,missing_or_invalid:beam D,
+depth,1348,missing_or_invalid:beam D,
+depth,1349,missing_or_invalid:beam D,
+depth,1350,missing_or_invalid:beam D,
+depth,1351,missing_or_invalid:beam D,
+depth,1352,missing_or_invalid:beam D,
+depth,1353,missing_or_invalid:beam D,
+depth,1354,missing_or_invalid:beam D,
+depth,1355,missing_or_invalid:beam D,
+depth,1356,missing_or_invalid:beam D,
+depth,1357,missing_or_invalid:beam D,
+depth,1358,missing_or_invalid:beam D,
+depth,1359,missing_or_invalid:beam D,
+depth,1360,missing_or_invalid:beam D,
+depth,1361,missing_or_invalid:beam D,
+depth,1362,missing_or_invalid:beam D,
+depth,1363,"missing_or_invalid:beam D,depth of meltpool",
+depth,1364,"missing_or_invalid:beam D,depth of meltpool",
+depth,1365,"missing_or_invalid:beam D,depth of meltpool",
+depth,1366,"missing_or_invalid:beam D,depth of meltpool",
+depth,1367,"missing_or_invalid:beam D,depth of meltpool",
+depth,1368,"missing_or_invalid:beam D,depth of meltpool",
+depth,1369,"missing_or_invalid:beam D,depth of meltpool",
+depth,1370,"missing_or_invalid:beam D,depth of meltpool",
+depth,1371,"missing_or_invalid:beam D,depth of meltpool",
+depth,1372,"missing_or_invalid:beam D,depth of meltpool",
+depth,1373,"missing_or_invalid:beam D,depth of meltpool",
+depth,1374,"missing_or_invalid:beam D,depth of meltpool",
+depth,1375,"missing_or_invalid:beam D,depth of meltpool",
+depth,1376,"missing_or_invalid:beam D,depth of meltpool",
+depth,1377,"missing_or_invalid:beam D,depth of meltpool",
+depth,1378,"missing_or_invalid:beam D,depth of meltpool",
+depth,1379,"missing_or_invalid:beam D,depth of meltpool",
+depth,1380,"missing_or_invalid:beam D,depth of meltpool",
+depth,1381,"missing_or_invalid:beam D,depth of meltpool",
+depth,1382,"missing_or_invalid:beam D,depth of meltpool",
+depth,1383,"missing_or_invalid:beam D,depth of meltpool",
+depth,1384,"missing_or_invalid:beam D,depth of meltpool",
+depth,1385,"missing_or_invalid:beam D,depth of meltpool",
+depth,1386,"missing_or_invalid:beam D,depth of meltpool",
+depth,1387,"missing_or_invalid:beam D,depth of meltpool",
+depth,1388,"missing_or_invalid:beam D,depth of meltpool",
+depth,1389,"missing_or_invalid:beam D,depth of meltpool",
+depth,1390,"missing_or_invalid:beam D,depth of meltpool",
+depth,1391,"missing_or_invalid:beam D,depth of meltpool",
+depth,1392,"missing_or_invalid:beam D,depth of meltpool",
+depth,1393,"missing_or_invalid:beam D,depth of meltpool",
+depth,1394,"missing_or_invalid:beam D,depth of meltpool",
+depth,1395,"missing_or_invalid:beam D,depth of meltpool",
+depth,1396,"missing_or_invalid:beam D,depth of meltpool",
+depth,1397,"missing_or_invalid:beam D,depth of meltpool",
+depth,1398,"missing_or_invalid:beam D,depth of meltpool",
+depth,1399,"missing_or_invalid:beam D,depth of meltpool",
+depth,1400,"missing_or_invalid:beam D,depth of meltpool",
+depth,1401,"missing_or_invalid:beam D,depth of meltpool",
+depth,1402,"missing_or_invalid:beam D,depth of meltpool",
+depth,1403,"missing_or_invalid:beam D,depth of meltpool",
+depth,1404,"missing_or_invalid:beam D,depth of meltpool",
+depth,1405,"missing_or_invalid:beam D,depth of meltpool",
+depth,1406,"missing_or_invalid:beam D,depth of meltpool",
+depth,1407,"missing_or_invalid:beam D,depth of meltpool",
+depth,1408,"missing_or_invalid:beam D,depth of meltpool",
+depth,1409,"missing_or_invalid:beam D,depth of meltpool",
+depth,1410,"missing_or_invalid:beam D,depth of meltpool",
+depth,1411,"missing_or_invalid:beam D,depth of meltpool",
+depth,1412,"missing_or_invalid:beam D,depth of meltpool",
+depth,1413,"missing_or_invalid:beam D,depth of meltpool",
+depth,1414,"missing_or_invalid:beam D,depth of meltpool",
+depth,1415,"missing_or_invalid:beam D,depth of meltpool",
+depth,1416,"missing_or_invalid:beam D,depth of meltpool",
+depth,1417,"missing_or_invalid:beam D,depth of meltpool",
+depth,1418,"missing_or_invalid:beam D,depth of meltpool",
+depth,1419,"missing_or_invalid:beam D,depth of meltpool",
+depth,1420,"missing_or_invalid:beam D,depth of meltpool",
+depth,1421,"missing_or_invalid:beam D,depth of meltpool",
+depth,1422,"missing_or_invalid:beam D,depth of meltpool",
+depth,1423,"missing_or_invalid:beam D,depth of meltpool",
+depth,1424,"missing_or_invalid:beam D,depth of meltpool",
+depth,1425,"missing_or_invalid:beam D,depth of meltpool",
+depth,1426,"missing_or_invalid:beam D,depth of meltpool",
+depth,1427,"missing_or_invalid:beam D,depth of meltpool",
+depth,1428,"missing_or_invalid:beam D,depth of meltpool",
+depth,1429,"missing_or_invalid:beam D,depth of meltpool",
+depth,1430,"missing_or_invalid:beam D,depth of meltpool",
+depth,1431,"missing_or_invalid:beam D,depth of meltpool",
+depth,1432,"missing_or_invalid:beam D,depth of meltpool",
+depth,1433,"missing_or_invalid:beam D,depth of meltpool",
+depth,1434,"missing_or_invalid:beam D,depth of meltpool",
+depth,1435,"missing_or_invalid:beam D,depth of meltpool",
+depth,1436,"missing_or_invalid:beam D,depth of meltpool",
+depth,1437,"missing_or_invalid:beam D,depth of meltpool",
+depth,1438,"missing_or_invalid:beam D,depth of meltpool",
+depth,1439,"missing_or_invalid:beam D,depth of meltpool",
+depth,1440,"missing_or_invalid:beam D,depth of meltpool",
+depth,1441,"missing_or_invalid:beam D,depth of meltpool",
+depth,1442,"missing_or_invalid:beam D,depth of meltpool",
+depth,1443,"missing_or_invalid:beam D,depth of meltpool",
+depth,1444,"missing_or_invalid:beam D,depth of meltpool",
+depth,1445,"missing_or_invalid:beam D,depth of meltpool",
+depth,1446,"missing_or_invalid:beam D,depth of meltpool",
+depth,1447,"missing_or_invalid:beam D,depth of meltpool",
+depth,1448,"missing_or_invalid:beam D,depth of meltpool",
+depth,1449,"missing_or_invalid:beam D,depth of meltpool",
+depth,1450,"missing_or_invalid:beam D,depth of meltpool",
+depth,1451,"missing_or_invalid:beam D,depth of meltpool",
+depth,1452,"missing_or_invalid:beam D,depth of meltpool",
+depth,1453,"missing_or_invalid:beam D,depth of meltpool",
+depth,1454,"missing_or_invalid:beam D,depth of meltpool",
+depth,1455,"missing_or_invalid:beam D,depth of meltpool",
+depth,1456,"missing_or_invalid:beam D,depth of meltpool",
+depth,1457,"missing_or_invalid:beam D,depth of meltpool",
+depth,1458,"missing_or_invalid:beam D,depth of meltpool",
+depth,1459,"missing_or_invalid:beam D,depth of meltpool",
+depth,1460,"missing_or_invalid:beam D,depth of meltpool",
+depth,1461,"missing_or_invalid:beam D,depth of meltpool",
+depth,1462,"missing_or_invalid:beam D,depth of meltpool",
+depth,1463,"missing_or_invalid:beam D,depth of meltpool",
+depth,1464,"missing_or_invalid:beam D,depth of meltpool",
+depth,1465,"missing_or_invalid:beam D,depth of meltpool",
+depth,1466,"missing_or_invalid:beam D,depth of meltpool",
+depth,1467,"missing_or_invalid:beam D,depth of meltpool",
+depth,1468,"missing_or_invalid:beam D,depth of meltpool",
+depth,1469,"missing_or_invalid:beam D,depth of meltpool",
+depth,1470,"missing_or_invalid:beam D,depth of meltpool",
+depth,1471,"missing_or_invalid:beam D,depth of meltpool",
+depth,1472,"missing_or_invalid:beam D,depth of meltpool",
+depth,1473,"missing_or_invalid:beam D,depth of meltpool",
+depth,1474,"missing_or_invalid:beam D,depth of meltpool",
+depth,1475,"missing_or_invalid:beam D,depth of meltpool",
+depth,1476,"missing_or_invalid:beam D,depth of meltpool",
+depth,1477,"missing_or_invalid:beam D,depth of meltpool",
+depth,1478,"missing_or_invalid:beam D,depth of meltpool",
+depth,1479,"missing_or_invalid:beam D,depth of meltpool",
+depth,1480,"missing_or_invalid:beam D,depth of meltpool",
+depth,1481,"missing_or_invalid:beam D,depth of meltpool",
+depth,1482,"missing_or_invalid:beam D,depth of meltpool",
+depth,1483,"missing_or_invalid:beam D,depth of meltpool",
+depth,1508,missing_or_invalid:depth of meltpool,keyhole
+depth,1509,missing_or_invalid:depth of meltpool,desirable
+depth,1510,missing_or_invalid:depth of meltpool,desirable
+depth,1511,missing_or_invalid:depth of meltpool,desirable
+depth,1555,missing_or_invalid:depth of meltpool,
+depth,1556,missing_or_invalid:depth of meltpool,
+depth,1557,missing_or_invalid:depth of meltpool,
+depth,1558,missing_or_invalid:depth of meltpool,
+depth,1562,missing_or_invalid:depth of meltpool,
+depth,1563,missing_or_invalid:depth of meltpool,
+depth,1564,missing_or_invalid:depth of meltpool,
+depth,1565,missing_or_invalid:depth of meltpool,
+depth,1566,missing_or_invalid:depth of meltpool,
+depth,1567,missing_or_invalid:depth of meltpool,
+depth,1568,missing_or_invalid:depth of meltpool,
+depth,1569,missing_or_invalid:depth of meltpool,
+depth,1570,missing_or_invalid:depth of meltpool,
+depth,1571,missing_or_invalid:depth of meltpool,
+depth,1572,missing_or_invalid:depth of meltpool,
+depth,1573,missing_or_invalid:depth of meltpool,
+depth,1574,missing_or_invalid:depth of meltpool,
+depth,1575,missing_or_invalid:depth of meltpool,
+depth,1576,missing_or_invalid:depth of meltpool,
+depth,1577,missing_or_invalid:depth of meltpool,
+depth,1578,missing_or_invalid:depth of meltpool,LOF
+depth,1579,missing_or_invalid:depth of meltpool,LOF
+depth,1580,missing_or_invalid:depth of meltpool,LOF
+depth,1581,missing_or_invalid:depth of meltpool,
+depth,1582,missing_or_invalid:depth of meltpool,
+depth,1583,missing_or_invalid:depth of meltpool,
+depth,1584,missing_or_invalid:depth of meltpool,
+depth,1585,missing_or_invalid:depth of meltpool,
+depth,1586,missing_or_invalid:depth of meltpool,
+depth,1587,missing_or_invalid:depth of meltpool,
+depth,1588,missing_or_invalid:depth of meltpool,
+depth,1589,missing_or_invalid:depth of meltpool,LOF
+depth,1590,missing_or_invalid:depth of meltpool,LOF
+depth,1591,missing_or_invalid:depth of meltpool,LOF
+depth,1592,missing_or_invalid:depth of meltpool,LOF
+depth,1593,missing_or_invalid:depth of meltpool,LOF
+depth,1594,missing_or_invalid:depth of meltpool,
+depth,1595,missing_or_invalid:depth of meltpool,
+depth,1596,missing_or_invalid:depth of meltpool,
+depth,1597,missing_or_invalid:depth of meltpool,
+depth,1598,missing_or_invalid:depth of meltpool,
+depth,1599,missing_or_invalid:depth of meltpool,
+depth,1600,missing_or_invalid:depth of meltpool,desirable
+depth,1601,missing_or_invalid:depth of meltpool,desirable
+depth,1602,missing_or_invalid:depth of meltpool,LOF
+depth,1603,missing_or_invalid:depth of meltpool,LOF
+depth,1604,missing_or_invalid:depth of meltpool,LOF
+depth,1605,missing_or_invalid:depth of meltpool,LOF
+depth,1606,missing_or_invalid:depth of meltpool,LOF
+depth,1607,missing_or_invalid:depth of meltpool,
+depth,1608,missing_or_invalid:depth of meltpool,
+depth,1609,missing_or_invalid:depth of meltpool,
+depth,1610,missing_or_invalid:depth of meltpool,
+depth,1611,missing_or_invalid:depth of meltpool,desirable
+depth,1612,missing_or_invalid:depth of meltpool,desirable
+depth,1613,missing_or_invalid:depth of meltpool,desirable
+depth,1614,missing_or_invalid:depth of meltpool,LOF
+depth,1615,missing_or_invalid:depth of meltpool,LOF
+depth,1616,missing_or_invalid:depth of meltpool,LOF
+depth,1617,missing_or_invalid:depth of meltpool,LOF
+depth,1618,missing_or_invalid:depth of meltpool,LOF
+depth,1619,missing_or_invalid:depth of meltpool,LOF
+depth,1620,missing_or_invalid:depth of meltpool,balling
+depth,1621,missing_or_invalid:depth of meltpool,balling
+depth,1622,missing_or_invalid:depth of meltpool,keyhole
+depth,1623,missing_or_invalid:depth of meltpool,desirable
+depth,1624,missing_or_invalid:depth of meltpool,desirable
+depth,1625,missing_or_invalid:depth of meltpool,desirable
+depth,1626,missing_or_invalid:depth of meltpool,LOF
+depth,1627,missing_or_invalid:depth of meltpool,LOF
+depth,1628,missing_or_invalid:depth of meltpool,LOF
+depth,1629,missing_or_invalid:depth of meltpool,LOF
+depth,1630,missing_or_invalid:depth of meltpool,LOF
+depth,1631,missing_or_invalid:depth of meltpool,LOF
+depth,1632,missing_or_invalid:depth of meltpool,LOF
+depth,1633,missing_or_invalid:depth of meltpool,keyhole
+depth,1634,missing_or_invalid:depth of meltpool,desirable
+depth,1635,missing_or_invalid:depth of meltpool,desirable
+depth,1636,missing_or_invalid:depth of meltpool,desirable
+depth,1637,missing_or_invalid:depth of meltpool,desirable
+depth,1638,missing_or_invalid:depth of meltpool,LOF
+depth,1639,missing_or_invalid:depth of meltpool,LOF
+depth,1640,missing_or_invalid:depth of meltpool,LOF
+depth,1641,missing_or_invalid:depth of meltpool,LOF
+depth,1642,missing_or_invalid:depth of meltpool,LOF
+depth,1643,missing_or_invalid:depth of meltpool,LOF
+depth,1644,missing_or_invalid:depth of meltpool,keyhole
+depth,1645,missing_or_invalid:depth of meltpool,keyhole
+depth,1646,missing_or_invalid:depth of meltpool,desirable
+depth,1647,missing_or_invalid:depth of meltpool,desirable
+depth,1648,missing_or_invalid:depth of meltpool,desirable
+depth,1649,missing_or_invalid:depth of meltpool,desirable
+depth,1650,missing_or_invalid:depth of meltpool,LOF
+depth,1651,missing_or_invalid:depth of meltpool,LOF
+depth,1652,missing_or_invalid:depth of meltpool,LOF
+depth,1653,missing_or_invalid:depth of meltpool,LOF
+depth,1654,missing_or_invalid:depth of meltpool,LOF
+depth,1655,missing_or_invalid:depth of meltpool,keyhole
+depth,1656,missing_or_invalid:depth of meltpool,keyhole
+depth,1657,missing_or_invalid:depth of meltpool,desirable
+depth,1658,missing_or_invalid:depth of meltpool,desirable
+depth,1659,missing_or_invalid:depth of meltpool,desirable
+depth,1660,missing_or_invalid:depth of meltpool,desirable
+depth,1661,missing_or_invalid:depth of meltpool,desirable
+depth,1662,missing_or_invalid:depth of meltpool,desirable
+depth,1663,missing_or_invalid:depth of meltpool,LOF
+depth,1664,missing_or_invalid:depth of meltpool,LOF
+depth,1665,missing_or_invalid:depth of meltpool,LOF
+depth,1666,missing_or_invalid:depth of meltpool,keyhole
+depth,1667,missing_or_invalid:depth of meltpool,keyhole
+depth,1668,missing_or_invalid:depth of meltpool,keyhole
+depth,1669,missing_or_invalid:depth of meltpool,desirable
+depth,1670,missing_or_invalid:depth of meltpool,desirable
+depth,1671,missing_or_invalid:depth of meltpool,desirable
+depth,1672,missing_or_invalid:depth of meltpool,desirable
+depth,1673,missing_or_invalid:depth of meltpool,desirable
+depth,1674,missing_or_invalid:depth of meltpool,desirable
+depth,1675,missing_or_invalid:depth of meltpool,LOF
+depth,1676,missing_or_invalid:depth of meltpool,LOF
+depth,1677,missing_or_invalid:depth of meltpool,keyhole
+depth,1678,missing_or_invalid:depth of meltpool,keyhole
+depth,1679,missing_or_invalid:depth of meltpool,keyhole
+depth,1680,missing_or_invalid:depth of meltpool,desirable
+depth,1681,missing_or_invalid:depth of meltpool,desirable
+depth,1682,missing_or_invalid:depth of meltpool,desirable
+depth,1683,missing_or_invalid:depth of meltpool,desirable
+depth,1684,missing_or_invalid:depth of meltpool,desirable
+depth,1685,missing_or_invalid:depth of meltpool,desirable
+depth,1686,missing_or_invalid:depth of meltpool,desirable
+depth,1687,missing_or_invalid:depth of meltpool,LOF
+depth,1688,missing_or_invalid:layer thickness,keyhole
+depth,1689,missing_or_invalid:layer thickness,keyhole
+depth,1690,missing_or_invalid:layer thickness,keyhole
+depth,1691,missing_or_invalid:layer thickness,keyhole
+depth,1692,missing_or_invalid:layer thickness,keyhole
+depth,1693,missing_or_invalid:layer thickness,keyhole
+depth,1694,missing_or_invalid:layer thickness,keyhole
+depth,1695,missing_or_invalid:layer thickness,keyhole
+depth,1696,missing_or_invalid:layer thickness,keyhole
+depth,1697,missing_or_invalid:layer thickness,keyhole
+depth,1698,missing_or_invalid:layer thickness,keyhole
+depth,1699,missing_or_invalid:layer thickness,keyhole
+depth,1700,missing_or_invalid:layer thickness,keyhole
+depth,1701,missing_or_invalid:layer thickness,keyhole
+depth,1702,missing_or_invalid:layer thickness,keyhole
+depth,1703,missing_or_invalid:layer thickness,keyhole
+depth,1704,missing_or_invalid:layer thickness,keyhole
+depth,1705,missing_or_invalid:layer thickness,keyhole
+depth,1706,missing_or_invalid:layer thickness,keyhole
+depth,1707,missing_or_invalid:layer thickness,keyhole
+depth,1708,missing_or_invalid:layer thickness,keyhole
+depth,1709,missing_or_invalid:layer thickness,keyhole
+depth,1710,missing_or_invalid:layer thickness,keyhole
+depth,1711,missing_or_invalid:layer thickness,keyhole
+depth,1712,missing_or_invalid:layer thickness,keyhole
+depth,1713,missing_or_invalid:layer thickness,keyhole
+depth,1714,missing_or_invalid:layer thickness,keyhole
+depth,1715,missing_or_invalid:layer thickness,keyhole
+depth,1716,missing_or_invalid:layer thickness,keyhole
+depth,1717,missing_or_invalid:layer thickness,keyhole
+depth,1718,missing_or_invalid:layer thickness,keyhole
+depth,1719,missing_or_invalid:layer thickness,keyhole
+depth,1720,missing_or_invalid:layer thickness,keyhole
+depth,1721,missing_or_invalid:layer thickness,keyhole
+depth,1722,missing_or_invalid:layer thickness,keyhole
+depth,1723,missing_or_invalid:layer thickness,keyhole
+depth,1724,missing_or_invalid:layer thickness,keyhole
+depth,1725,missing_or_invalid:layer thickness,keyhole
+depth,1726,missing_or_invalid:layer thickness,keyhole
+depth,1727,missing_or_invalid:layer thickness,keyhole
+depth,1728,missing_or_invalid:layer thickness,keyhole
+depth,1729,missing_or_invalid:layer thickness,keyhole
+depth,1730,missing_or_invalid:layer thickness,keyhole
+depth,1731,missing_or_invalid:layer thickness,keyhole
+depth,1732,missing_or_invalid:layer thickness,keyhole
+depth,1733,missing_or_invalid:layer thickness,keyhole
+depth,1734,missing_or_invalid:layer thickness,keyhole
+depth,1735,missing_or_invalid:layer thickness,keyhole
+depth,1736,missing_or_invalid:layer thickness,keyhole
+depth,1737,missing_or_invalid:layer thickness,keyhole
+depth,1738,missing_or_invalid:layer thickness,keyhole
+depth,1739,missing_or_invalid:layer thickness,keyhole
+depth,1740,missing_or_invalid:layer thickness,keyhole
+depth,1741,missing_or_invalid:layer thickness,keyhole
+depth,1742,missing_or_invalid:layer thickness,keyhole
+depth,1743,missing_or_invalid:layer thickness,keyhole
+depth,1744,missing_or_invalid:layer thickness,keyhole
+depth,1745,missing_or_invalid:layer thickness,keyhole
+depth,1746,missing_or_invalid:layer thickness,keyhole
+depth,1747,missing_or_invalid:layer thickness,keyhole
+depth,1748,missing_or_invalid:layer thickness,keyhole
+depth,1749,missing_or_invalid:layer thickness,keyhole
+depth,1750,missing_or_invalid:layer thickness,keyhole
+depth,1751,missing_or_invalid:layer thickness,keyhole
+depth,1752,missing_or_invalid:layer thickness,keyhole
+depth,1753,missing_or_invalid:layer thickness,keyhole
+depth,1754,missing_or_invalid:layer thickness,keyhole
+depth,1755,missing_or_invalid:layer thickness,keyhole
+depth,1756,missing_or_invalid:layer thickness,keyhole
+depth,1757,missing_or_invalid:layer thickness,keyhole
+depth,1758,missing_or_invalid:layer thickness,keyhole
+depth,1759,missing_or_invalid:layer thickness,keyhole
+depth,1760,missing_or_invalid:layer thickness,keyhole
+depth,1761,missing_or_invalid:layer thickness,keyhole
+depth,1762,missing_or_invalid:layer thickness,keyhole
+depth,1763,missing_or_invalid:layer thickness,keyhole
+depth,1764,missing_or_invalid:layer thickness,keyhole
+depth,1765,missing_or_invalid:layer thickness,keyhole
+depth,1766,missing_or_invalid:layer thickness,keyhole
+depth,1767,missing_or_invalid:layer thickness,keyhole
+depth,1768,missing_or_invalid:layer thickness,keyhole
+depth,1769,missing_or_invalid:layer thickness,keyhole
+depth,1770,missing_or_invalid:layer thickness,keyhole
+depth,1771,missing_or_invalid:layer thickness,keyhole
+depth,1772,missing_or_invalid:layer thickness,keyhole
+depth,1773,missing_or_invalid:layer thickness,keyhole
+depth,1774,missing_or_invalid:layer thickness,keyhole
+depth,1775,missing_or_invalid:layer thickness,keyhole
+depth,1776,missing_or_invalid:layer thickness,keyhole
+depth,1777,missing_or_invalid:layer thickness,keyhole
+depth,1778,missing_or_invalid:layer thickness,keyhole
+depth,1779,missing_or_invalid:layer thickness,keyhole
+depth,1780,missing_or_invalid:layer thickness,keyhole
+depth,1781,missing_or_invalid:layer thickness,keyhole
+depth,1782,missing_or_invalid:layer thickness,keyhole
+depth,1783,missing_or_invalid:layer thickness,keyhole
+depth,1784,missing_or_invalid:layer thickness,keyhole
+depth,1785,missing_or_invalid:layer thickness,keyhole
+depth,1786,missing_or_invalid:layer thickness,keyhole
+depth,1787,missing_or_invalid:layer thickness,keyhole
+depth,1788,missing_or_invalid:layer thickness,keyhole
+depth,1789,missing_or_invalid:layer thickness,keyhole
+depth,1790,missing_or_invalid:layer thickness,keyhole
+depth,1791,missing_or_invalid:layer thickness,keyhole
+depth,1792,missing_or_invalid:layer thickness,keyhole
+depth,1793,missing_or_invalid:layer thickness,keyhole
+depth,1794,missing_or_invalid:layer thickness,keyhole
+depth,1795,missing_or_invalid:layer thickness,keyhole
+width,0,missing_or_invalid:width of melt pool,desirable
+width,1,missing_or_invalid:width of melt pool,keyhole
+width,2,missing_or_invalid:width of melt pool,desirable
+width,3,missing_or_invalid:width of melt pool,desirable
+width,4,missing_or_invalid:width of melt pool,desirable
+width,5,missing_or_invalid:width of melt pool,desirable
+width,6,missing_or_invalid:width of melt pool,desirable
+width,7,missing_or_invalid:width of melt pool,LOF
+width,8,missing_or_invalid:width of melt pool,LOF
+width,9,missing_or_invalid:width of melt pool,
+width,10,missing_or_invalid:width of melt pool,desirable
+width,11,missing_or_invalid:width of melt pool,
+width,144,missing_or_invalid:width of melt pool,keyhole
+width,148,missing_or_invalid:width of melt pool,
+width,149,missing_or_invalid:width of melt pool,desirable
+width,151,missing_or_invalid:width of melt pool,
+width,152,missing_or_invalid:width of melt pool,desirable
+width,153,missing_or_invalid:width of melt pool,
+width,154,missing_or_invalid:width of melt pool,balling
+width,155,missing_or_invalid:width of melt pool,
+width,156,missing_or_invalid:width of melt pool,
+width,331,missing_or_invalid:width of melt pool,keyhole
+width,332,missing_or_invalid:width of melt pool,keyhole
+width,333,missing_or_invalid:width of melt pool,keyhole
+width,334,missing_or_invalid:width of melt pool,keyhole
+width,335,missing_or_invalid:width of melt pool,keyhole
+width,336,missing_or_invalid:width of melt pool,keyhole
+width,337,missing_or_invalid:width of melt pool,
+width,338,missing_or_invalid:width of melt pool,keyhole
+width,339,missing_or_invalid:width of melt pool,
+width,340,missing_or_invalid:width of melt pool,keyhole
+width,341,missing_or_invalid:width of melt pool,
+width,342,missing_or_invalid:width of melt pool,
+width,343,missing_or_invalid:width of melt pool,
+width,344,missing_or_invalid:width of melt pool,
+width,345,missing_or_invalid:width of melt pool,
+width,346,missing_or_invalid:width of melt pool,
+width,347,missing_or_invalid:width of melt pool,
+width,348,missing_or_invalid:width of melt pool,LOF
+width,349,missing_or_invalid:width of melt pool,
+width,350,missing_or_invalid:width of melt pool,keyhole
+width,498,missing_or_invalid:width of melt pool,balling
+width,500,missing_or_invalid:width of melt pool,balling
+width,501,missing_or_invalid:width of melt pool,
+width,502,missing_or_invalid:width of melt pool,
+width,503,missing_or_invalid:width of melt pool,
+width,504,missing_or_invalid:width of melt pool,keyhole
+width,505,missing_or_invalid:width of melt pool,keyhole
+width,576,missing_or_invalid:k,
+width,577,missing_or_invalid:k,
+width,578,missing_or_invalid:k,
+width,579,missing_or_invalid:k,
+width,607,missing_or_invalid:width of melt pool,keyhole
+width,608,missing_or_invalid:width of melt pool,keyhole
+width,609,missing_or_invalid:width of melt pool,keyhole
+width,610,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,611,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,612,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,613,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,614,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,615,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,616,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,617,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,618,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,619,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,620,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,621,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,622,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,623,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,624,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,625,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,626,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,627,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,628,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,629,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,630,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,631,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,632,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,633,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,634,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,652,missing_or_invalid:width of melt pool,LOF
+width,653,missing_or_invalid:width of melt pool,desirable
+width,654,missing_or_invalid:width of melt pool,keyhole
+width,655,missing_or_invalid:width of melt pool,keyhole
+width,656,missing_or_invalid:width of melt pool,keyhole
+width,657,missing_or_invalid:width of melt pool,desirable
+width,658,missing_or_invalid:width of melt pool,keyhole
+width,659,missing_or_invalid:width of melt pool,keyhole
+width,660,missing_or_invalid:width of melt pool,keyhole
+width,661,missing_or_invalid:width of melt pool,keyhole
+width,662,missing_or_invalid:width of melt pool,keyhole
+width,663,missing_or_invalid:width of melt pool,keyhole
+width,664,missing_or_invalid:width of melt pool,keyhole
+width,665,missing_or_invalid:width of melt pool,LOF
+width,666,missing_or_invalid:width of melt pool,desirable
+width,667,missing_or_invalid:width of melt pool,keyhole
+width,668,missing_or_invalid:width of melt pool,keyhole
+width,669,missing_or_invalid:width of melt pool,keyhole
+width,670,missing_or_invalid:width of melt pool,keyhole
+width,671,missing_or_invalid:width of melt pool,keyhole
+width,672,missing_or_invalid:width of melt pool,keyhole
+width,673,missing_or_invalid:width of melt pool,keyhole
+width,674,missing_or_invalid:width of melt pool,desirable
+width,675,missing_or_invalid:width of melt pool,keyhole
+width,676,missing_or_invalid:width of melt pool,keyhole
+width,677,missing_or_invalid:width of melt pool,keyhole
+width,678,missing_or_invalid:width of melt pool,keyhole
+width,679,missing_or_invalid:width of melt pool,keyhole
+width,680,missing_or_invalid:width of melt pool,keyhole
+width,681,missing_or_invalid:width of melt pool,keyhole
+width,682,missing_or_invalid:width of melt pool,keyhole
+width,683,missing_or_invalid:width of melt pool,keyhole
+width,684,missing_or_invalid:width of melt pool,keyhole
+width,685,missing_or_invalid:width of melt pool,keyhole
+width,686,missing_or_invalid:width of melt pool,keyhole
+width,687,missing_or_invalid:width of melt pool,keyhole
+width,688,missing_or_invalid:width of melt pool,keyhole
+width,689,missing_or_invalid:width of melt pool,keyhole
+width,690,missing_or_invalid:width of melt pool,keyhole
+width,691,missing_or_invalid:width of melt pool,keyhole
+width,692,missing_or_invalid:width of melt pool,desirable
+width,693,missing_or_invalid:width of melt pool,keyhole
+width,694,missing_or_invalid:width of melt pool,keyhole
+width,695,missing_or_invalid:width of melt pool,keyhole
+width,696,missing_or_invalid:width of melt pool,keyhole
+width,697,missing_or_invalid:width of melt pool,keyhole
+width,698,missing_or_invalid:width of melt pool,keyhole
+width,699,missing_or_invalid:width of melt pool,
+width,700,missing_or_invalid:width of melt pool,
+width,701,missing_or_invalid:width of melt pool,
+width,702,missing_or_invalid:width of melt pool,
+width,703,missing_or_invalid:width of melt pool,
+width,704,missing_or_invalid:width of melt pool,
+width,705,missing_or_invalid:width of melt pool,
+width,706,missing_or_invalid:width of melt pool,
+width,707,missing_or_invalid:width of melt pool,
+width,708,missing_or_invalid:width of melt pool,
+width,709,missing_or_invalid:width of melt pool,
+width,710,missing_or_invalid:width of melt pool,
+width,711,missing_or_invalid:width of melt pool,
+width,712,missing_or_invalid:width of melt pool,
+width,713,missing_or_invalid:width of melt pool,
+width,714,missing_or_invalid:width of melt pool,
+width,715,missing_or_invalid:width of melt pool,
+width,716,missing_or_invalid:width of melt pool,
+width,717,missing_or_invalid:width of melt pool,
+width,718,missing_or_invalid:width of melt pool,
+width,719,missing_or_invalid:width of melt pool,
+width,720,missing_or_invalid:width of melt pool,
+width,721,missing_or_invalid:width of melt pool,
+width,742,missing_or_invalid:width of melt pool,keyhole
+width,743,missing_or_invalid:width of melt pool,keyhole
+width,744,missing_or_invalid:width of melt pool,keyhole
+width,745,missing_or_invalid:width of melt pool,keyhole
+width,746,missing_or_invalid:width of melt pool,keyhole
+width,772,missing_or_invalid:width of melt pool,keyhole
+width,773,missing_or_invalid:width of melt pool,keyhole
+width,774,missing_or_invalid:width of melt pool,keyhole
+width,775,missing_or_invalid:width of melt pool,keyhole
+width,776,missing_or_invalid:width of melt pool,keyhole
+width,777,missing_or_invalid:width of melt pool,keyhole
+width,778,missing_or_invalid:width of melt pool,keyhole
+width,779,missing_or_invalid:width of melt pool,keyhole
+width,780,missing_or_invalid:width of melt pool,keyhole
+width,781,missing_or_invalid:width of melt pool,keyhole
+width,782,missing_or_invalid:width of melt pool,keyhole
+width,828,missing_or_invalid:width of melt pool,
+width,829,missing_or_invalid:width of melt pool,
+width,830,missing_or_invalid:width of melt pool,
+width,831,missing_or_invalid:width of melt pool,
+width,832,missing_or_invalid:width of melt pool,
+width,833,missing_or_invalid:width of melt pool,
+width,834,missing_or_invalid:width of melt pool,
+width,835,missing_or_invalid:width of melt pool,
+width,836,missing_or_invalid:width of melt pool,
+width,847,missing_or_invalid:width of melt pool,
+width,848,missing_or_invalid:width of melt pool,
+width,849,missing_or_invalid:width of melt pool,
+width,850,missing_or_invalid:width of melt pool,
+width,851,missing_or_invalid:width of melt pool,
+width,852,missing_or_invalid:width of melt pool,
+width,853,missing_or_invalid:width of melt pool,
+width,854,missing_or_invalid:width of melt pool,keyhole
+width,855,missing_or_invalid:width of melt pool,desirable
+width,856,missing_or_invalid:width of melt pool,desirable
+width,857,missing_or_invalid:width of melt pool,keyhole
+width,858,missing_or_invalid:width of melt pool,keyhole
+width,859,missing_or_invalid:width of melt pool,desirable
+width,860,missing_or_invalid:width of melt pool,desirable
+width,861,missing_or_invalid:width of melt pool,LOF
+width,862,missing_or_invalid:width of melt pool,LOF
+width,863,missing_or_invalid:width of melt pool,LOF
+width,864,missing_or_invalid:width of melt pool,LOF
+width,865,missing_or_invalid:width of melt pool,LOF
+width,866,missing_or_invalid:width of melt pool,LOF
+width,867,missing_or_invalid:width of melt pool,desirable
+width,868,missing_or_invalid:width of melt pool,desirable
+width,869,missing_or_invalid:width of melt pool,desirable
+width,870,missing_or_invalid:width of melt pool,desirable
+width,871,missing_or_invalid:width of melt pool,LOF
+width,872,missing_or_invalid:width of melt pool,LOF
+width,873,missing_or_invalid:width of melt pool,LOF
+width,874,missing_or_invalid:width of melt pool,LOF
+width,875,missing_or_invalid:width of melt pool,desirable
+width,876,missing_or_invalid:width of melt pool,desirable
+width,877,missing_or_invalid:width of melt pool,desirable
+width,878,missing_or_invalid:width of melt pool,desirable
+width,879,missing_or_invalid:width of melt pool,desirable
+width,880,missing_or_invalid:width of melt pool,balling
+width,881,missing_or_invalid:width of melt pool,balling
+width,882,missing_or_invalid:width of melt pool,desirable
+width,883,missing_or_invalid:width of melt pool,desirable
+width,884,missing_or_invalid:width of melt pool,desirable
+width,885,missing_or_invalid:width of melt pool,desirable
+width,886,missing_or_invalid:width of melt pool,desirable
+width,887,missing_or_invalid:width of melt pool,desirable
+width,888,missing_or_invalid:width of melt pool,balling
+width,1032,missing_or_invalid:width of melt pool,
+width,1033,missing_or_invalid:width of melt pool,
+width,1034,missing_or_invalid:width of melt pool,
+width,1035,missing_or_invalid:width of melt pool,
+width,1036,missing_or_invalid:width of melt pool,
+width,1037,missing_or_invalid:width of melt pool,
+width,1038,missing_or_invalid:width of melt pool,
+width,1039,missing_or_invalid:width of melt pool,
+width,1040,missing_or_invalid:width of melt pool,
+width,1041,missing_or_invalid:width of melt pool,
+width,1042,missing_or_invalid:width of melt pool,
+width,1043,missing_or_invalid:width of melt pool,
+width,1044,missing_or_invalid:width of melt pool,
+width,1045,missing_or_invalid:width of melt pool,
+width,1046,missing_or_invalid:width of melt pool,
+width,1047,missing_or_invalid:width of melt pool,
+width,1048,missing_or_invalid:width of melt pool,
+width,1049,missing_or_invalid:width of melt pool,
+width,1050,missing_or_invalid:width of melt pool,
+width,1051,missing_or_invalid:width of melt pool,
+width,1052,missing_or_invalid:width of melt pool,
+width,1053,missing_or_invalid:width of melt pool,
+width,1054,missing_or_invalid:width of melt pool,
+width,1055,missing_or_invalid:width of melt pool,
+width,1056,missing_or_invalid:width of melt pool,
+width,1057,missing_or_invalid:width of melt pool,
+width,1058,missing_or_invalid:width of melt pool,
+width,1059,missing_or_invalid:width of melt pool,
+width,1060,missing_or_invalid:width of melt pool,
+width,1061,missing_or_invalid:width of melt pool,
+width,1062,missing_or_invalid:width of melt pool,
+width,1063,missing_or_invalid:width of melt pool,
+width,1064,missing_or_invalid:width of melt pool,
+width,1065,missing_or_invalid:width of melt pool,
+width,1066,missing_or_invalid:width of melt pool,
+width,1067,missing_or_invalid:width of melt pool,
+width,1068,missing_or_invalid:width of melt pool,
+width,1069,missing_or_invalid:width of melt pool,
+width,1070,missing_or_invalid:width of melt pool,
+width,1071,missing_or_invalid:width of melt pool,
+width,1072,missing_or_invalid:width of melt pool,
+width,1073,missing_or_invalid:width of melt pool,
+width,1074,missing_or_invalid:width of melt pool,
+width,1075,missing_or_invalid:width of melt pool,
+width,1076,missing_or_invalid:width of melt pool,
+width,1077,missing_or_invalid:width of melt pool,
+width,1078,missing_or_invalid:width of melt pool,
+width,1079,missing_or_invalid:width of melt pool,
+width,1080,missing_or_invalid:width of melt pool,
+width,1081,missing_or_invalid:width of melt pool,
+width,1082,missing_or_invalid:width of melt pool,
+width,1083,missing_or_invalid:width of melt pool,
+width,1084,missing_or_invalid:width of melt pool,
+width,1085,missing_or_invalid:width of melt pool,
+width,1086,missing_or_invalid:width of melt pool,
+width,1087,missing_or_invalid:width of melt pool,
+width,1088,missing_or_invalid:width of melt pool,
+width,1089,missing_or_invalid:width of melt pool,
+width,1090,missing_or_invalid:width of melt pool,
+width,1091,missing_or_invalid:width of melt pool,
+width,1092,missing_or_invalid:width of melt pool,
+width,1093,missing_or_invalid:width of melt pool,
+width,1094,missing_or_invalid:width of melt pool,
+width,1095,missing_or_invalid:width of melt pool,
+width,1096,missing_or_invalid:width of melt pool,
+width,1097,missing_or_invalid:width of melt pool,
+width,1098,missing_or_invalid:width of melt pool,
+width,1099,missing_or_invalid:width of melt pool,
+width,1100,missing_or_invalid:width of melt pool,
+width,1101,missing_or_invalid:width of melt pool,
+width,1102,missing_or_invalid:width of melt pool,
+width,1103,missing_or_invalid:width of melt pool,
+width,1104,missing_or_invalid:width of melt pool,
+width,1105,missing_or_invalid:width of melt pool,
+width,1106,missing_or_invalid:width of melt pool,
+width,1107,missing_or_invalid:width of melt pool,
+width,1108,missing_or_invalid:width of melt pool,
+width,1109,missing_or_invalid:width of melt pool,
+width,1110,missing_or_invalid:width of melt pool,
+width,1111,missing_or_invalid:width of melt pool,
+width,1112,missing_or_invalid:width of melt pool,
+width,1113,missing_or_invalid:width of melt pool,
+width,1114,missing_or_invalid:width of melt pool,
+width,1115,missing_or_invalid:width of melt pool,
+width,1116,missing_or_invalid:width of melt pool,
+width,1117,missing_or_invalid:width of melt pool,
+width,1118,missing_or_invalid:width of melt pool,
+width,1119,missing_or_invalid:width of melt pool,
+width,1120,missing_or_invalid:width of melt pool,
+width,1121,missing_or_invalid:width of melt pool,
+width,1122,missing_or_invalid:width of melt pool,
+width,1123,missing_or_invalid:width of melt pool,
+width,1124,missing_or_invalid:width of melt pool,
+width,1125,missing_or_invalid:width of melt pool,
+width,1126,missing_or_invalid:width of melt pool,
+width,1127,missing_or_invalid:width of melt pool,
+width,1128,missing_or_invalid:width of melt pool,
+width,1129,missing_or_invalid:width of melt pool,
+width,1130,missing_or_invalid:width of melt pool,
+width,1131,missing_or_invalid:width of melt pool,
+width,1132,missing_or_invalid:width of melt pool,
+width,1133,missing_or_invalid:width of melt pool,
+width,1134,missing_or_invalid:width of melt pool,
+width,1135,missing_or_invalid:width of melt pool,
+width,1136,missing_or_invalid:width of melt pool,
+width,1137,missing_or_invalid:width of melt pool,
+width,1138,missing_or_invalid:width of melt pool,
+width,1139,missing_or_invalid:width of melt pool,
+width,1140,missing_or_invalid:width of melt pool,
+width,1141,missing_or_invalid:width of melt pool,
+width,1142,missing_or_invalid:width of melt pool,
+width,1143,missing_or_invalid:width of melt pool,
+width,1144,missing_or_invalid:width of melt pool,
+width,1145,missing_or_invalid:width of melt pool,
+width,1146,missing_or_invalid:width of melt pool,
+width,1147,missing_or_invalid:width of melt pool,
+width,1148,missing_or_invalid:width of melt pool,
+width,1149,missing_or_invalid:width of melt pool,
+width,1150,missing_or_invalid:width of melt pool,
+width,1151,missing_or_invalid:width of melt pool,
+width,1152,missing_or_invalid:width of melt pool,
+width,1153,missing_or_invalid:width of melt pool,
+width,1178,missing_or_invalid:width of melt pool,
+width,1179,missing_or_invalid:width of melt pool,
+width,1180,missing_or_invalid:width of melt pool,
+width,1181,missing_or_invalid:width of melt pool,
+width,1182,missing_or_invalid:width of melt pool,
+width,1183,missing_or_invalid:width of melt pool,
+width,1184,missing_or_invalid:width of melt pool,
+width,1185,missing_or_invalid:width of melt pool,
+width,1186,missing_or_invalid:width of melt pool,
+width,1187,missing_or_invalid:width of melt pool,
+width,1188,missing_or_invalid:width of melt pool,
+width,1189,missing_or_invalid:width of melt pool,
+width,1190,missing_or_invalid:width of melt pool,
+width,1191,missing_or_invalid:width of melt pool,
+width,1192,missing_or_invalid:width of melt pool,
+width,1193,missing_or_invalid:width of melt pool,
+width,1194,missing_or_invalid:width of melt pool,
+width,1195,missing_or_invalid:width of melt pool,
+width,1196,missing_or_invalid:width of melt pool,
+width,1217,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1218,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,1219,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1220,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1221,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1222,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,1223,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1224,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1225,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1226,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1227,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1228,"missing_or_invalid:density,Cp,k",LOF
+width,1229,"missing_or_invalid:density,Cp,k",desirable
+width,1230,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1231,"missing_or_invalid:density,Cp,k,width of melt pool",
+width,1232,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1233,"missing_or_invalid:density,Cp,k,width of melt pool",desirable
+width,1234,"missing_or_invalid:density,Cp,k",desirable
+width,1235,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1236,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1237,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1238,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1239,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1240,"missing_or_invalid:density,Cp,k,width of melt pool",LOF
+width,1282,missing_or_invalid:width of melt pool,keyhole
+width,1283,missing_or_invalid:width of melt pool,keyhole
+width,1284,missing_or_invalid:width of melt pool,keyhole
+width,1285,missing_or_invalid:width of melt pool,keyhole
+width,1286,missing_or_invalid:width of melt pool,keyhole
+width,1287,missing_or_invalid:width of melt pool,keyhole
+width,1288,missing_or_invalid:width of melt pool,keyhole
+width,1289,missing_or_invalid:width of melt pool,keyhole
+width,1290,missing_or_invalid:width of melt pool,keyhole
+width,1291,missing_or_invalid:width of melt pool,keyhole
+width,1292,missing_or_invalid:width of melt pool,keyhole
+width,1293,missing_or_invalid:width of melt pool,keyhole
+width,1294,missing_or_invalid:width of melt pool,keyhole
+width,1295,missing_or_invalid:width of melt pool,keyhole
+width,1296,missing_or_invalid:width of melt pool,keyhole
+width,1297,missing_or_invalid:width of melt pool,keyhole
+width,1298,missing_or_invalid:width of melt pool,keyhole
+width,1299,missing_or_invalid:width of melt pool,keyhole
+width,1300,missing_or_invalid:width of melt pool,keyhole
+width,1301,missing_or_invalid:width of melt pool,keyhole
+width,1307,missing_or_invalid:width of melt pool,LOF
+width,1308,missing_or_invalid:width of melt pool,LOF
+width,1551,missing_or_invalid:width of melt pool,
+width,1552,missing_or_invalid:width of melt pool,
+width,1559,missing_or_invalid:width of melt pool,
+width,1560,missing_or_invalid:width of melt pool,
+width,1561,missing_or_invalid:width of melt pool,
+width,1688,missing_or_invalid:width of melt pool,keyhole
+width,1689,missing_or_invalid:width of melt pool,keyhole
+width,1690,missing_or_invalid:width of melt pool,keyhole
+width,1691,missing_or_invalid:width of melt pool,keyhole
+width,1692,missing_or_invalid:width of melt pool,keyhole
+width,1693,missing_or_invalid:width of melt pool,keyhole
+width,1694,missing_or_invalid:width of melt pool,keyhole
+width,1695,missing_or_invalid:width of melt pool,keyhole
+width,1696,missing_or_invalid:width of melt pool,keyhole
+width,1697,missing_or_invalid:width of melt pool,keyhole
+width,1698,missing_or_invalid:width of melt pool,keyhole
+width,1699,missing_or_invalid:width of melt pool,keyhole
+width,1700,missing_or_invalid:width of melt pool,keyhole
+width,1701,missing_or_invalid:width of melt pool,keyhole
+width,1702,missing_or_invalid:width of melt pool,keyhole
+width,1703,missing_or_invalid:width of melt pool,keyhole
+width,1704,missing_or_invalid:width of melt pool,keyhole
+width,1705,missing_or_invalid:width of melt pool,keyhole
+width,1706,missing_or_invalid:width of melt pool,keyhole
+width,1707,missing_or_invalid:width of melt pool,keyhole
+width,1708,missing_or_invalid:width of melt pool,keyhole
+width,1709,missing_or_invalid:width of melt pool,keyhole
+width,1710,missing_or_invalid:width of melt pool,keyhole
+width,1711,missing_or_invalid:width of melt pool,keyhole
+width,1712,missing_or_invalid:width of melt pool,keyhole
+width,1713,missing_or_invalid:width of melt pool,keyhole
+width,1714,missing_or_invalid:width of melt pool,keyhole
+width,1715,missing_or_invalid:width of melt pool,keyhole
+width,1716,missing_or_invalid:width of melt pool,keyhole
+width,1717,missing_or_invalid:width of melt pool,keyhole
+width,1718,missing_or_invalid:width of melt pool,keyhole
+width,1719,missing_or_invalid:width of melt pool,keyhole
+width,1720,missing_or_invalid:width of melt pool,keyhole
+width,1721,missing_or_invalid:width of melt pool,keyhole
+width,1722,missing_or_invalid:width of melt pool,keyhole
+width,1723,missing_or_invalid:width of melt pool,keyhole
+width,1724,missing_or_invalid:width of melt pool,keyhole
+width,1725,missing_or_invalid:width of melt pool,keyhole
+width,1726,missing_or_invalid:width of melt pool,keyhole
+width,1727,missing_or_invalid:width of melt pool,keyhole
+width,1728,missing_or_invalid:width of melt pool,keyhole
+width,1729,missing_or_invalid:width of melt pool,keyhole
+width,1730,missing_or_invalid:width of melt pool,keyhole
+width,1731,missing_or_invalid:width of melt pool,keyhole
+width,1732,missing_or_invalid:width of melt pool,keyhole
+width,1733,missing_or_invalid:width of melt pool,keyhole
+width,1734,missing_or_invalid:width of melt pool,keyhole
+width,1735,missing_or_invalid:width of melt pool,keyhole
+width,1736,missing_or_invalid:width of melt pool,keyhole
+width,1737,missing_or_invalid:width of melt pool,keyhole
+width,1738,missing_or_invalid:width of melt pool,keyhole
+width,1739,missing_or_invalid:width of melt pool,keyhole
+width,1740,missing_or_invalid:width of melt pool,keyhole
+width,1741,missing_or_invalid:width of melt pool,keyhole
+width,1742,missing_or_invalid:width of melt pool,keyhole
+width,1743,missing_or_invalid:width of melt pool,keyhole
+width,1744,missing_or_invalid:width of melt pool,keyhole
+width,1745,missing_or_invalid:width of melt pool,keyhole
+width,1746,missing_or_invalid:width of melt pool,keyhole
+width,1747,missing_or_invalid:width of melt pool,keyhole
+width,1748,missing_or_invalid:width of melt pool,keyhole
+width,1749,missing_or_invalid:width of melt pool,keyhole
+width,1750,missing_or_invalid:width of melt pool,keyhole
+width,1751,missing_or_invalid:width of melt pool,keyhole
+width,1752,missing_or_invalid:width of melt pool,keyhole
+width,1753,missing_or_invalid:width of melt pool,keyhole
+width,1754,missing_or_invalid:width of melt pool,keyhole
+width,1755,missing_or_invalid:width of melt pool,keyhole
+width,1756,missing_or_invalid:width of melt pool,keyhole
+width,1757,missing_or_invalid:width of melt pool,keyhole
+width,1758,missing_or_invalid:width of melt pool,keyhole
+width,1759,missing_or_invalid:width of melt pool,keyhole
+width,1760,missing_or_invalid:width of melt pool,keyhole
+width,1761,missing_or_invalid:width of melt pool,keyhole
+width,1762,missing_or_invalid:width of melt pool,keyhole
+width,1763,missing_or_invalid:width of melt pool,keyhole
+width,1764,missing_or_invalid:width of melt pool,keyhole
+width,1765,missing_or_invalid:width of melt pool,keyhole
+width,1766,missing_or_invalid:width of melt pool,keyhole
+width,1767,missing_or_invalid:width of melt pool,keyhole
+width,1768,missing_or_invalid:width of melt pool,keyhole
+width,1769,missing_or_invalid:width of melt pool,keyhole
+width,1770,missing_or_invalid:width of melt pool,keyhole
+width,1771,missing_or_invalid:width of melt pool,keyhole
+width,1772,missing_or_invalid:width of melt pool,keyhole
+width,1773,missing_or_invalid:width of melt pool,keyhole
+width,1774,missing_or_invalid:width of melt pool,keyhole
+width,1775,missing_or_invalid:width of melt pool,keyhole
+width,1776,missing_or_invalid:width of melt pool,keyhole
+width,1777,missing_or_invalid:width of melt pool,keyhole
+width,1778,missing_or_invalid:width of melt pool,keyhole
+width,1779,missing_or_invalid:width of melt pool,keyhole
+width,1780,missing_or_invalid:width of melt pool,keyhole
+width,1781,missing_or_invalid:width of melt pool,keyhole
+width,1782,missing_or_invalid:width of melt pool,keyhole
+width,1783,missing_or_invalid:width of melt pool,keyhole
+width,1784,missing_or_invalid:width of melt pool,keyhole
+width,1785,missing_or_invalid:width of melt pool,keyhole
+width,1786,missing_or_invalid:width of melt pool,keyhole
+width,1787,missing_or_invalid:width of melt pool,keyhole
+width,1788,missing_or_invalid:width of melt pool,keyhole
+width,1789,missing_or_invalid:width of melt pool,keyhole
+width,1790,missing_or_invalid:width of melt pool,keyhole
+width,1791,missing_or_invalid:width of melt pool,keyhole
+width,1792,missing_or_invalid:width of melt pool,keyhole
+width,1793,missing_or_invalid:width of melt pool,keyhole
+width,1794,missing_or_invalid:width of melt pool,keyhole
+width,1795,missing_or_invalid:width of melt pool,keyhole
+length,0,missing_or_invalid:length of melt pool,desirable
+length,1,missing_or_invalid:length of melt pool,keyhole
+length,2,missing_or_invalid:length of melt pool,desirable
+length,3,missing_or_invalid:length of melt pool,desirable
+length,4,missing_or_invalid:length of melt pool,desirable
+length,5,missing_or_invalid:length of melt pool,desirable
+length,6,missing_or_invalid:length of melt pool,desirable
+length,7,missing_or_invalid:length of melt pool,LOF
+length,8,missing_or_invalid:length of melt pool,LOF
+length,9,missing_or_invalid:length of melt pool,
+length,10,missing_or_invalid:length of melt pool,desirable
+length,11,missing_or_invalid:length of melt pool,
+length,12,missing_or_invalid:length of melt pool,LOF
+length,13,missing_or_invalid:length of melt pool,LOF
+length,14,missing_or_invalid:length of melt pool,LOF
+length,15,missing_or_invalid:length of melt pool,balling
+length,16,missing_or_invalid:length of melt pool,desirable
+length,17,missing_or_invalid:length of melt pool,
+length,18,missing_or_invalid:length of melt pool,LOF
+length,19,missing_or_invalid:length of melt pool,LOF
+length,20,missing_or_invalid:length of melt pool,desirable
+length,21,missing_or_invalid:length of melt pool,desirable
+length,22,missing_or_invalid:length of melt pool,desirable
+length,23,missing_or_invalid:length of melt pool,
+length,24,missing_or_invalid:length of melt pool,keyhole
+length,25,missing_or_invalid:length of melt pool,
+length,26,missing_or_invalid:length of melt pool,desirable
+length,27,missing_or_invalid:length of melt pool,desirable
+length,28,missing_or_invalid:length of melt pool,keyhole
+length,29,missing_or_invalid:length of melt pool,keyhole
+length,30,missing_or_invalid:length of melt pool,keyhole
+length,31,missing_or_invalid:length of melt pool,keyhole
+length,32,missing_or_invalid:length of melt pool,keyhole
+length,33,missing_or_invalid:length of melt pool,keyhole
+length,39,missing_or_invalid:length of melt pool,
+length,40,missing_or_invalid:length of melt pool,
+length,41,missing_or_invalid:length of melt pool,
+length,42,missing_or_invalid:length of melt pool,
+length,43,missing_or_invalid:length of melt pool,
+length,44,missing_or_invalid:length of melt pool,
+length,45,missing_or_invalid:length of melt pool,
+length,46,missing_or_invalid:length of melt pool,
+length,47,missing_or_invalid:length of melt pool,
+length,48,missing_or_invalid:length of melt pool,
+length,49,missing_or_invalid:length of melt pool,
+length,50,missing_or_invalid:length of melt pool,
+length,51,missing_or_invalid:length of melt pool,
+length,52,missing_or_invalid:length of melt pool,
+length,53,missing_or_invalid:length of melt pool,
+length,107,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,108,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,109,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,110,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,111,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,112,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,113,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,114,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,115,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,116,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,117,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,118,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,119,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,120,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,121,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,122,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,123,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,124,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,125,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,126,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,127,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,128,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,129,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,130,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,131,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,132,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,133,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,134,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,135,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,136,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,137,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,138,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,139,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,140,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,141,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,142,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,143,missing_or_invalid:length of melt pool,
+length,144,missing_or_invalid:length of melt pool,keyhole
+length,145,missing_or_invalid:length of melt pool,
+length,146,missing_or_invalid:length of melt pool,
+length,147,missing_or_invalid:length of melt pool,desirable
+length,148,missing_or_invalid:length of melt pool,
+length,149,missing_or_invalid:length of melt pool,desirable
+length,150,missing_or_invalid:length of melt pool,
+length,151,missing_or_invalid:length of melt pool,
+length,152,missing_or_invalid:length of melt pool,desirable
+length,153,missing_or_invalid:length of melt pool,
+length,154,missing_or_invalid:length of melt pool,balling
+length,155,missing_or_invalid:length of melt pool,
+length,156,missing_or_invalid:length of melt pool,
+length,157,missing_or_invalid:length of melt pool,desirable
+length,158,missing_or_invalid:length of melt pool,
+length,159,missing_or_invalid:length of melt pool,
+length,160,missing_or_invalid:length of melt pool,desirable
+length,161,missing_or_invalid:length of melt pool,balling
+length,162,missing_or_invalid:length of melt pool,
+length,163,missing_or_invalid:length of melt pool,
+length,164,missing_or_invalid:length of melt pool,LOF
+length,165,missing_or_invalid:length of melt pool,
+length,175,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,176,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,177,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,178,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,179,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,180,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,181,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,182,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,183,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,184,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,185,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,186,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,187,missing_or_invalid:Hatch spacing,LOF
+length,188,missing_or_invalid:Hatch spacing,LOF
+length,189,missing_or_invalid:Hatch spacing,LOF
+length,190,missing_or_invalid:Hatch spacing,LOF
+length,191,missing_or_invalid:Hatch spacing,LOF
+length,192,missing_or_invalid:Hatch spacing,LOF
+length,193,missing_or_invalid:Hatch spacing,desirable
+length,194,missing_or_invalid:Hatch spacing,desirable
+length,195,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,196,missing_or_invalid:Hatch spacing,LOF
+length,197,missing_or_invalid:Hatch spacing,LOF
+length,198,missing_or_invalid:Hatch spacing,keyhole
+length,199,missing_or_invalid:Hatch spacing,keyhole
+length,200,missing_or_invalid:Hatch spacing,keyhole
+length,265,missing_or_invalid:length of melt pool,keyhole
+length,266,missing_or_invalid:length of melt pool,keyhole
+length,267,missing_or_invalid:length of melt pool,
+length,268,missing_or_invalid:length of melt pool,
+length,269,missing_or_invalid:length of melt pool,
+length,270,missing_or_invalid:length of melt pool,LOF
+length,271,missing_or_invalid:length of melt pool,keyhole
+length,272,missing_or_invalid:length of melt pool,keyhole
+length,273,missing_or_invalid:length of melt pool,
+length,274,missing_or_invalid:length of melt pool,
+length,275,missing_or_invalid:length of melt pool,
+length,325,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,326,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,327,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,328,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,329,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,330,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,331,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,332,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,333,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,334,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,335,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,336,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,337,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,338,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,339,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,340,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,341,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,342,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,343,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,344,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,345,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,346,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,347,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,348,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,349,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,350,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,351,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,352,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,353,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,354,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,355,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,356,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,357,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,358,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,359,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,360,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,361,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,362,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,363,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,364,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,365,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,366,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,367,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,368,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,369,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,370,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,371,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,372,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,373,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,374,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,375,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,376,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,377,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,378,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,379,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,380,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,381,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,382,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,383,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,384,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,385,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,386,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,387,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,388,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,389,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,390,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,391,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,392,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,393,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,394,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,395,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,396,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,397,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,398,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,399,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,400,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,401,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,402,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,403,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,404,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,405,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,406,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,407,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,408,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,409,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,410,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,411,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,412,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,413,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,414,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,415,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,416,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,417,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,418,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,419,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,420,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,421,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,422,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,423,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,424,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,425,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,426,missing_or_invalid:length of melt pool,
+length,427,missing_or_invalid:length of melt pool,
+length,428,missing_or_invalid:length of melt pool,
+length,429,missing_or_invalid:length of melt pool,
+length,430,missing_or_invalid:length of melt pool,desirable
+length,431,missing_or_invalid:length of melt pool,
+length,432,missing_or_invalid:length of melt pool,
+length,433,missing_or_invalid:length of melt pool,
+length,434,missing_or_invalid:length of melt pool,
+length,435,missing_or_invalid:length of melt pool,
+length,436,missing_or_invalid:length of melt pool,
+length,437,missing_or_invalid:length of melt pool,
+length,438,missing_or_invalid:length of melt pool,
+length,439,missing_or_invalid:length of melt pool,
+length,440,missing_or_invalid:length of melt pool,
+length,441,missing_or_invalid:length of melt pool,
+length,442,missing_or_invalid:length of melt pool,
+length,443,missing_or_invalid:length of melt pool,
+length,444,missing_or_invalid:length of melt pool,
+length,445,missing_or_invalid:length of melt pool,
+length,446,missing_or_invalid:length of melt pool,
+length,447,missing_or_invalid:length of melt pool,
+length,448,missing_or_invalid:length of melt pool,
+length,449,missing_or_invalid:length of melt pool,
+length,450,missing_or_invalid:length of melt pool,
+length,451,missing_or_invalid:length of melt pool,
+length,452,missing_or_invalid:length of melt pool,
+length,453,missing_or_invalid:length of melt pool,
+length,454,missing_or_invalid:length of melt pool,
+length,455,missing_or_invalid:length of melt pool,
+length,456,missing_or_invalid:length of melt pool,
+length,457,missing_or_invalid:length of melt pool,
+length,458,missing_or_invalid:length of melt pool,
+length,459,missing_or_invalid:length of melt pool,
+length,460,missing_or_invalid:length of melt pool,
+length,461,missing_or_invalid:length of melt pool,
+length,462,missing_or_invalid:length of melt pool,
+length,463,missing_or_invalid:length of melt pool,
+length,464,missing_or_invalid:length of melt pool,
+length,465,missing_or_invalid:length of melt pool,
+length,466,missing_or_invalid:length of melt pool,keyhole
+length,467,missing_or_invalid:length of melt pool,keyhole
+length,468,missing_or_invalid:length of melt pool,keyhole
+length,469,missing_or_invalid:length of melt pool,keyhole
+length,470,missing_or_invalid:length of melt pool,keyhole
+length,471,missing_or_invalid:length of melt pool,
+length,472,missing_or_invalid:length of melt pool,
+length,473,missing_or_invalid:length of melt pool,
+length,474,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,475,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,476,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,477,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,478,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,479,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,480,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,481,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,482,missing_or_invalid:length of melt pool,
+length,483,missing_or_invalid:length of melt pool,
+length,484,missing_or_invalid:length of melt pool,
+length,485,missing_or_invalid:length of melt pool,
+length,486,missing_or_invalid:length of melt pool,
+length,487,missing_or_invalid:length of melt pool,
+length,488,missing_or_invalid:length of melt pool,
+length,489,missing_or_invalid:length of melt pool,
+length,490,missing_or_invalid:length of melt pool,
+length,491,missing_or_invalid:length of melt pool,keyhole
+length,492,missing_or_invalid:length of melt pool,keyhole
+length,493,missing_or_invalid:length of melt pool,keyhole
+length,494,missing_or_invalid:length of melt pool,keyhole
+length,495,missing_or_invalid:length of melt pool,keyhole
+length,496,missing_or_invalid:length of melt pool,keyhole
+length,497,missing_or_invalid:Hatch spacing,
+length,498,missing_or_invalid:Hatch spacing,balling
+length,499,missing_or_invalid:Hatch spacing,balling
+length,500,missing_or_invalid:Hatch spacing,balling
+length,501,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,502,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,503,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,504,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,505,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,506,missing_or_invalid:Hatch spacing,desirable
+length,507,missing_or_invalid:Hatch spacing,desirable
+length,508,missing_or_invalid:Hatch spacing,desirable
+length,509,missing_or_invalid:Hatch spacing,desirable
+length,510,missing_or_invalid:Hatch spacing,desirable
+length,511,missing_or_invalid:Hatch spacing,desirable
+length,512,missing_or_invalid:Hatch spacing,desirable
+length,513,missing_or_invalid:Hatch spacing,desirable
+length,514,missing_or_invalid:Hatch spacing,LOF
+length,515,missing_or_invalid:Hatch spacing,desirable
+length,516,missing_or_invalid:Hatch spacing,desirable
+length,517,missing_or_invalid:Hatch spacing,desirable
+length,518,missing_or_invalid:Hatch spacing,desirable
+length,519,missing_or_invalid:Hatch spacing,LOF
+length,520,missing_or_invalid:Hatch spacing,LOF
+length,521,missing_or_invalid:Hatch spacing,LOF
+length,522,missing_or_invalid:Hatch spacing,LOF
+length,523,missing_or_invalid:Hatch spacing,LOF
+length,524,missing_or_invalid:Hatch spacing,desirable
+length,525,missing_or_invalid:Hatch spacing,desirable
+length,526,missing_or_invalid:Hatch spacing,LOF
+length,527,missing_or_invalid:Hatch spacing,balling
+length,528,missing_or_invalid:Hatch spacing,balling
+length,529,missing_or_invalid:Hatch spacing,balling
+length,530,missing_or_invalid:Hatch spacing,balling
+length,531,missing_or_invalid:Hatch spacing,balling
+length,532,missing_or_invalid:Hatch spacing,balling
+length,533,missing_or_invalid:Hatch spacing,balling
+length,534,missing_or_invalid:Hatch spacing,balling
+length,535,missing_or_invalid:Hatch spacing,balling
+length,536,missing_or_invalid:Hatch spacing,balling
+length,537,missing_or_invalid:Hatch spacing,balling
+length,538,missing_or_invalid:Hatch spacing,balling
+length,539,missing_or_invalid:Hatch spacing,balling
+length,540,missing_or_invalid:Hatch spacing,balling
+length,541,missing_or_invalid:Hatch spacing,desirable
+length,542,missing_or_invalid:Hatch spacing,desirable
+length,543,missing_or_invalid:Hatch spacing,balling
+length,544,missing_or_invalid:Hatch spacing,balling
+length,545,missing_or_invalid:Hatch spacing,balling
+length,546,missing_or_invalid:Hatch spacing,balling
+length,547,missing_or_invalid:Hatch spacing,balling
+length,548,missing_or_invalid:Hatch spacing,balling
+length,549,missing_or_invalid:Hatch spacing,balling
+length,550,missing_or_invalid:Hatch spacing,balling
+length,551,missing_or_invalid:Hatch spacing,balling
+length,552,missing_or_invalid:Hatch spacing,balling
+length,553,missing_or_invalid:Hatch spacing,balling
+length,554,missing_or_invalid:Hatch spacing,balling
+length,555,missing_or_invalid:Hatch spacing,balling
+length,556,missing_or_invalid:Hatch spacing,balling
+length,557,missing_or_invalid:Hatch spacing,balling
+length,558,missing_or_invalid:Hatch spacing,balling
+length,559,missing_or_invalid:Hatch spacing,balling
+length,560,missing_or_invalid:Hatch spacing,balling
+length,561,missing_or_invalid:Hatch spacing,balling
+length,562,missing_or_invalid:Hatch spacing,balling
+length,563,missing_or_invalid:Hatch spacing,balling
+length,564,missing_or_invalid:Hatch spacing,balling
+length,565,missing_or_invalid:Hatch spacing,balling
+length,566,missing_or_invalid:Hatch spacing,balling
+length,567,missing_or_invalid:Hatch spacing,balling
+length,568,missing_or_invalid:Hatch spacing,spatter formation
+length,569,missing_or_invalid:Hatch spacing,spatter formation
+length,570,missing_or_invalid:Hatch spacing,spatter formation
+length,571,missing_or_invalid:Hatch spacing,spatter formation
+length,572,missing_or_invalid:Hatch spacing,spatter formation
+length,573,missing_or_invalid:Hatch spacing,spatter formation
+length,574,missing_or_invalid:Hatch spacing,spatter formation
+length,575,missing_or_invalid:Hatch spacing,spatter formation
+length,576,"missing_or_invalid:k,Hatch spacing,length of melt pool",
+length,577,"missing_or_invalid:k,Hatch spacing,length of melt pool",
+length,578,"missing_or_invalid:k,Hatch spacing,length of melt pool",
+length,579,"missing_or_invalid:k,Hatch spacing,length of melt pool",
+length,583,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,584,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,585,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,586,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,587,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,588,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,589,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,590,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,591,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,592,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,593,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,594,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,595,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,596,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,597,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,598,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,599,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,600,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,601,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,602,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,603,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,604,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,605,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,606,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,607,missing_or_invalid:Hatch spacing,keyhole
+length,608,missing_or_invalid:Hatch spacing,keyhole
+length,609,missing_or_invalid:Hatch spacing,keyhole
+length,610,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,611,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,612,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,613,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,614,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,615,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,616,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,617,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,618,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,619,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,620,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,621,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,622,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,623,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,624,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,625,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,626,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,627,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,628,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,629,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,630,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,631,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,632,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,633,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,634,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,635,missing_or_invalid:length of melt pool,
+length,636,missing_or_invalid:length of melt pool,
+length,637,missing_or_invalid:length of melt pool,
+length,638,missing_or_invalid:length of melt pool,
+length,639,missing_or_invalid:length of melt pool,
+length,640,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,641,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,642,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,643,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,644,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,645,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,646,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,647,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,648,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,649,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,650,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,651,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,652,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,653,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,654,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,655,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,656,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,657,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,658,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,659,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,660,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,661,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,662,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,663,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,664,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,665,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,666,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,667,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,668,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,669,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,670,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,671,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,672,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,673,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,674,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,675,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,676,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,677,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,678,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,679,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,680,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,681,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,682,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,683,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,684,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,685,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,686,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,687,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,688,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,689,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,690,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,691,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,692,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,693,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,694,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,695,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,696,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,697,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,698,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,699,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,700,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,701,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,702,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,703,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,704,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,705,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,706,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,707,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,708,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,709,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,710,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,711,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,712,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,713,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,714,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,715,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,716,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,717,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,718,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,719,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,720,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,721,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,728,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,729,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,730,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,731,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,732,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,733,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,734,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,735,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,736,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,737,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,738,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,739,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,740,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,741,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,742,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,743,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,744,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,745,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,746,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,747,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,748,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,749,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,750,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,751,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,752,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,753,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,754,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,755,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,756,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,757,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,758,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,759,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,760,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,761,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,762,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,763,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,764,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,765,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,766,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,767,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,768,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,769,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,770,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,771,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,772,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,773,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,774,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,775,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,776,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,777,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,778,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,779,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,780,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,781,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,782,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,783,missing_or_invalid:length of melt pool,keyhole
+length,784,missing_or_invalid:length of melt pool,desirable
+length,785,missing_or_invalid:length of melt pool,keyhole
+length,786,missing_or_invalid:length of melt pool,desirable
+length,787,missing_or_invalid:length of melt pool,keyhole
+length,788,missing_or_invalid:length of melt pool,keyhole
+length,789,missing_or_invalid:length of melt pool,LOF
+length,790,missing_or_invalid:length of melt pool,LOF
+length,791,missing_or_invalid:length of melt pool,LOF
+length,792,missing_or_invalid:length of melt pool,LOF
+length,793,missing_or_invalid:length of melt pool,LOF
+length,794,missing_or_invalid:length of melt pool,desirable
+length,795,missing_or_invalid:length of melt pool,LOF
+length,796,missing_or_invalid:length of melt pool,LOF
+length,797,missing_or_invalid:length of melt pool,LOF
+length,798,missing_or_invalid:length of melt pool,LOF
+length,799,missing_or_invalid:length of melt pool,keyhole
+length,800,missing_or_invalid:length of melt pool,keyhole
+length,801,missing_or_invalid:length of melt pool,LOF
+length,802,missing_or_invalid:length of melt pool,LOF
+length,803,missing_or_invalid:length of melt pool,LOF
+length,804,missing_or_invalid:length of melt pool,keyhole
+length,805,missing_or_invalid:length of melt pool,keyhole
+length,806,missing_or_invalid:length of melt pool,desirable
+length,807,missing_or_invalid:length of melt pool,desirable
+length,808,missing_or_invalid:length of melt pool,LOF
+length,809,missing_or_invalid:length of melt pool,keyhole
+length,810,missing_or_invalid:length of melt pool,keyhole
+length,811,missing_or_invalid:length of melt pool,keyhole
+length,812,missing_or_invalid:length of melt pool,keyhole
+length,813,missing_or_invalid:length of melt pool,desirable
+length,828,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,829,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,830,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,831,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,832,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,833,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,834,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,835,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,836,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,845,missing_or_invalid:length of melt pool,
+length,846,missing_or_invalid:length of melt pool,
+length,847,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,848,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,849,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,850,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,851,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,852,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,853,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,854,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,855,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,856,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,857,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,858,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,859,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,860,missing_or_invalid:Hatch spacing,desirable
+length,861,missing_or_invalid:Hatch spacing,LOF
+length,862,missing_or_invalid:Hatch spacing,LOF
+length,863,missing_or_invalid:Hatch spacing,LOF
+length,864,missing_or_invalid:Hatch spacing,LOF
+length,865,missing_or_invalid:Hatch spacing,LOF
+length,866,missing_or_invalid:Hatch spacing,LOF
+length,867,missing_or_invalid:Hatch spacing,desirable
+length,868,missing_or_invalid:Hatch spacing,desirable
+length,869,missing_or_invalid:Hatch spacing,desirable
+length,870,missing_or_invalid:Hatch spacing,desirable
+length,871,missing_or_invalid:Hatch spacing,LOF
+length,872,missing_or_invalid:Hatch spacing,LOF
+length,873,missing_or_invalid:Hatch spacing,LOF
+length,874,missing_or_invalid:Hatch spacing,LOF
+length,875,missing_or_invalid:Hatch spacing,desirable
+length,876,missing_or_invalid:Hatch spacing,desirable
+length,877,missing_or_invalid:Hatch spacing,desirable
+length,878,missing_or_invalid:Hatch spacing,desirable
+length,879,missing_or_invalid:Hatch spacing,desirable
+length,880,missing_or_invalid:Hatch spacing,balling
+length,881,missing_or_invalid:Hatch spacing,balling
+length,882,missing_or_invalid:Hatch spacing,desirable
+length,883,missing_or_invalid:Hatch spacing,desirable
+length,884,missing_or_invalid:Hatch spacing,desirable
+length,885,missing_or_invalid:Hatch spacing,desirable
+length,886,missing_or_invalid:Hatch spacing,desirable
+length,887,missing_or_invalid:Hatch spacing,desirable
+length,888,missing_or_invalid:Hatch spacing,balling
+length,978,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,979,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,980,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,987,missing_or_invalid:Hatch spacing,
+length,988,missing_or_invalid:Hatch spacing,
+length,989,missing_or_invalid:Hatch spacing,
+length,990,missing_or_invalid:Hatch spacing,
+length,991,missing_or_invalid:Hatch spacing,
+length,992,missing_or_invalid:Hatch spacing,
+length,993,missing_or_invalid:Hatch spacing,
+length,994,missing_or_invalid:Hatch spacing,
+length,995,missing_or_invalid:Hatch spacing,
+length,996,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,997,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,998,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,999,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1000,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1001,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1002,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1003,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1004,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1005,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1006,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1007,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1008,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1009,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1010,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1011,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1012,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1013,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1014,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1015,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1016,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1017,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1018,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1019,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1020,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1021,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1022,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1023,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1024,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1025,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1026,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1027,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1028,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1029,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1030,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1031,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1032,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1033,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1034,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1035,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1036,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1037,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1038,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1039,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1040,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1041,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1042,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1043,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1044,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1045,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1046,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1047,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1048,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1049,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1050,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1051,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1052,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1053,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1054,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1055,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1056,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1057,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1058,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1059,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1060,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1061,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1062,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1063,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1064,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1065,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1066,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1067,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1068,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1069,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1070,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1071,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1072,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1073,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1074,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1075,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1076,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1077,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1078,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1079,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1080,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1081,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1082,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1083,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1084,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1085,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1086,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1087,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1088,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1089,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1090,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1091,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1092,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1093,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1094,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1095,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1096,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1097,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1098,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1099,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1100,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1101,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1102,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1103,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1104,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1105,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1106,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1107,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1108,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1109,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1110,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1111,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1112,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1113,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1114,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1115,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1116,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1117,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1118,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1119,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1120,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1121,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1122,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1123,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1124,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1125,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1126,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1127,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1128,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1129,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1130,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1131,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1132,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1133,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1134,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1135,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1136,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1137,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1138,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1139,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1140,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1141,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1142,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1143,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1144,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1145,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1146,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1147,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1148,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1149,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1150,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1151,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1152,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1153,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1154,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1155,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1156,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1157,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1158,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1159,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1160,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1161,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1162,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1163,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1164,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1165,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1166,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1167,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1168,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1169,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1170,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1171,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1172,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1173,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1174,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1175,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1176,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1177,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1178,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1179,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1180,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1181,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1182,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1183,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1184,missing_or_invalid:Hatch spacing,
+length,1185,missing_or_invalid:Hatch spacing,
+length,1186,missing_or_invalid:Hatch spacing,
+length,1187,missing_or_invalid:Hatch spacing,
+length,1188,missing_or_invalid:Hatch spacing,
+length,1189,missing_or_invalid:Hatch spacing,
+length,1190,missing_or_invalid:Hatch spacing,
+length,1191,missing_or_invalid:Hatch spacing,
+length,1192,missing_or_invalid:Hatch spacing,
+length,1193,missing_or_invalid:Hatch spacing,
+length,1194,missing_or_invalid:Hatch spacing,
+length,1195,missing_or_invalid:Hatch spacing,
+length,1196,missing_or_invalid:Hatch spacing,
+length,1197,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1198,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1199,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1200,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1201,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1202,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1203,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1204,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1205,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1206,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1207,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1208,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1209,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1210,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1211,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1212,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1213,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1214,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1215,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1216,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1217,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1218,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,1219,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1220,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1221,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1222,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,1223,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1224,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1225,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1226,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1227,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1228,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1229,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1230,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1231,"missing_or_invalid:density,Cp,k,length of melt pool",
+length,1232,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1233,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1234,"missing_or_invalid:density,Cp,k,length of melt pool",desirable
+length,1235,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1236,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1237,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1238,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1239,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1240,"missing_or_invalid:density,Cp,k,length of melt pool",LOF
+length,1241,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1242,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1243,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1244,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1245,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1246,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1247,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1248,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1249,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1280,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1281,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1282,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1283,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1284,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1285,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1286,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1287,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1288,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1289,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1290,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1291,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1292,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1293,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1294,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1295,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1296,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1297,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1298,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1299,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1300,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1301,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1302,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1303,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1304,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1305,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1306,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1307,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1308,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1309,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1310,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1311,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1312,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1313,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1314,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1315,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1316,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1317,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1318,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1319,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1320,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1321,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1322,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1323,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1324,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1325,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1326,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1327,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1328,missing_or_invalid:length of melt pool,
+length,1329,missing_or_invalid:length of melt pool,
+length,1330,missing_or_invalid:length of melt pool,
+length,1331,missing_or_invalid:length of melt pool,
+length,1332,missing_or_invalid:length of melt pool,
+length,1333,missing_or_invalid:length of melt pool,
+length,1334,missing_or_invalid:length of melt pool,
+length,1335,missing_or_invalid:length of melt pool,
+length,1336,missing_or_invalid:length of melt pool,
+length,1337,missing_or_invalid:length of melt pool,
+length,1338,missing_or_invalid:length of melt pool,
+length,1339,missing_or_invalid:length of melt pool,
+length,1340,missing_or_invalid:length of melt pool,
+length,1341,missing_or_invalid:length of melt pool,
+length,1342,missing_or_invalid:length of melt pool,
+length,1343,missing_or_invalid:length of melt pool,
+length,1344,missing_or_invalid:length of melt pool,
+length,1345,missing_or_invalid:length of melt pool,
+length,1346,missing_or_invalid:length of melt pool,
+length,1347,missing_or_invalid:length of melt pool,
+length,1348,missing_or_invalid:length of melt pool,
+length,1349,missing_or_invalid:length of melt pool,
+length,1350,missing_or_invalid:length of melt pool,
+length,1351,missing_or_invalid:length of melt pool,
+length,1352,missing_or_invalid:length of melt pool,
+length,1353,missing_or_invalid:length of melt pool,
+length,1354,missing_or_invalid:length of melt pool,
+length,1355,missing_or_invalid:length of melt pool,
+length,1356,missing_or_invalid:length of melt pool,
+length,1357,missing_or_invalid:length of melt pool,
+length,1358,missing_or_invalid:length of melt pool,
+length,1359,missing_or_invalid:length of melt pool,
+length,1360,missing_or_invalid:length of melt pool,
+length,1361,missing_or_invalid:length of melt pool,
+length,1362,missing_or_invalid:length of melt pool,
+length,1363,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1364,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1365,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1366,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1367,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1368,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1369,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1370,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1371,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1372,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1373,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1374,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1375,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1376,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1377,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1378,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1379,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1380,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1381,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1382,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1383,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1384,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1385,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1386,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1387,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1388,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1389,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1390,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1391,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1392,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1393,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1394,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1395,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1396,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1397,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1398,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1399,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1400,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1401,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1402,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1403,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1404,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1405,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1406,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1407,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1408,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1409,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1410,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1411,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1412,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1413,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1414,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1415,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1416,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1417,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1418,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1419,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1420,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1421,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1422,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1423,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1424,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1425,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1426,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1427,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1428,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1429,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1430,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1431,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1432,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1433,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1434,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1435,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1436,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1437,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1438,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1439,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1440,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1441,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1442,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1443,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1444,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1445,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1446,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1447,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1448,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1449,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1450,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1451,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1452,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1453,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1454,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1455,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1456,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1457,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1458,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1459,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1460,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1461,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1462,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1463,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1464,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1465,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1466,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1467,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1468,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1469,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1470,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1471,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1472,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1473,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1474,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1475,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1476,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1477,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1478,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1479,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1480,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1481,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1482,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1483,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1484,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1485,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1486,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1487,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1488,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1489,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1490,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1491,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1492,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1493,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1494,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1495,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1496,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1497,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1498,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1499,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1500,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1501,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1502,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1503,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1504,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1505,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1506,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1507,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1508,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1509,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1510,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1511,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1512,missing_or_invalid:Hatch spacing,LOF
+length,1513,missing_or_invalid:Hatch spacing,LOF
+length,1514,missing_or_invalid:Hatch spacing,LOF
+length,1515,missing_or_invalid:Hatch spacing,desirable
+length,1516,missing_or_invalid:Hatch spacing,keyhole
+length,1517,missing_or_invalid:Hatch spacing,desirable
+length,1518,missing_or_invalid:Hatch spacing,balling
+length,1528,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1529,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1530,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1531,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1532,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1533,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1534,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1535,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1536,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1537,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1538,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1539,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1540,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1541,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1542,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1543,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1544,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1545,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1546,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1547,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1548,missing_or_invalid:length of melt pool,
+length,1549,missing_or_invalid:length of melt pool,
+length,1550,missing_or_invalid:length of melt pool,
+length,1551,missing_or_invalid:length of melt pool,
+length,1552,missing_or_invalid:length of melt pool,
+length,1553,missing_or_invalid:length of melt pool,
+length,1554,missing_or_invalid:length of melt pool,
+length,1555,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1556,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1557,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1558,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1559,missing_or_invalid:length of melt pool,
+length,1560,missing_or_invalid:length of melt pool,
+length,1561,missing_or_invalid:length of melt pool,
+length,1562,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1563,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1564,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1565,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1566,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1567,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1568,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1569,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1570,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1571,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1572,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1573,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1574,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1575,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1576,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1577,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1578,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1579,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1580,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1581,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1582,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1583,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1584,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1585,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1586,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1587,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1588,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1589,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1590,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1591,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1592,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1593,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1594,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1595,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1596,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1597,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1598,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1599,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1600,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1601,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1602,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1603,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1604,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1605,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1606,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1607,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1608,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1609,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1610,"missing_or_invalid:Hatch spacing,length of melt pool",
+length,1611,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1612,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1613,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1614,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1615,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1616,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1617,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1618,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1619,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1620,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1621,"missing_or_invalid:Hatch spacing,length of melt pool",balling
+length,1622,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1623,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1624,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1625,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1626,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1627,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1628,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1629,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1630,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1631,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1632,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1633,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1634,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1635,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1636,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1637,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1638,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1639,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1640,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1641,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1642,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1643,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1644,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1645,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1646,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1647,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1648,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1649,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1650,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1651,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1652,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1653,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1654,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1655,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1656,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1657,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1658,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1659,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1660,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1661,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1662,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1663,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1664,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1665,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1666,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1667,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1668,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1669,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1670,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1671,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1672,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1673,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1674,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1675,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1676,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1677,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1678,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1679,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1680,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1681,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1682,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1683,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1684,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1685,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1686,"missing_or_invalid:Hatch spacing,length of melt pool",desirable
+length,1687,"missing_or_invalid:Hatch spacing,length of melt pool",LOF
+length,1688,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1689,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1690,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1691,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1692,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1693,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1694,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1695,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1696,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1697,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1698,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1699,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1700,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1701,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1702,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1703,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1704,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1705,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1706,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1707,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1708,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1709,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1710,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1711,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1712,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1713,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1714,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1715,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1716,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1717,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1718,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1719,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1720,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1721,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1722,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1723,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1724,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1725,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1726,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1727,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1728,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1729,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1730,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1731,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1732,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1733,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1734,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1735,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1736,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1737,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1738,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1739,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1740,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1741,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1742,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1743,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1744,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1745,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1746,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1747,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1748,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1749,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1750,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1751,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1752,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1753,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1754,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1755,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1756,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1757,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1758,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1759,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1760,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1761,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1762,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1763,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1764,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1765,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1766,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1767,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1768,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1769,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1770,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1771,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1772,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1773,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1774,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1775,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1776,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1777,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1778,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1779,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1780,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1781,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1782,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1783,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1784,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1785,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1786,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1787,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1788,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1789,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1790,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1791,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1792,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1793,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1794,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+length,1795,"missing_or_invalid:Hatch spacing,length of melt pool",keyhole
+classification,49,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,50,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,51,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,52,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,53,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,54,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,55,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,56,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,57,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,58,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,59,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,60,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,61,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,62,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,63,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,64,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,65,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,66,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,67,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,68,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,69,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,70,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,71,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,72,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,73,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,74,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,75,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,76,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,77,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,78,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,79,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,80,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,81,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,82,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,83,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,84,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,85,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,86,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,87,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,88,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,89,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,90,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,91,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,92,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,93,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,94,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,95,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,96,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,97,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,98,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,99,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,100,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,101,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,102,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,103,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,104,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,105,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,106,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,107,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,108,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,109,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,110,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,111,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,112,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,113,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,114,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,115,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,116,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,117,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,118,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,119,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,120,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,121,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,122,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,123,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,124,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,125,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,126,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,127,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,128,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,129,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,130,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,131,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,132,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,133,missing_or_invalid:absorptivity_1,LOF
+classification,134,missing_or_invalid:absorptivity_1,LOF
+classification,135,missing_or_invalid:absorptivity_1,LOF
+classification,136,missing_or_invalid:absorptivity_1,LOF
+classification,137,missing_or_invalid:absorptivity_1,LOF
+classification,138,missing_or_invalid:absorptivity_1,LOF
+classification,139,missing_or_invalid:absorptivity_1,LOF
+classification,140,missing_or_invalid:absorptivity_1,LOF
+classification,141,missing_or_invalid:absorptivity_1,LOF
+classification,142,missing_or_invalid:absorptivity_1,LOF
+classification,143,missing_or_invalid:absorptivity_1,LOF
+classification,144,missing_or_invalid:absorptivity_1,LOF
+classification,145,missing_or_invalid:absorptivity_1,desirable
+classification,146,missing_or_invalid:absorptivity_1,desirable
+classification,147,missing_or_invalid:absorptivity_1,desirable
+classification,148,missing_or_invalid:absorptivity_1,desirable
+classification,149,missing_or_invalid:absorptivity_1,desirable
+classification,150,missing_or_invalid:absorptivity_1,desirable
+classification,151,missing_or_invalid:absorptivity_1,desirable
+classification,152,missing_or_invalid:absorptivity_1,desirable
+classification,153,missing_or_invalid:absorptivity_1,desirable
+classification,154,missing_or_invalid:absorptivity_1,desirable
+classification,155,missing_or_invalid:absorptivity_1,keyhole
+classification,156,missing_or_invalid:absorptivity_1,keyhole
+classification,157,missing_or_invalid:absorptivity_1,keyhole
+classification,158,missing_or_invalid:absorptivity_1,keyhole
+classification,159,missing_or_invalid:absorptivity_1,keyhole
+classification,160,missing_or_invalid:absorptivity_1,keyhole
+classification,161,missing_or_invalid:absorptivity_1,keyhole
+classification,162,missing_or_invalid:absorptivity_1,keyhole
+classification,163,missing_or_invalid:absorptivity_1,balling
+classification,164,missing_or_invalid:absorptivity_1,balling
+classification,165,missing_or_invalid:absorptivity_1,balling
+classification,166,missing_or_invalid:absorptivity_1,balling
+classification,167,missing_or_invalid:absorptivity_1,balling
+classification,168,missing_or_invalid:absorptivity_1,balling
+classification,169,missing_or_invalid:absorptivity_1,balling
+classification,170,missing_or_invalid:absorptivity_1,balling
+classification,171,missing_or_invalid:absorptivity_1,balling
+classification,172,missing_or_invalid:absorptivity_1,balling
+classification,207,missing_or_invalid:absorptivity_1,LOF
+classification,208,missing_or_invalid:absorptivity_1,LOF
+classification,209,missing_or_invalid:absorptivity_1,LOF
+classification,210,missing_or_invalid:absorptivity_1,LOF
+classification,211,missing_or_invalid:absorptivity_1,LOF
+classification,212,missing_or_invalid:absorptivity_1,LOF
+classification,213,missing_or_invalid:absorptivity_1,desirable
+classification,214,missing_or_invalid:absorptivity_1,desirable
+classification,215,missing_or_invalid:absorptivity_1,desirable
+classification,216,missing_or_invalid:absorptivity_1,desirable
+classification,217,missing_or_invalid:absorptivity_1,desirable
+classification,218,missing_or_invalid:absorptivity_1,desirable
+classification,219,missing_or_invalid:absorptivity_1,desirable
+classification,220,missing_or_invalid:absorptivity_1,desirable
+classification,221,missing_or_invalid:absorptivity_1,keyhole
+classification,222,missing_or_invalid:absorptivity_1,keyhole
+classification,223,missing_or_invalid:absorptivity_1,keyhole
+classification,224,missing_or_invalid:absorptivity_1,keyhole
+classification,225,missing_or_invalid:absorptivity_1,keyhole
+classification,226,missing_or_invalid:absorptivity_1,keyhole
+classification,227,missing_or_invalid:absorptivity_1,keyhole
+classification,228,missing_or_invalid:absorptivity_1,balling
+classification,229,missing_or_invalid:absorptivity_1,balling
+classification,230,missing_or_invalid:absorptivity_1,balling
+classification,231,missing_or_invalid:absorptivity_1,balling
+classification,232,missing_or_invalid:absorptivity_1,balling
+classification,233,missing_or_invalid:absorptivity_1,balling
+classification,234,missing_or_invalid:absorptivity_1,balling
+classification,235,missing_or_invalid:absorptivity_1,balling
+classification,236,missing_or_invalid:absorptivity_1,balling
+classification,237,missing_or_invalid:absorptivity_1,keyhole
+classification,238,missing_or_invalid:absorptivity_1,keyhole
+classification,239,missing_or_invalid:absorptivity_1,LOF
+classification,240,missing_or_invalid:absorptivity_1,LOF
+classification,241,missing_or_invalid:absorptivity_1,LOF
+classification,242,missing_or_invalid:absorptivity_1,LOF
+classification,243,missing_or_invalid:absorptivity_1,LOF
+classification,244,missing_or_invalid:absorptivity_1,keyhole
+classification,245,missing_or_invalid:absorptivity_1,keyhole
+classification,246,missing_or_invalid:absorptivity_1,LOF
+classification,247,missing_or_invalid:absorptivity_1,LOF
+classification,248,missing_or_invalid:absorptivity_1,LOF
+classification,249,missing_or_invalid:absorptivity_1,LOF
+classification,250,missing_or_invalid:absorptivity_1,LOF
+classification,251,missing_or_invalid:absorptivity_1,LOF
+classification,252,missing_or_invalid:absorptivity_1,keyhole
+classification,253,missing_or_invalid:absorptivity_1,keyhole
+classification,254,missing_or_invalid:absorptivity_1,desirable
+classification,255,missing_or_invalid:absorptivity_1,desirable
+classification,256,missing_or_invalid:absorptivity_1,desirable
+classification,257,missing_or_invalid:absorptivity_1,LOF
+classification,258,missing_or_invalid:absorptivity_1,LOF
+classification,259,missing_or_invalid:absorptivity_1,LOF
+classification,260,missing_or_invalid:absorptivity_1,keyhole
+classification,261,missing_or_invalid:absorptivity_1,keyhole
+classification,262,missing_or_invalid:absorptivity_1,desirable
+classification,263,missing_or_invalid:absorptivity_1,desirable
+classification,264,missing_or_invalid:absorptivity_1,desirable
+classification,265,missing_or_invalid:absorptivity_1,desirable
+classification,266,missing_or_invalid:absorptivity_1,balling
+classification,267,missing_or_invalid:absorptivity_1,balling
+classification,268,missing_or_invalid:absorptivity_1,keyhole
+classification,269,missing_or_invalid:absorptivity_1,keyhole
+classification,270,missing_or_invalid:absorptivity_1,keyhole
+classification,271,missing_or_invalid:absorptivity_1,keyhole
+classification,272,missing_or_invalid:absorptivity_1,keyhole
+classification,273,missing_or_invalid:absorptivity_1,balling
+classification,274,missing_or_invalid:absorptivity_1,balling
+classification,275,missing_or_invalid:absorptivity_1,balling
+classification,276,missing_or_invalid:absorptivity_1,keyhole
+classification,277,missing_or_invalid:absorptivity_1,keyhole
+classification,278,missing_or_invalid:absorptivity_1,keyhole
+classification,279,missing_or_invalid:absorptivity_1,keyhole
+classification,280,missing_or_invalid:absorptivity_1,keyhole
+classification,281,missing_or_invalid:absorptivity_1,balling
+classification,282,missing_or_invalid:absorptivity_1,balling
+classification,283,missing_or_invalid:absorptivity_1,keyhole
+classification,284,missing_or_invalid:absorptivity_1,keyhole
+classification,285,missing_or_invalid:absorptivity_1,keyhole
+classification,286,missing_or_invalid:absorptivity_1,keyhole
+classification,287,missing_or_invalid:absorptivity_1,keyhole
+classification,288,missing_or_invalid:absorptivity_1,balling
+classification,289,missing_or_invalid:absorptivity_1,balling
+classification,290,missing_or_invalid:absorptivity_1,keyhole
+classification,291,missing_or_invalid:absorptivity_1,keyhole
+classification,292,missing_or_invalid:absorptivity_1,keyhole
+classification,293,missing_or_invalid:absorptivity_1,balling
+classification,294,missing_or_invalid:absorptivity_1,keyhole
+classification,295,missing_or_invalid:absorptivity_1,keyhole
+classification,296,missing_or_invalid:absorptivity_1,keyhole
+classification,297,missing_or_invalid:absorptivity_1,keyhole
+classification,298,missing_or_invalid:absorptivity_1,balling
+classification,299,missing_or_invalid:absorptivity_1,balling
+classification,300,missing_or_invalid:absorptivity_1,desirable
+classification,301,missing_or_invalid:absorptivity_1,desirable
+classification,302,missing_or_invalid:absorptivity_1,desirable
+classification,303,missing_or_invalid:absorptivity_1,desirable
+classification,304,missing_or_invalid:absorptivity_1,desirable
+classification,305,missing_or_invalid:absorptivity_1,desirable
+classification,306,missing_or_invalid:absorptivity_1,desirable
+classification,307,missing_or_invalid:absorptivity_1,desirable
+classification,308,missing_or_invalid:absorptivity_1,desirable
+classification,309,missing_or_invalid:absorptivity_1,desirable
+classification,310,missing_or_invalid:absorptivity_1,desirable
+classification,311,missing_or_invalid:absorptivity_1,desirable
+classification,312,missing_or_invalid:absorptivity_1,desirable
+classification,313,missing_or_invalid:absorptivity_1,desirable
+classification,314,missing_or_invalid:absorptivity_1,desirable
+classification,315,missing_or_invalid:absorptivity_1,desirable
+classification,316,missing_or_invalid:absorptivity_1,desirable
+classification,317,missing_or_invalid:absorptivity_1,desirable
+classification,318,missing_or_invalid:absorptivity_1,desirable
+classification,319,missing_or_invalid:absorptivity_1,desirable
+classification,320,missing_or_invalid:absorptivity_1,desirable
+classification,321,missing_or_invalid:absorptivity_1,desirable
+classification,322,missing_or_invalid:absorptivity_1,desirable
+classification,323,missing_or_invalid:absorptivity_1,desirable
+classification,324,missing_or_invalid:absorptivity_1,desirable
+classification,325,missing_or_invalid:absorptivity_1,desirable
+classification,326,missing_or_invalid:absorptivity_1,desirable
+classification,327,missing_or_invalid:absorptivity_1,desirable
+classification,328,missing_or_invalid:absorptivity_1,desirable
+classification,329,missing_or_invalid:absorptivity_1,desirable
+classification,330,missing_or_invalid:absorptivity_1,desirable
+classification,331,missing_or_invalid:absorptivity_1,desirable
+classification,332,missing_or_invalid:absorptivity_1,desirable
+classification,333,missing_or_invalid:absorptivity_1,desirable
+classification,334,missing_or_invalid:absorptivity_1,desirable
+classification,335,missing_or_invalid:absorptivity_1,desirable
+classification,336,missing_or_invalid:absorptivity_1,desirable
+classification,337,missing_or_invalid:absorptivity_1,desirable
+classification,338,missing_or_invalid:absorptivity_1,desirable
+classification,339,missing_or_invalid:absorptivity_1,desirable
+classification,340,missing_or_invalid:absorptivity_1,desirable
+classification,341,missing_or_invalid:absorptivity_1,desirable
+classification,342,missing_or_invalid:absorptivity_1,desirable
+classification,343,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,344,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",balling
+classification,345,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",LOF
+classification,346,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",LOF
+classification,347,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,348,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,349,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",balling
+classification,350,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",LOF
+classification,351,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,352,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,353,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",balling
+classification,354,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",balling
+classification,355,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",keyhole
+classification,356,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,357,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,358,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",balling
+classification,359,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",keyhole
+classification,360,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,361,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,362,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,363,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",keyhole
+classification,364,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",keyhole
+classification,365,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,366,"missing_or_invalid:beam D,density,Cp,k,melting T,absorptivity_1",desirable
+classification,439,missing_or_invalid:absorptivity_1,keyhole
+classification,440,missing_or_invalid:absorptivity_1,keyhole
+classification,441,missing_or_invalid:absorptivity_1,keyhole
+classification,442,missing_or_invalid:absorptivity_1,LOF
+classification,443,missing_or_invalid:absorptivity_1,LOF
+classification,444,missing_or_invalid:absorptivity_1,LOF
+classification,445,missing_or_invalid:absorptivity_1,keyhole
+classification,446,missing_or_invalid:absorptivity_1,keyhole
+classification,447,missing_or_invalid:absorptivity_1,LOF
+classification,448,missing_or_invalid:absorptivity_1,desirable
+classification,449,missing_or_invalid:absorptivity_1,LOF
+classification,450,missing_or_invalid:absorptivity_1,LOF
+classification,451,missing_or_invalid:absorptivity_1,LOF
+classification,452,missing_or_invalid:absorptivity_1,desirable
+classification,453,missing_or_invalid:absorptivity_1,desirable
+classification,454,missing_or_invalid:absorptivity_1,desirable
+classification,455,missing_or_invalid:absorptivity_1,desirable
+classification,456,missing_or_invalid:absorptivity_1,balling
+classification,457,missing_or_invalid:absorptivity_1,balling
+classification,458,missing_or_invalid:absorptivity_1,desirable
+classification,459,missing_or_invalid:absorptivity_1,desirable
+classification,460,missing_or_invalid:absorptivity_1,desirable
+classification,461,missing_or_invalid:absorptivity_1,desirable
+classification,462,missing_or_invalid:absorptivity_1,balling
+classification,496,missing_or_invalid:absorptivity_1,LOF
+classification,497,missing_or_invalid:absorptivity_1,LOF
+classification,498,missing_or_invalid:absorptivity_1,LOF
+classification,499,missing_or_invalid:absorptivity_1,LOF
+classification,509,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,510,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,511,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,512,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,513,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,514,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,515,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,516,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,517,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,518,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,555,missing_or_invalid:absorptivity_1,keyhole
+classification,556,missing_or_invalid:absorptivity_1,keyhole
+classification,573,missing_or_invalid:absorptivity_1,LOF
+classification,574,missing_or_invalid:absorptivity_1,keyhole
+classification,590,missing_or_invalid:absorptivity_1,LOF
+classification,591,missing_or_invalid:absorptivity_1,LOF
+classification,592,missing_or_invalid:absorptivity_1,LOF
+classification,593,missing_or_invalid:absorptivity_1,LOF
+classification,594,missing_or_invalid:absorptivity_1,keyhole
+classification,595,missing_or_invalid:absorptivity_1,keyhole
+classification,596,missing_or_invalid:absorptivity_1,keyhole
+classification,597,missing_or_invalid:absorptivity_1,keyhole
+classification,609,missing_or_invalid:absorptivity_1,desirable
+classification,610,missing_or_invalid:absorptivity_1,desirable
+classification,611,missing_or_invalid:absorptivity_1,desirable
+classification,612,missing_or_invalid:absorptivity_1,desirable
+classification,613,missing_or_invalid:absorptivity_1,desirable
+classification,614,missing_or_invalid:absorptivity_1,desirable
+classification,615,missing_or_invalid:absorptivity_1,desirable
+classification,616,missing_or_invalid:absorptivity_1,desirable
+classification,617,missing_or_invalid:absorptivity_1,LOF
+classification,618,missing_or_invalid:absorptivity_1,desirable
+classification,619,missing_or_invalid:absorptivity_1,desirable
+classification,620,missing_or_invalid:absorptivity_1,desirable
+classification,621,missing_or_invalid:absorptivity_1,desirable
+classification,622,missing_or_invalid:absorptivity_1,LOF
+classification,623,missing_or_invalid:absorptivity_1,LOF
+classification,624,missing_or_invalid:absorptivity_1,LOF
+classification,625,missing_or_invalid:absorptivity_1,LOF
+classification,626,missing_or_invalid:absorptivity_1,LOF
+classification,627,missing_or_invalid:absorptivity_1,desirable
+classification,628,missing_or_invalid:absorptivity_1,desirable
+classification,629,missing_or_invalid:absorptivity_1,LOF
+classification,630,missing_or_invalid:absorptivity_1,balling
+classification,631,missing_or_invalid:absorptivity_1,balling
+classification,632,missing_or_invalid:absorptivity_1,balling
+classification,633,missing_or_invalid:absorptivity_1,balling
+classification,634,missing_or_invalid:absorptivity_1,balling
+classification,635,missing_or_invalid:absorptivity_1,balling
+classification,636,missing_or_invalid:absorptivity_1,balling
+classification,637,missing_or_invalid:absorptivity_1,balling
+classification,638,missing_or_invalid:absorptivity_1,balling
+classification,639,missing_or_invalid:absorptivity_1,balling
+classification,640,missing_or_invalid:absorptivity_1,balling
+classification,641,missing_or_invalid:absorptivity_1,balling
+classification,642,missing_or_invalid:absorptivity_1,balling
+classification,643,missing_or_invalid:absorptivity_1,balling
+classification,644,missing_or_invalid:absorptivity_1,desirable
+classification,645,missing_or_invalid:absorptivity_1,desirable
+classification,646,missing_or_invalid:absorptivity_1,balling
+classification,647,missing_or_invalid:absorptivity_1,balling
+classification,648,missing_or_invalid:absorptivity_1,balling
+classification,649,missing_or_invalid:absorptivity_1,balling
+classification,650,missing_or_invalid:absorptivity_1,balling
+classification,651,missing_or_invalid:absorptivity_1,balling
+classification,652,missing_or_invalid:absorptivity_1,balling
+classification,653,missing_or_invalid:absorptivity_1,balling
+classification,654,missing_or_invalid:absorptivity_1,balling
+classification,655,missing_or_invalid:absorptivity_1,balling
+classification,656,missing_or_invalid:absorptivity_1,balling
+classification,657,missing_or_invalid:absorptivity_1,balling
+classification,658,missing_or_invalid:absorptivity_1,balling
+classification,659,missing_or_invalid:absorptivity_1,balling
+classification,660,missing_or_invalid:absorptivity_1,balling
+classification,661,missing_or_invalid:absorptivity_1,balling
+classification,662,missing_or_invalid:absorptivity_1,balling
+classification,663,missing_or_invalid:absorptivity_1,balling
+classification,664,missing_or_invalid:absorptivity_1,balling
+classification,665,missing_or_invalid:absorptivity_1,balling
+classification,666,missing_or_invalid:absorptivity_1,balling
+classification,667,missing_or_invalid:absorptivity_1,balling
+classification,668,missing_or_invalid:absorptivity_1,balling
+classification,669,missing_or_invalid:absorptivity_1,balling
+classification,670,missing_or_invalid:absorptivity_1,balling
+classification,671,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,672,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,673,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,674,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,675,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,676,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,677,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,678,"missing_or_invalid:absorptivity_1,label",spatter formation
+classification,682,missing_or_invalid:absorptivity_1,desirable
+classification,683,missing_or_invalid:absorptivity_1,desirable
+classification,684,missing_or_invalid:absorptivity_1,desirable
+classification,685,missing_or_invalid:absorptivity_1,desirable
+classification,686,missing_or_invalid:absorptivity_1,desirable
+classification,687,missing_or_invalid:absorptivity_1,balling
+classification,688,missing_or_invalid:absorptivity_1,balling
+classification,689,missing_or_invalid:absorptivity_1,balling
+classification,690,missing_or_invalid:absorptivity_1,desirable
+classification,691,missing_or_invalid:absorptivity_1,desirable
+classification,692,missing_or_invalid:absorptivity_1,desirable
+classification,693,missing_or_invalid:absorptivity_1,balling
+classification,694,missing_or_invalid:absorptivity_1,balling
+classification,695,missing_or_invalid:absorptivity_1,balling
+classification,696,missing_or_invalid:absorptivity_1,balling
+classification,697,missing_or_invalid:absorptivity_1,balling
+classification,698,missing_or_invalid:absorptivity_1,desirable
+classification,699,missing_or_invalid:absorptivity_1,desirable
+classification,700,missing_or_invalid:absorptivity_1,desirable
+classification,701,missing_or_invalid:absorptivity_1,balling
+classification,702,missing_or_invalid:absorptivity_1,balling
+classification,703,missing_or_invalid:absorptivity_1,balling
+classification,704,missing_or_invalid:absorptivity_1,balling
+classification,705,missing_or_invalid:absorptivity_1,balling
+classification,709,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,710,"missing_or_invalid:beam D,absorptivity_1",LOF
+classification,776,missing_or_invalid:absorptivity_1,keyhole
+classification,777,missing_or_invalid:absorptivity_1,keyhole
+classification,778,missing_or_invalid:absorptivity_1,keyhole
+classification,779,missing_or_invalid:absorptivity_1,desirable
+classification,780,missing_or_invalid:absorptivity_1,keyhole
+classification,781,missing_or_invalid:absorptivity_1,keyhole
+classification,782,missing_or_invalid:absorptivity_1,keyhole
+classification,783,missing_or_invalid:absorptivity_1,keyhole
+classification,784,missing_or_invalid:absorptivity_1,desirable
+classification,785,missing_or_invalid:absorptivity_1,keyhole
+classification,786,missing_or_invalid:absorptivity_1,keyhole
+classification,787,missing_or_invalid:absorptivity_1,keyhole
+classification,799,missing_or_invalid:absorptivity_1,keyhole
+classification,800,missing_or_invalid:absorptivity_1,desirable
+classification,801,missing_or_invalid:absorptivity_1,keyhole
+classification,802,missing_or_invalid:absorptivity_1,desirable
+classification,803,missing_or_invalid:absorptivity_1,keyhole
+classification,804,missing_or_invalid:absorptivity_1,keyhole
+classification,805,missing_or_invalid:absorptivity_1,LOF
+classification,806,missing_or_invalid:absorptivity_1,LOF
+classification,807,missing_or_invalid:absorptivity_1,LOF
+classification,808,missing_or_invalid:absorptivity_1,LOF
+classification,809,missing_or_invalid:absorptivity_1,LOF
+classification,810,missing_or_invalid:absorptivity_1,desirable
+classification,811,missing_or_invalid:absorptivity_1,LOF
+classification,812,missing_or_invalid:absorptivity_1,LOF
+classification,813,missing_or_invalid:absorptivity_1,LOF
+classification,814,missing_or_invalid:absorptivity_1,LOF
+classification,815,missing_or_invalid:absorptivity_1,keyhole
+classification,816,missing_or_invalid:absorptivity_1,keyhole
+classification,817,missing_or_invalid:absorptivity_1,LOF
+classification,818,missing_or_invalid:absorptivity_1,LOF
+classification,819,missing_or_invalid:absorptivity_1,LOF
+classification,820,missing_or_invalid:absorptivity_1,keyhole
+classification,821,missing_or_invalid:absorptivity_1,keyhole
+classification,822,missing_or_invalid:absorptivity_1,desirable
+classification,823,missing_or_invalid:absorptivity_1,desirable
+classification,824,missing_or_invalid:absorptivity_1,LOF
+classification,825,missing_or_invalid:absorptivity_1,keyhole
+classification,826,missing_or_invalid:absorptivity_1,keyhole
+classification,827,missing_or_invalid:absorptivity_1,keyhole
+classification,828,missing_or_invalid:absorptivity_1,keyhole
+classification,829,missing_or_invalid:absorptivity_1,desirable
+classification,830,missing_or_invalid:absorptivity_1,keyhole
+classification,831,missing_or_invalid:absorptivity_1,desirable
+classification,832,missing_or_invalid:absorptivity_1,desirable
+classification,891,missing_or_invalid:absorptivity_1,desirable
+classification,892,missing_or_invalid:absorptivity_1,desirable
+classification,893,missing_or_invalid:absorptivity_1,LOF
+classification,894,missing_or_invalid:absorptivity_1,LOF
+classification,895,missing_or_invalid:absorptivity_1,LOF
+classification,896,missing_or_invalid:absorptivity_1,keyhole
+classification,897,missing_or_invalid:absorptivity_1,desirable
+classification,898,missing_or_invalid:absorptivity_1,desirable
+classification,899,missing_or_invalid:absorptivity_1,LOF
+classification,900,missing_or_invalid:absorptivity_1,LOF
+classification,901,missing_or_invalid:absorptivity_1,keyhole
+classification,902,missing_or_invalid:absorptivity_1,keyhole
+classification,903,missing_or_invalid:absorptivity_1,desirable
+classification,904,missing_or_invalid:absorptivity_1,desirable
+classification,905,missing_or_invalid:absorptivity_1,LOF
+classification,906,missing_or_invalid:absorptivity_1,keyhole
+classification,907,missing_or_invalid:absorptivity_1,keyhole
+classification,908,missing_or_invalid:absorptivity_1,keyhole
+classification,909,missing_or_invalid:absorptivity_1,desirable
+classification,910,missing_or_invalid:absorptivity_1,desirable
+classification,911,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,912,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,913,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,914,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,915,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,916,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,917,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,918,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,919,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,920,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,921,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,922,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,923,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,924,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,925,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",desirable
+classification,926,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,927,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,928,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,929,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,930,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,931,"missing_or_invalid:beam D,density,Cp,k,absorptivity_1",LOF
+classification,962,"missing_or_invalid:beam D,absorptivity_1",keyhole
+classification,963,"missing_or_invalid:beam D,absorptivity_1",desirable
+classification,984,missing_or_invalid:absorptivity_1,keyhole
+classification,985,missing_or_invalid:absorptivity_1,keyhole
+classification,986,missing_or_invalid:absorptivity_1,LOF
+classification,987,missing_or_invalid:absorptivity_1,LOF
+classification,988,missing_or_invalid:absorptivity_1,keyhole
+classification,989,missing_or_invalid:absorptivity_1,keyhole
+classification,990,missing_or_invalid:absorptivity_1,keyhole
+classification,991,missing_or_invalid:absorptivity_1,keyhole
+classification,992,missing_or_invalid:absorptivity_1,keyhole
+classification,993,missing_or_invalid:absorptivity_1,balling
+classification,994,missing_or_invalid:absorptivity_1,balling
+classification,995,missing_or_invalid:absorptivity_1,balling
+classification,996,missing_or_invalid:absorptivity_1,balling
+classification,1029,missing_or_invalid:absorptivity_1,desirable
+classification,1030,missing_or_invalid:absorptivity_1,LOF
+classification,1031,missing_or_invalid:absorptivity_1,LOF
+classification,1032,missing_or_invalid:absorptivity_1,desirable
+classification,1033,missing_or_invalid:absorptivity_1,desirable
+classification,1034,missing_or_invalid:absorptivity_1,desirable
+classification,1035,missing_or_invalid:absorptivity_1,desirable
+classification,1036,missing_or_invalid:absorptivity_1,desirable
+classification,1037,missing_or_invalid:absorptivity_1,desirable
+classification,1038,missing_or_invalid:absorptivity_1,desirable
+classification,1039,missing_or_invalid:absorptivity_1,desirable
+classification,1040,missing_or_invalid:absorptivity_1,desirable
+classification,1041,missing_or_invalid:absorptivity_1,desirable
+classification,1042,missing_or_invalid:absorptivity_1,desirable
+classification,1043,missing_or_invalid:absorptivity_1,desirable
+classification,1044,missing_or_invalid:absorptivity_1,keyhole
+classification,1045,missing_or_invalid:absorptivity_1,keyhole
+classification,1046,missing_or_invalid:absorptivity_1,keyhole
+classification,1047,missing_or_invalid:absorptivity_1,keyhole
+classification,1048,missing_or_invalid:absorptivity_1,keyhole

@@ -1,0 +1,20 @@
+alloy,label,n
+AlSi10Mg,keyhole,9
+AlSi10Mg,LOF,8
+AlSi10Mg,desirable,3
+HCP Cu,keyhole,5
+IN718,keyhole,81
+IN718,desirable,36
+IN718,balling,18
+IN718,LOF,13
+SS316L,desirable,107
+SS316L,LOF,96
+SS316L,keyhole,69
+SS316L,balling,5
+Ti-6Al-4V,keyhole,135
+Ti-6Al-4V,desirable,43
+Ti-6Al-4V,LOF,26
+Ti-6Al-4V,balling,5
+TiC/Inconel 718,LOF,2
+TiC/Inconel 718,balling,2
+Tungsten,balling,6

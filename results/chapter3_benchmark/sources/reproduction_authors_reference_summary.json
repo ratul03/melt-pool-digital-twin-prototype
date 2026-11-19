@@ -1,0 +1,27 @@
+{
+  "n": 77,
+  "class_counts": {
+    "desirable": 40,
+    "keyhole": 20,
+    "LOF": 13,
+    "balling": 4
+  },
+  "accuracy_mean": 0.8758333333333332,
+  "accuracy_rng_std": 0.00761486120104048,
+  "per_rng_seed": [
+    0.8699999999999999,
+    0.8841666666666667,
+    0.8708333333333333,
+    0.8841666666666667,
+    0.8699999999999999
+  ],
+  "matches_actual_notebook_function": true,
+  "model_reload": [
+    {
+      "model": "models\\authors_reference\\RFC_both_absorptivities_hatch.joblib",
+      "reload_pass": true,
+      "n_train": 61,
+      "n_test": 16
+    }
+  ]
+}

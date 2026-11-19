@@ -1,0 +1,325 @@
+task,alloy,budget,predictor,metric,min,p10,median,p90,max,n_conditions,interpretation
+classification,IN718,0,ml,coverage,0.1,0.1,0.25,0.35,0.35,100,descriptive dependent seed/selection spread
+classification,IN718,0,ml,mean_set_size,0.5,0.5,1.2,1.45,1.45,100,descriptive dependent seed/selection spread
+classification,IN718,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,IN718,0,simple,mean_set_size,3.0,3.0,3.0,3.0,3.0,100,descriptive dependent seed/selection spread
+classification,IN718,9,ml,coverage,0.55,0.75,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,IN718,9,ml,mean_set_size,2.2,3.25,3.65,3.95,4.0,100,descriptive dependent seed/selection spread
+classification,IN718,9,simple,coverage,0.3,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,IN718,9,simple,mean_set_size,1.0,3.0,4.0,4.0,4.0,100,descriptive dependent seed/selection spread
+classification,IN718,20,ml,coverage,0.65,0.75,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,IN718,20,ml,mean_set_size,2.55,3.3,3.7,3.95,3.95,100,descriptive dependent seed/selection spread
+classification,IN718,20,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,IN718,20,simple,mean_set_size,3.0,3.0,4.0,4.0,4.0,100,descriptive dependent seed/selection spread
+classification,SS316L,0,ml,coverage,0.4,0.4,0.55,0.55,0.55,100,descriptive dependent seed/selection spread
+classification,SS316L,0,ml,mean_set_size,0.85,0.85,1.35,1.5,1.5,100,descriptive dependent seed/selection spread
+classification,SS316L,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,SS316L,0,simple,mean_set_size,3.0,3.0,3.0,3.0,3.0,100,descriptive dependent seed/selection spread
+classification,SS316L,9,ml,coverage,0.65,0.845,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,SS316L,9,ml,mean_set_size,2.1,2.9450000000000003,3.65,3.95,3.95,100,descriptive dependent seed/selection spread
+classification,SS316L,9,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,SS316L,9,simple,mean_set_size,3.0,3.0,3.0,4.0,4.0,100,descriptive dependent seed/selection spread
+classification,SS316L,20,ml,coverage,0.8,0.85,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,SS316L,20,ml,mean_set_size,2.75,3.15,3.65,3.9,3.95,100,descriptive dependent seed/selection spread
+classification,SS316L,20,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,SS316L,20,simple,mean_set_size,3.0,3.0,3.0,3.0,4.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,0,ml,coverage,0.6,0.6,0.6,0.7,0.7,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,0,ml,mean_set_size,0.9,0.9,0.95,1.25,1.25,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,0,simple,mean_set_size,3.0,3.0,3.0,3.0,3.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,9,ml,coverage,0.6,0.7,0.875,0.95,1.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,9,ml,mean_set_size,0.95,1.2,3.15,3.6600000000000006,4.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,9,simple,coverage,0.7,0.7,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,9,simple,mean_set_size,2.0,2.0,3.0,4.0,4.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,20,ml,coverage,0.65,0.75,0.9,0.95,1.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,20,ml,mean_set_size,1.15,2.2849999999999997,3.25,3.55,4.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,20,simple,coverage,0.7,0.7,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+classification,Ti-6Al-4V,20,simple,mean_set_size,2.0,2.0,3.0,3.0,4.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,ml,coverage,0.85,0.85,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,ml,mean_interval_score,123.82867445139928,123.82867445139928,133.08356589528154,149.77112657917502,149.77112657917502,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,ml,mean_width,114.01744317549449,114.01744317549449,129.61745093265114,149.77112657917502,149.77112657917502,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,simple,mean_interval_score,322.1624062499999,322.1624062499999,401.25036079545464,521.3591392045455,521.3591392045455,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,0,simple,mean_width,322.1624062499999,322.1624062499999,401.25036079545464,521.3591392045455,521.3591392045455,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,ml,coverage,0.65,0.85,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,ml,mean_interval_score,90.96689705140125,100.27729244033277,135.1892471311726,148.6669366577766,238.7910788428622,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,ml,mean_width,61.28810875766876,98.79172662588475,127.59552516241149,135.45502809712985,140.64300551305132,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,simple,coverage,0.7,0.745,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,simple,mean_interval_score,225.71009375,227.07721590909097,233.71009375,257.90284375,276.25759374999996,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,9,simple,mean_width,184.71009375,197.25759375,222.07721590909097,233.25759374999998,241.25759374999993,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,ml,coverage,0.85,0.9,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,ml,mean_interval_score,90.96689705140125,100.27729244033277,128.15036973600849,148.6669366577766,148.66693665777666,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,ml,mean_width,70.0687553106801,99.83424222102339,124.43047955263421,129.4446171720546,129.4446171720546,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,simple,coverage,0.8,0.9,0.9,0.9,0.9,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,simple,mean_interval_score,225.71009375,225.71009375,227.64086079545456,238.25759374999998,246.25759374999993,100,descriptive dependent seed/selection spread
+depth,Hastelloy X,20,simple,mean_width,206.71009375,220.71009375,222.64086079545456,233.25759374999998,233.25759374999998,100,descriptive dependent seed/selection spread
+depth,IN625,0,ml,coverage,0.6,0.6,0.75,0.8,0.8,100,descriptive dependent seed/selection spread
+depth,IN625,0,ml,mean_interval_score,535.567950549626,535.567950549626,983.1370335785778,1318.6537812312313,1318.6537812312313,100,descriptive dependent seed/selection spread
+depth,IN625,0,ml,mean_width,134.02827342919818,134.02827342919818,169.30316562528705,190.83164375795104,190.83164375795104,100,descriptive dependent seed/selection spread
+depth,IN625,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN625,0,simple,mean_interval_score,281.2153172205437,281.2153172205437,444.795912386707,481.24148036253774,481.24148036253774,100,descriptive dependent seed/selection spread
+depth,IN625,0,simple,mean_width,281.2153172205437,281.2153172205437,444.795912386707,481.24148036253774,481.24148036253774,100,descriptive dependent seed/selection spread
+depth,IN625,9,ml,coverage,0.65,0.75,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN625,9,ml,mean_interval_score,419.98284536898825,516.5317108017714,698.8822614551742,1003.5989728441189,1133.427606455142,100,descriptive dependent seed/selection spread
+depth,IN625,9,ml,mean_width,87.75077701992295,181.11839953641575,514.3114614990138,731.6683404394805,960.457285426775,100,descriptive dependent seed/selection spread
+depth,IN625,9,simple,coverage,0.7,0.84,0.85,0.9,1.0,100,descriptive dependent seed/selection spread
+depth,IN625,9,simple,mean_interval_score,252.00000000000006,256.69999999999993,269.0,283.7000000000001,424.7959123867069,100,descriptive dependent seed/selection spread
+depth,IN625,9,simple,mean_width,185.2040876132931,198.6219344410876,223.552496978852,251.67386918428997,424.7959123867069,100,descriptive dependent seed/selection spread
+depth,IN625,20,ml,coverage,0.75,0.75,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN625,20,ml,mean_interval_score,419.98284536898825,422.5392645386588,641.558428707533,841.7073236427947,1119.9770698705152,100,descriptive dependent seed/selection spread
+depth,IN625,20,ml,mean_width,139.45398048177498,278.16789862231764,468.7904134890742,698.8822614551742,960.457285426775,100,descriptive dependent seed/selection spread
+depth,IN625,20,simple,coverage,0.85,0.85,0.85,0.9,0.9,100,descriptive dependent seed/selection spread
+depth,IN625,20,simple,mean_interval_score,252.00000000000006,253.99999999999994,262.3926676737159,269.38421450151066,274.00000000000006,100,descriptive dependent seed/selection spread
+depth,IN625,20,simple,mean_width,195.2040876132931,213.34343202416918,238.75851963746223,251.67386918428997,258.2046827794563,100,descriptive dependent seed/selection spread
+depth,IN718,0,ml,coverage,0.15,0.15,0.35,0.65,0.65,100,descriptive dependent seed/selection spread
+depth,IN718,0,ml,mean_interval_score,871.8258147785585,871.8258147785585,1154.4656923351974,1719.6244811564054,1719.6244811564054,100,descriptive dependent seed/selection spread
+depth,IN718,0,ml,mean_width,96.2173555320494,96.2173555320494,132.66722560682734,174.64962538445957,174.64962538445957,100,descriptive dependent seed/selection spread
+depth,IN718,0,simple,coverage,0.75,0.75,0.85,0.9,0.9,100,descriptive dependent seed/selection spread
+depth,IN718,0,simple,mean_interval_score,751.2513673758865,751.2513673758865,770.1624028368796,849.6199432624113,849.6199432624113,100,descriptive dependent seed/selection spread
+depth,IN718,0,simple,mean_width,290.51994326241135,290.51994326241135,388.46240283687956,502.6496085106384,502.6496085106384,100,descriptive dependent seed/selection spread
+depth,IN718,9,ml,coverage,0.85,0.95,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN718,9,ml,mean_interval_score,512.2606124183742,643.8248139678828,887.8607355424499,1405.2413016258608,1413.699922283579,100,descriptive dependent seed/selection spread
+depth,IN718,9,ml,mean_width,326.30712936467546,534.5120932352745,862.0044009517878,1405.2413016258608,1413.699922283579,100,descriptive dependent seed/selection spread
+depth,IN718,9,simple,coverage,0.85,0.95,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN718,9,simple,mean_interval_score,790.5199432624115,806.2624028368795,1196.2624028368798,1841.2513673758865,1842.6496085106385,100,descriptive dependent seed/selection spread
+depth,IN718,9,simple,mean_width,330.51994326241135,696.2624028368793,1196.2624028368798,1841.2513673758865,1842.6496085106385,100,descriptive dependent seed/selection spread
+depth,IN718,20,ml,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN718,20,ml,mean_interval_score,704.2215432753179,704.2215432753179,862.0044009517878,927.6605545181708,927.6605545181708,100,descriptive dependent seed/selection spread
+depth,IN718,20,ml,mean_width,704.2215432753179,704.2215432753179,862.0044009517878,927.6605545181708,927.6605545181708,100,descriptive dependent seed/selection spread
+depth,IN718,20,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN718,20,simple,mean_interval_score,1190.519943262411,1190.519943262411,1196.2624028368798,1202.649608510638,1202.649608510638,100,descriptive dependent seed/selection spread
+depth,IN718,20,simple,mean_width,1190.519943262411,1190.519943262411,1196.2624028368798,1202.649608510638,1202.649608510638,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,ml,coverage,0.7,0.7,0.8,0.9,0.9,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,ml,mean_interval_score,368.3744912526171,368.3744912526171,379.45289604020746,590.1562529873041,590.1562529873041,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,ml,mean_width,124.20992700895799,124.20992700895799,129.38237799080434,169.42074638077474,169.42074638077474,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,simple,coverage,0.7,0.7,0.75,0.75,0.75,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,simple,mean_interval_score,789.3847345767575,789.3847345767575,807.1372654232425,999.0,999.0,100,descriptive dependent seed/selection spread
+depth,IN738LC,0,simple,mean_width,262.607824964132,262.607824964132,398.83726542324246,408.94443902439014,408.94443902439014,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,ml,coverage,0.75,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,ml,mean_interval_score,328.99543286943697,379.4528960402075,535.5122868050872,664.1994681949237,774.9751420903227,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,ml,mean_width,137.78762917003715,236.96126226202315,535.5122868050872,664.1994681949237,774.9751420903227,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,simple,coverage,0.45,0.745,0.75,0.95,0.95,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,simple,mean_interval_score,644.607824964132,648.8197044476328,729.3847345767575,906.7499951219527,1264.7777560975608,100,descriptive dependent seed/selection spread
+depth,IN738LC,9,simple,mean_width,181.05556097560975,328.2414863701579,448.5572654232425,586.9934605451937,588.9444390243901,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,ml,coverage,0.9,0.95,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,ml,mean_interval_score,328.99543286943697,467.7802029292037,535.5122868050872,616.3112638240391,637.693457200326,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,ml,mean_width,241.1722242656562,454.9159067792779,535.5122868050872,616.3112638240391,637.693457200326,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,simple,coverage,0.75,0.75,0.825,0.9,0.9,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,simple,mean_interval_score,644.607824964132,647.107043615495,688.776131994261,792.595982783357,888.9444390243901,100,descriptive dependent seed/selection spread
+depth,IN738LC,20,simple,mean_width,338.607824964132,405.10704361549494,500.7761319942611,558.595982783357,558.9444390243901,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,ml,coverage,0.6,0.6,0.6,0.65,0.65,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,ml,mean_interval_score,886.930949090243,886.930949090243,2919.912725384819,7604.636203964472,7604.636203964472,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,ml,mean_width,120.99125011212982,120.99125011212982,146.62697042297023,161.79899818089592,161.79899818089592,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,simple,mean_interval_score,397.1806858006042,397.1806858006042,415.6966465256798,478.5173927492448,478.5173927492448,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,0,simple,mean_width,397.1806858006042,397.1806858006042,415.6966465256798,478.5173927492448,478.5173927492448,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,ml,coverage,0.4,0.65,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,ml,mean_interval_score,503.9838552904115,636.0368655441694,1379.500517189895,3833.0912213325987,7884.175087185782,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,ml,mean_width,45.718070553079635,338.819847434026,1036.756727184687,2733.9709241881887,4429.753156903871,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,simple,coverage,0.65,0.745,0.8,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,simple,mean_interval_score,243.4826072507552,250.77448549848947,257.1806858006042,270.67522809667696,326.37102719033226,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,9,simple,mean_width,195.6966465256797,217.97144924471297,230.8193141993958,257.1806858006042,258.5173927492448,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,ml,coverage,0.65,0.8,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,ml,mean_interval_score,503.9838552904115,557.1791327311652,1342.449282248149,3694.748105864789,4293.601306388812,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,ml,mean_width,266.1250682616874,515.5113912137145,1015.2933706808233,2768.6314363554534,4293.601306388812,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,simple,coverage,0.65,0.75,0.8,0.8,0.8,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,simple,mean_interval_score,243.4826072507552,250.2821851963745,257.4826072507552,267.4158558912386,326.37102719033226,100,descriptive dependent seed/selection spread
+depth,SS17-4PH,20,simple,mean_width,195.6966465256797,220.68564350453173,226.8193141993958,235.57144924471297,242.37102719033223,100,descriptive dependent seed/selection spread
+depth,SS316L,0,ml,coverage,0.5,0.5,0.6,0.6,0.6,100,descriptive dependent seed/selection spread
+depth,SS316L,0,ml,mean_interval_score,689.1649469122667,689.1649469122667,960.9611442472242,1338.7794583371754,1338.7794583371754,100,descriptive dependent seed/selection spread
+depth,SS316L,0,ml,mean_width,112.54814868716733,112.54814868716733,167.82780986921767,192.15320870529658,192.15320870529658,100,descriptive dependent seed/selection spread
+depth,SS316L,0,simple,coverage,0.7,0.7,0.7,0.85,0.85,100,descriptive dependent seed/selection spread
+depth,SS316L,0,simple,mean_interval_score,1027.6109691629956,1027.6109691629956,1309.1470925110132,1350.301718061674,1350.301718061674,100,descriptive dependent seed/selection spread
+depth,SS316L,0,simple,mean_width,244.9480176211454,244.9480176211454,268.57709251101335,471.9409691629956,471.9409691629956,100,descriptive dependent seed/selection spread
+depth,SS316L,9,ml,coverage,0.55,0.85,0.9,0.95,1.0,100,descriptive dependent seed/selection spread
+depth,SS316L,9,ml,mean_interval_score,486.95808591883997,492.94337607585464,626.7092006806362,951.9314090961786,1360.3902613419868,100,descriptive dependent seed/selection spread
+depth,SS316L,9,ml,mean_width,144.15416239499444,314.50273274772184,441.64694821021635,716.5209717032307,979.2456924803777,100,descriptive dependent seed/selection spread
+depth,SS316L,9,simple,coverage,0.7,0.85,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS316L,9,simple,mean_interval_score,904.9480176211451,918.0013656387666,1013.8717180616738,1501.2141629955947,2050.2809691629955,100,descriptive dependent seed/selection spread
+depth,SS316L,9,simple,mean_width,190.65903083700445,464.3873127753304,708.5484581497799,1393.7956740088116,2050.2809691629955,100,descriptive dependent seed/selection spread
+depth,SS316L,20,ml,coverage,0.75,0.8,0.85,0.95,1.0,100,descriptive dependent seed/selection spread
+depth,SS316L,20,ml,mean_interval_score,486.95808591883997,489.23003876371223,609.8948750087561,938.6650173786359,1035.412613298346,100,descriptive dependent seed/selection spread
+depth,SS316L,20,ml,mean_width,232.2814874588039,308.22196091610255,412.84677230199736,555.0233792062713,805.8955234925501,100,descriptive dependent seed/selection spread
+depth,SS316L,20,simple,coverage,0.75,0.85,0.85,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,SS316L,20,simple,mean_interval_score,904.9480176211453,919.1172555066076,989.1063436123349,1153.6436740088118,1377.9209691629953,100,descriptive dependent seed/selection spread
+depth,SS316L,20,simple,mean_width,392.08801762114524,476.73531277533044,614.5544052863436,1153.6436740088118,1377.9209691629953,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,ml,coverage,0.4,0.4,0.65,0.95,0.95,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,ml,mean_interval_score,243.754433162619,243.754433162619,402.45580597597285,1475.688161432297,1475.688161432297,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,ml,mean_width,160.32447798099557,160.32447798099557,193.67272948802582,226.69175570336407,226.69175570336407,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,simple,mean_interval_score,327.9299250814331,327.9299250814331,386.95387622149826,419.25999022801295,419.25999022801295,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,0,simple,mean_width,327.9299250814331,327.9299250814331,386.95387622149826,419.25999022801295,419.25999022801295,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,ml,coverage,0.65,0.75,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,ml,mean_interval_score,230.3102716769844,297.05792342701767,391.81371069201765,593.6878228789418,765.2587872056116,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,ml,mean_width,113.91848048436759,248.8995754215221,391.81371069201765,544.4449826315856,765.2587872056116,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,simple,coverage,0.9,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,simple,mean_interval_score,269.9999999999999,269.9999999999999,277.60503745928344,586.4129837133564,959.259990228013,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,9,simple,mean_width,220.74000977198693,244.84474690553753,275.9750423452769,586.4129837133564,959.259990228013,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,ml,coverage,0.7,0.795,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,ml,mean_interval_score,221.5876398779047,269.6488998097441,333.9758049095991,570.3953899157655,604.1945146571643,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,ml,mean_width,137.36374408252672,247.33899112605133,331.60839027149575,509.97410890949607,592.6148383350503,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,simple,coverage,0.75,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,simple,mean_interval_score,269.9999999999999,270.00000000000006,277.0000000000001,403.41298371335535,459.25999022801295,100,descriptive dependent seed/selection spread
+depth,Ti-6Al-4V,20,simple,mean_width,208.74000977198693,246.97006840390884,273.04612377850174,403.41298371335535,459.25999022801295,100,descriptive dependent seed/selection spread
+length,IN625,0,ml,coverage,0.0,0.0,0.0,0.75,0.75,100,descriptive dependent seed/selection spread
+length,IN625,0,ml,mean_interval_score,414.61984241003404,414.61984241003404,2019.2691002316983,8683.246621064569,8683.246621064569,100,descriptive dependent seed/selection spread
+length,IN625,0,ml,mean_width,41.496583743755664,41.496583743755664,55.76868414573107,229.67746412151837,229.67746412151837,100,descriptive dependent seed/selection spread
+length,IN625,0,simple,coverage,0.0,0.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,IN625,0,simple,mean_interval_score,1658.6835443037974,1658.6835443037974,2762.683544303798,6707.08235443038,6707.08235443038,100,descriptive dependent seed/selection spread
+length,IN625,0,simple,mean_width,439.8481012658229,439.8481012658229,1658.6835443037974,2762.683544303798,2762.683544303798,100,descriptive dependent seed/selection spread
+length,IN625,9,ml,coverage,0.65,0.8,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+length,IN625,9,ml,mean_interval_score,366.72246658237157,417.0295368731948,622.3104488994298,1226.492901067332,1265.9754042976433,100,descriptive dependent seed/selection spread
+length,IN625,9,ml,mean_width,258.0862317558378,369.6472648728901,581.5932310498698,1224.7682192438344,1227.8081834502123,100,descriptive dependent seed/selection spread
+length,IN625,9,simple,coverage,0.95,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,IN625,9,simple,mean_interval_score,1334.1518987341772,1346.1518987341772,1408.6835443037974,1472.6835443037974,1472.6835443037974,100,descriptive dependent seed/selection spread
+length,IN625,9,simple,mean_width,1332.1518987341772,1346.1518987341772,1408.6835443037974,1472.6835443037974,1472.6835443037974,100,descriptive dependent seed/selection spread
+length,IN625,20,ml,coverage,0.75,0.85,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+length,IN625,20,ml,mean_interval_score,366.72246658237157,417.0295368731948,622.3104488994298,1226.492901067332,1226.492901067332,100,descriptive dependent seed/selection spread
+length,IN625,20,ml,mean_width,265.3169369579711,384.38391067479387,605.9667371418382,1224.7682192438344,1224.7682192438344,100,descriptive dependent seed/selection spread
+length,IN625,20,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,IN625,20,simple,mean_interval_score,1336.1518987341772,1346.1518987341772,1408.6835443037974,1472.6835443037974,1472.6835443037974,100,descriptive dependent seed/selection spread
+length,IN625,20,simple,mean_width,1336.1518987341772,1346.1518987341772,1408.6835443037974,1472.6835443037974,1472.6835443037974,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,ml,coverage,0.0,0.0,0.0,0.0,0.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,ml,mean_interval_score,9288.678538354734,9288.678538354734,15630.787534802363,16433.83996785177,16433.83996785177,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,ml,mean_width,23.557011245216472,23.557011245216472,56.5648759717069,553.7935149805453,553.7935149805453,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,simple,mean_interval_score,1031.8486842105262,1031.8486842105262,1531.030263157895,1618.9327894736848,1618.9327894736848,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,0,simple,mean_width,1031.8486842105262,1031.8486842105262,1531.030263157895,1618.9327894736848,1618.9327894736848,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,ml,coverage,0.7,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,ml,mean_interval_score,1344.1475373698909,1366.849562588149,1713.2820149043969,1786.9964151882455,1824.9964654259086,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,ml,mean_width,1312.5383294439605,1366.849562588149,1704.1371264536556,1786.9964151882455,1824.9964654259086,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,simple,coverage,0.8,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,simple,mean_interval_score,860.0672105263153,885.0672105263153,972.969736842105,1033.0489473684208,1067.0489473684208,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,9,simple,mean_width,829.0672105263153,885.0672105263153,972.969736842105,1033.0489473684208,1067.0489473684208,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,ml,coverage,0.9,0.99,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,ml,mean_interval_score,1344.1475373698909,1366.849562588149,1721.2820149043969,1786.9964151882455,1786.9964151882455,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,ml,mean_width,1322.7973476222658,1366.849562588149,1721.2820149043969,1786.9964151882455,1786.9964151882455,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,simple,coverage,0.9,0.99,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,simple,mean_interval_score,860.0672105263153,885.0672105263153,972.969736842105,1033.0489473684208,1033.0489473684208,100,descriptive dependent seed/selection spread
+length,Ti-6Al-4V,20,simple,mean_width,837.0672105263153,885.0672105263153,972.969736842105,1033.0489473684208,1033.0489473684208,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,ml,coverage,0.9,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,ml,mean_interval_score,98.91186000122158,98.91186000122158,118.95660064317076,154.09440099307625,154.09440099307625,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,ml,mean_width,98.4290065998589,98.4290065998589,118.95660064317076,154.09440099307625,154.09440099307625,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,simple,mean_interval_score,273.3319420989144,273.3319420989144,284.5456453558505,301.67575392038606,301.67575392038606,100,descriptive dependent seed/selection spread
+width,Hastelloy X,0,simple,mean_width,273.3319420989144,273.3319420989144,284.5456453558505,301.67575392038606,301.67575392038606,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,ml,coverage,0.6,0.85,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,ml,mean_interval_score,69.9664435600592,74.89260662870649,83.99634795349724,100.62952343686332,109.74146811753398,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,ml,mean_width,45.548508235193594,66.23375608186328,76.66385631534543,98.99347122949125,102.83024877295188,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,simple,coverage,0.9,0.945,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,simple,mean_interval_score,174.46012062726177,175.6675343787696,180.7777322074789,190.54564535585047,192.6680579010857,100,descriptive dependent seed/selection spread
+width,Hastelloy X,9,simple,mean_width,157.46012062726177,161.46012062726177,172.7777322074789,190.54564535585047,192.6680579010857,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,ml,coverage,0.85,0.95,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,ml,mean_interval_score,71.96644356005922,74.89260662870649,83.85026729418306,98.99347122949125,98.99347122949125,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,ml,mean_width,67.26903080477302,73.12135694206754,78.28464868529282,98.99347122949125,98.99347122949125,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,simple,coverage,0.95,0.95,0.95,0.95,0.95,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,simple,mean_interval_score,178.46012062726177,179.46012062726177,180.7777322074789,184.6680579010857,184.6680579010857,100,descriptive dependent seed/selection spread
+width,Hastelloy X,20,simple,mean_width,169.46012062726177,171.46012062726177,172.7777322074789,176.6680579010857,176.6680579010857,100,descriptive dependent seed/selection spread
+width,IN625,0,ml,coverage,0.55,0.55,0.8,0.85,0.85,100,descriptive dependent seed/selection spread
+width,IN625,0,ml,mean_interval_score,163.15305570944082,163.15305570944082,290.47461724731863,585.7542424439876,585.7542424439876,100,descriptive dependent seed/selection spread
+width,IN625,0,ml,mean_width,124.3589393100854,124.3589393100854,130.11360300467118,148.48302211986257,148.48302211986257,100,descriptive dependent seed/selection spread
+width,IN625,0,simple,coverage,1.0,1.0,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN625,0,simple,mean_interval_score,301.8619289340102,301.8619289340102,346.8101269035533,373.2685532994925,373.2685532994925,100,descriptive dependent seed/selection spread
+width,IN625,0,simple,mean_width,301.8619289340102,301.8619289340102,346.8101269035533,373.2685532994925,373.2685532994925,100,descriptive dependent seed/selection spread
+width,IN625,9,ml,coverage,0.7,0.845,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN625,9,ml,mean_interval_score,149.474777062081,179.61939687331193,237.58526723124248,355.30114189089375,460.3790874139742,100,descriptive dependent seed/selection spread
+width,IN625,9,ml,mean_width,100.50954431861283,147.69244422072794,234.09595173387456,338.88544135599386,356.39114189089366,100,descriptive dependent seed/selection spread
+width,IN625,9,simple,coverage,0.7,0.75,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN625,9,simple,mean_interval_score,209.6380710659899,214.2328426395939,227.6693401015229,274.94515736040614,281.8619289340102,100,descriptive dependent seed/selection spread
+width,IN625,9,simple,mean_width,126.13807106598979,147.05189847715738,217.0685532994924,274.94515736040614,281.8619289340102,100,descriptive dependent seed/selection spread
+width,IN625,20,ml,coverage,0.8,0.85,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN625,20,ml,mean_interval_score,149.97477706208096,163.24615550339485,237.58526723124245,355.25114189089373,393.23082707032205,100,descriptive dependent seed/selection spread
+width,IN625,20,ml,mean_width,146.74844422072792,159.83841773076787,234.09595173387456,338.88544135599386,339.88544135599386,100,descriptive dependent seed/selection spread
+width,IN625,20,simple,coverage,0.75,0.89,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN625,20,simple,mean_interval_score,209.6380710659899,213.7328426395939,225.14315989847722,266.8101269035533,274.93144670050765,100,descriptive dependent seed/selection spread
+width,IN625,20,simple,mean_width,149.18987309644672,171.75707868020308,214.90214467005072,266.8101269035533,274.93144670050765,100,descriptive dependent seed/selection spread
+width,IN718,0,ml,coverage,0.75,0.75,0.9,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN718,0,ml,mean_interval_score,130.8312656572927,130.8312656572927,139.93991314166922,227.46768923114323,227.46768923114323,100,descriptive dependent seed/selection spread
+width,IN718,0,ml,mean_width,113.5744786008019,113.5744786008019,122.87670340303023,131.16764951020454,131.16764951020454,100,descriptive dependent seed/selection spread
+width,IN718,0,simple,coverage,0.8,0.8,0.85,0.9,0.9,100,descriptive dependent seed/selection spread
+width,IN718,0,simple,mean_interval_score,694.6540196078433,694.6540196078433,700.1690686274509,701.9991911764707,701.9991911764707,100,descriptive dependent seed/selection spread
+width,IN718,0,simple,mean_width,256.6669362745098,256.6669362745098,275.3044362745097,343.09414215686263,343.09414215686263,100,descriptive dependent seed/selection spread
+width,IN718,9,ml,coverage,0.7,0.8,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN718,9,ml,mean_interval_score,118.36788015402317,139.33568021460243,276.09186704255654,783.4822436134302,844.8170410315208,100,descriptive dependent seed/selection spread
+width,IN718,9,ml,mean_width,68.87784328687887,107.47917987633973,276.09186704255654,783.4822436134302,844.8170410315208,100,descriptive dependent seed/selection spread
+width,IN718,9,simple,coverage,0.65,0.79,0.8500000000000001,0.95,0.95,100,descriptive dependent seed/selection spread
+width,IN718,9,simple,mean_interval_score,689.3330637254901,694.6540196078431,732.2690686274511,793.654102941177,900.2824264705881,100,descriptive dependent seed/selection spread
+width,IN718,9,simple,mean_width,122.9058578431373,185.88196568627458,316.5136029411765,719.369068627451,723.2941421568628,100,descriptive dependent seed/selection spread
+width,IN718,20,ml,coverage,0.85,0.9,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,IN718,20,ml,mean_interval_score,131.5439203789578,152.5024668508068,276.09186704255654,359.30556308383285,449.86445764088603,100,descriptive dependent seed/selection spread
+width,IN718,20,ml,mean_width,114.59047705524699,147.34223156943023,276.09186704255654,359.30556308383285,449.86445764088603,100,descriptive dependent seed/selection spread
+width,IN718,20,simple,coverage,0.8,0.8,0.8500000000000001,0.9,0.9,100,descriptive dependent seed/selection spread
+width,IN718,20,simple,mean_interval_score,689.3330637254901,694.1219240196076,704.1136029411765,769.9620588235296,783.2824264705882,100,descriptive dependent seed/selection spread
+width,IN718,20,simple,mean_width,194.9058578431373,199.3459803921569,316.5136029411765,541.2941421568628,589.0941421568626,100,descriptive dependent seed/selection spread
+width,IN738LC,0,ml,coverage,0.6,0.6,0.7,0.8,0.8,100,descriptive dependent seed/selection spread
+width,IN738LC,0,ml,mean_interval_score,238.69225126367323,238.69225126367323,326.0535916648375,372.01300295646195,372.01300295646195,100,descriptive dependent seed/selection spread
+width,IN738LC,0,ml,mean_width,105.36347126746898,105.36347126746898,119.64577734274094,157.77685732306,157.77685732306,100,descriptive dependent seed/selection spread
+width,IN738LC,0,simple,coverage,0.8,0.8,0.85,0.95,0.95,100,descriptive dependent seed/selection spread
+width,IN738LC,0,simple,mean_interval_score,382.59211678832116,382.59211678832116,385.61000000000007,412.4519221411192,412.4519221411192,100,descriptive dependent seed/selection spread
+width,IN738LC,0,simple,mean_width,265.5480778588808,265.5480778588808,303.40788321167895,344.3807542579076,344.3807542579076,100,descriptive dependent seed/selection spread
+width,IN738LC,9,ml,coverage,0.45,0.65,0.75,0.8550000000000004,0.9,100,descriptive dependent seed/selection spread
+width,IN738LC,9,ml,mean_interval_score,236.73573496215977,239.60406827469444,296.700418908188,351.82623843419174,515.86977026394,100,descriptive dependent seed/selection spread
+width,IN738LC,9,ml,mean_width,51.53840464454474,97.46242948073157,129.1592987759833,176.5910120380436,200.9435041911036,100,descriptive dependent seed/selection spread
+width,IN738LC,9,simple,coverage,0.5,0.5,0.7,0.7,0.75,100,descriptive dependent seed/selection spread
+width,IN738LC,9,simple,mean_interval_score,494.5480778588808,496.1842335766423,515.5880291970803,725.3949732360102,784.7615085158152,100,descriptive dependent seed/selection spread
+width,IN738LC,9,simple,mean_width,111.61924574209247,126.90251338199515,189.70598540145983,199.4078832116789,200.4519221411192,100,descriptive dependent seed/selection spread
+width,IN738LC,20,ml,coverage,0.6,0.65,0.75,0.85,0.85,100,descriptive dependent seed/selection spread
+width,IN738LC,20,ml,mean_interval_score,239.92277197608718,239.92277197608718,294.7365590685463,334.146632509933,399.0146838410018,100,descriptive dependent seed/selection spread
+width,IN738LC,20,ml,mean_width,98.74296417354773,114.3555344395708,129.0128385119891,164.3682945479066,164.3682945479066,100,descriptive dependent seed/selection spread
+width,IN738LC,20,simple,coverage,0.5,0.5,0.5,0.7,0.7,100,descriptive dependent seed/selection spread
+width,IN738LC,20,simple,mean_interval_score,506.0961557177616,508.1842335766423,673.1842335766423,705.1842335766423,720.7615085158152,100,descriptive dependent seed/selection spread
+width,IN738LC,20,simple,mean_width,127.61924574209247,135.22901946472024,143.4078832116789,193.4078832116789,194.4519221411192,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,ml,coverage,0.75,0.75,0.8,0.9,0.9,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,ml,mean_interval_score,345.5295874129013,345.5295874129013,441.2840588562634,623.7617003680118,623.7617003680118,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,ml,mean_width,107.76286723515568,107.76286723515568,138.32221971835003,162.85768792391298,162.85768792391298,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,simple,coverage,0.85,0.85,0.85,0.95,0.95,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,simple,mean_interval_score,373.9511025641024,373.9511025641024,379.6000512820512,385.975564102564,385.975564102564,100,descriptive dependent seed/selection spread
+width,SS17-4PH,0,simple,mean_width,252.97556410256408,252.97556410256408,261.60005128205125,349.0835384615384,349.0835384615384,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,ml,coverage,0.85,0.9,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,ml,mean_interval_score,345.5295874129014,366.9985347219567,445.01391137521637,531.0900803785134,592.6702775751886,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,ml,mean_width,161.26816326343996,236.69476507051195,398.7604689915285,531.0900803785134,592.6702775751886,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,simple,coverage,0.85,0.9,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,simple,mean_interval_score,371.28982051282054,374.8731179487179,398.5835384615384,541.6000512820514,549.0835384615384,100,descriptive dependent seed/selection spread
+width,SS17-4PH,9,simple,mean_width,239.28982051282054,326.06919230769233,385.0295512820512,541.6000512820514,549.0835384615384,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,ml,coverage,0.9,0.9,0.9,0.95,1.0,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,ml,mean_interval_score,345.5295874129014,345.5295874129015,433.72364899434206,493.9617873782052,567.1256541847577,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,ml,mean_width,205.23508383467833,243.98424726290813,364.3823325835798,493.6414436206966,567.1256541847577,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,simple,coverage,0.9,0.9,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,simple,mean_interval_score,371.28982051282054,373.9511025641024,392.4449358974359,487.52084358974366,497.0835384615384,100,descriptive dependent seed/selection spread
+width,SS17-4PH,20,simple,mean_width,275.28982051282054,299.06919230769233,380.4449358974359,487.52084358974366,497.0835384615384,100,descriptive dependent seed/selection spread
+width,SS316L,0,ml,coverage,0.25,0.25,0.4,0.45,0.45,100,descriptive dependent seed/selection spread
+width,SS316L,0,ml,mean_interval_score,1098.94643391316,1098.94643391316,1233.1018278224476,1952.7944671198104,1952.7944671198104,100,descriptive dependent seed/selection spread
+width,SS316L,0,ml,mean_width,86.25302120809957,86.25302120809957,116.99599707467851,133.74380206929422,133.74380206929422,100,descriptive dependent seed/selection spread
+width,SS316L,0,simple,coverage,0.85,0.85,0.85,0.95,0.95,100,descriptive dependent seed/selection spread
+width,SS316L,0,simple,mean_interval_score,504.31440501043835,504.31440501043835,519.2587473903967,521.0764926931106,521.0764926931106,100,descriptive dependent seed/selection spread
+width,SS316L,0,simple,mean_width,291.9617536534446,291.9617536534446,322.83123173277653,381.56000000000006,381.56000000000006,100,descriptive dependent seed/selection spread
+width,SS316L,9,ml,coverage,0.4,0.745,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,SS316L,9,ml,mean_interval_score,478.4332727730064,497.36070101786316,588.2639598272083,805.0987637471887,1427.8687217214235,100,descriptive dependent seed/selection spread
+width,SS316L,9,ml,mean_width,139.16642333205746,318.31557908190706,514.2756737119523,772.2731241427965,959.4621603585181,100,descriptive dependent seed/selection spread
+width,SS316L,9,simple,coverage,0.8,0.845,0.85,0.95,1.0,100,descriptive dependent seed/selection spread
+width,SS316L,9,simple,mean_interval_score,497.0382463465554,522.1454405010439,559.2032463465554,595.5017661795406,995.5600000000002,100,descriptive dependent seed/selection spread
+width,SS316L,9,simple,mean_width,154.44,173.226,290.0,513.1878246346557,995.5600000000002,100,descriptive dependent seed/selection spread
+width,SS316L,20,ml,coverage,0.7,0.8,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,SS316L,20,ml,mean_interval_score,478.4332727730064,492.51037169698947,553.539905712433,744.6814637644299,959.4621603585181,100,descriptive dependent seed/selection spread
+width,SS316L,20,ml,mean_width,272.47236166691863,339.64013177413625,491.05423529544856,651.7652965061476,959.4621603585181,100,descriptive dependent seed/selection spread
+width,SS316L,20,simple,coverage,0.85,0.85,0.85,0.95,0.95,100,descriptive dependent seed/selection spread
+width,SS316L,20,simple,mean_interval_score,497.0382463465554,502.31440501043835,541.2587473903967,572.3389645093945,585.8599999999999,100,descriptive dependent seed/selection spread
+width,SS316L,20,simple,mean_width,184.44,213.552,290.0,425.31440501043846,512.1600000000001,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,ml,coverage,0.95,0.95,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,ml,mean_interval_score,109.07297815339457,109.07297815339457,122.5614776256266,136.46418656166915,136.46418656166915,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,ml,mean_width,109.07297815339457,109.07297815339457,122.5614776256266,136.46418656166915,136.46418656166915,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,simple,coverage,0.85,0.85,0.95,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,simple,mean_interval_score,282.3929899497488,282.3929899497488,286.00000000000006,324.3634170854272,324.3634170854272,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,0,simple,mean_width,249.39298994974882,249.39298994974882,278.62472361809057,324.3634170854272,324.3634170854272,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,ml,coverage,0.55,0.745,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,ml,mean_interval_score,74.0877457085498,92.68819392095844,154.40958589869632,263.3038962840519,394.5170349812145,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,ml,mean_width,26.897303671380648,54.31093158561316,139.52665981726597,263.3038962840519,394.5170349812145,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,simple,coverage,0.55,0.75,0.85,0.85,0.85,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,simple,mean_interval_score,272.6365829145728,280.01479899497485,294.20389447236187,331.7099120603016,481.3929899497489,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,9,simple,mean_width,105.63658291457287,180.18954773869348,213.51478643216086,241.37527638190946,249.39298994974882,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,ml,coverage,0.65,0.75,1.0,1.0,1.0,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,ml,mean_interval_score,74.0877457085498,87.15966753373229,128.12563197392336,258.6790896947781,272.799389643208,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,ml,mean_width,43.25814892430333,66.39869886182937,121.66526539275006,258.6790896947781,272.799389643208,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,simple,coverage,0.7,0.75,0.8,0.85,0.85,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,simple,mean_interval_score,282.6365829145728,287.3752763819095,300.6365829145728,338.3173492462315,381.3929899497489,100,descriptive dependent seed/selection spread
+width,Ti-6Al-4V,20,simple,mean_width,145.63658291457287,176.70155025125638,203.39298994974882,223.39298994974882,229.39298994974882,100,descriptive dependent seed/selection spread

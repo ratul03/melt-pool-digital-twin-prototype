@@ -1,0 +1,35 @@
+classification raw inputs checked 669
+classification IN718 replay, raw inputs and persistence checked
+classification SS316L replay, raw inputs and persistence checked
+classification Ti-6Al-4V replay, raw inputs and persistence checked
+{
+  "passed": 1496,
+  "failed": 0,
+  "failures": [],
+  "scenarios": 3,
+  "raw_input_rejections": 0,
+  "check_counts": {
+    "raw_features_equal_frozen_features": 669,
+    "exact_offline_match_exists": 180,
+    "offline_class_and_set": 180,
+    "offline_calibration_margin": 180,
+    "offline_class_probabilities": 180,
+    "finite_sample_unbounded_below_nine": 60,
+    "fixed_point_predictions": 6,
+    "unsupported_process_rejected": 3,
+    "nonfinite_input_rejected": 3,
+    "save_reload_exact_state": 3,
+    "fixed_test_observation_rejected": 3,
+    "duplicate_observation_rejected": 3,
+    "observation_without_prediction_rejected": 3,
+    "negative_input_rejected": 3,
+    "postbuild_input_rejected": 3,
+    "corrupted_state_rejected": 3,
+    "wrong_alloy_rejected": 3,
+    "missing_input_rejected": 3,
+    "wrong_measurement_unit_rejected": 3,
+    "manual_measurement_version_increment": 3,
+    "all_frozen_records_supported": 1,
+    "method_code_identical_to_chapter6": 1
+  }
+}

@@ -1,0 +1,47 @@
+task,alloy,n,sources,source_ids,primary
+depth,4140 steel,3,1,18,False
+depth,AlSi10Mg,29,4,12|3|61|79,True
+depth,HCP Cu,5,1,36,False
+depth,Hastelloy X,41,2,31|8,True
+depth,IN625,94,5,21|46|5|6|71,True
+depth,IN718,40,6,24|37|46|53|54|9,True
+depth,IN738LC,50,3,14|41|78,True
+depth,MS1-,12,1,37,False
+depth,SS17-4PH,94,2,25|28,True
+depth,SS304L,6,1,39,False
+depth,SS316L,354,13,14|16|19|20|22|29|44|56|57|58|67|75|79,True
+depth,Ti-49Al-2Cr-2Nb,20,1,63,True
+depth,Ti-6Al-4V,154,8,1|15|17|2|47|70|76|79,True
+depth,TiC/Inconel 718,8,1,7,False
+depth,WE43,12,1,74,False
+width,AA7075,2,1,68,False
+width,AlSi10Mg,23,3,12|3|79,True
+width,Cu10Sn,35,1,72,True
+width,HCP Cu,14,1,36,False
+width,Hastelloy X,41,2,31|8,True
+width,IN625,92,4,21|5|6|71,True
+width,IN718,57,6,11|33|37|53|54|9,True
+width,IN738LC,50,3,14|41|78,True
+width,Invar36,18,2,10|55,False
+width,MS1-,12,1,37,False
+width,SS17-4PH,103,3,25|28|65,True
+width,SS304L,6,1,39,False
+width,SS316L,479,13,14|16|19|20|22|23|44|56|67|73|75|79|80,True
+width,Ti-49Al-2Cr-2Nb,20,1,63,True
+width,Ti-6Al-4V,82,4,15|2|76|79,True
+width,TiC/Inconel 718,8,1,7,False
+width,Tungsten,24,1,60,True
+width,WE43,12,1,74,False
+length,IN625,45,1,6,True
+length,IN718,3,1,54,False
+length,Invar36,9,1,10,False
+length,SS316L,30,1,67,True
+length,Ti-6Al-4V,49,1,15,True
+length,TiC/Inconel 718,8,1,7,False
+classification,AlSi10Mg,20,1,0.0,True
+classification,HCP Cu,5,1,0.0,False
+classification,IN718,148,3,3.3|32.0|51.0,True
+classification,SS316L,277,2,2.5|69.0,True
+classification,Ti-6Al-4V,209,3,0.0|34.0|47.0,True
+classification,TiC/Inconel 718,4,1,4.2,False
+classification,Tungsten,6,1,0.0,False

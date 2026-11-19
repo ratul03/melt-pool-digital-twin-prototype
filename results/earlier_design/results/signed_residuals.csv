@@ -1,0 +1,1901 @@
+task,cohort,alloy,model_seed,row_id,source,signed_residual_um
+depth,secondary_9_only,AlSi10Mg,0,28,3,-299.6314899924371
+depth,secondary_9_only,AlSi10Mg,0,30,3,-271.2104286210997
+depth,secondary_9_only,AlSi10Mg,0,31,3,-253.90514257134635
+depth,secondary_9_only,AlSi10Mg,0,32,3,-239.7487115833502
+depth,secondary_9_only,AlSi10Mg,0,187,12,-264.71662293036394
+depth,secondary_9_only,AlSi10Mg,0,188,12,-240.71769752758212
+depth,secondary_9_only,AlSi10Mg,0,189,12,-199.19359809266516
+depth,secondary_9_only,AlSi10Mg,0,190,12,-185.3016744532485
+depth,secondary_9_only,AlSi10Mg,0,193,12,-360.4684891075032
+depth,secondary_9_only,AlSi10Mg,0,194,12,-367.4234408078658
+depth,secondary_9_only,AlSi10Mg,0,195,12,-375.35556961429165
+depth,secondary_9_only,AlSi10Mg,0,196,12,-421.4287940292819
+depth,secondary_9_only,AlSi10Mg,0,197,12,-507.8349010391262
+depth,secondary_9_only,AlSi10Mg,0,198,12,-292.79396426461733
+depth,secondary_9_only,AlSi10Mg,0,200,12,-274.0754428118702
+depth,secondary_9_only,AlSi10Mg,0,1178,61,-107.88798037116135
+depth,secondary_9_only,AlSi10Mg,0,1180,61,-123.89505985684445
+depth,secondary_9_only,AlSi10Mg,0,1183,61,-100.0120154394998
+depth,secondary_9_only,AlSi10Mg,0,1548,79,-79.30773719128742
+depth,secondary_9_only,AlSi10Mg,0,1550,79,-97.9404181366071
+depth,primary_paired,Hastelloy X,0,109,8,-24.73160099278421
+depth,primary_paired,Hastelloy X,0,110,8,3.8242291818246485
+depth,primary_paired,Hastelloy X,0,111,8,4.600460826908389
+depth,primary_paired,Hastelloy X,0,113,8,-4.137009162979879
+depth,primary_paired,Hastelloy X,0,115,8,-10.905177642199753
+depth,primary_paired,Hastelloy X,0,116,8,-1.6865627309095998
+depth,primary_paired,Hastelloy X,0,119,8,-0.9038658972699167
+depth,primary_paired,Hastelloy X,0,120,8,6.199644323227531
+depth,primary_paired,Hastelloy X,0,121,8,-18.40555625203092
+depth,primary_paired,Hastelloy X,0,122,8,-11.506992015885345
+depth,primary_paired,Hastelloy X,0,124,8,-33.92741505984678
+depth,primary_paired,Hastelloy X,0,126,8,-22.50744844293223
+depth,primary_paired,Hastelloy X,0,127,8,-50.360171329821085
+depth,primary_paired,Hastelloy X,0,132,8,-29.738085327019974
+depth,primary_paired,Hastelloy X,0,133,8,-7.667062001526915
+depth,primary_paired,Hastelloy X,0,138,8,14.464912283464479
+depth,primary_paired,Hastelloy X,0,140,8,38.1354919898055
+depth,primary_paired,Hastelloy X,0,141,8,31.853190030741217
+depth,primary_paired,Hastelloy X,0,637,31,37.505611387114726
+depth,primary_paired,Hastelloy X,0,638,31,-12.029193861991843
+depth,primary_paired,IN625,0,42,5,-55.32270784302716
+depth,primary_paired,IN625,0,45,5,-38.43422621440911
+depth,primary_paired,IN625,0,46,5,-57.659539596234126
+depth,primary_paired,IN625,0,47,5,-34.43422621440911
+depth,primary_paired,IN625,0,56,6,40.94436263756529
+depth,primary_paired,IN625,0,58,6,40.94436263756529
+depth,primary_paired,IN625,0,61,6,28.78712084206875
+depth,primary_paired,IN625,0,72,6,-2.5317681058378696
+depth,primary_paired,IN625,0,75,6,-80.55317105635143
+depth,primary_paired,IN625,0,77,6,-80.55317105635143
+depth,primary_paired,IN625,0,86,6,-109.913797383902
+depth,primary_paired,IN625,0,89,6,-272.459371444477
+depth,primary_paired,IN625,0,93,6,-272.459371444477
+depth,primary_paired,IN625,0,95,6,-480.22864271338744
+depth,primary_paired,IN625,0,481,21,-17.086196635432657
+depth,primary_paired,IN625,0,855,46,-53.03532067807879
+depth,primary_paired,IN625,0,1302,71,-231.51828059257423
+depth,primary_paired,IN625,0,1310,71,-193.05279582730532
+depth,primary_paired,IN625,0,1317,71,-40.22127028424194
+depth,primary_paired,IN625,0,1325,71,-54.53065159306195
+depth,primary_paired,IN718,0,145,9,187.40699060169882
+depth,primary_paired,IN718,0,146,9,157.88187201384798
+depth,primary_paired,IN718,0,147,9,146.47424253008546
+depth,primary_paired,IN718,0,149,9,99.03245409102357
+depth,primary_paired,IN718,0,151,9,84.14864325259418
+depth,primary_paired,IN718,0,152,9,76.64757117961808
+depth,primary_paired,IN718,0,155,9,48.47749207104917
+depth,primary_paired,IN718,0,156,9,44.95373974030434
+depth,primary_paired,IN718,0,501,24,50.80134570506131
+depth,primary_paired,IN718,0,502,24,65.49640970329908
+depth,primary_paired,IN718,0,504,24,104.32792339773623
+depth,primary_paired,IN718,0,747,37,373.18315153600145
+depth,primary_paired,IN718,0,748,37,185.8594128362336
+depth,primary_paired,IN718,0,750,37,-24.098097815893397
+depth,primary_paired,IN718,0,857,46,118.1493565648679
+depth,primary_paired,IN718,0,858,46,29.99407248387027
+depth,primary_paired,IN718,0,978,53,84.99509809799926
+depth,primary_paired,IN718,0,980,53,12.220171604388156
+depth,primary_paired,IN718,0,984,54,97.92204015657308
+depth,primary_paired,IN718,0,985,54,100.78418290075737
+depth,primary_paired,IN738LC,0,273,14,-17.299625586543698
+depth,primary_paired,IN738LC,0,274,14,-25.587060451764415
+depth,primary_paired,IN738LC,0,790,41,59.74763999247335
+depth,primary_paired,IN738LC,0,791,41,52.6210474082082
+depth,primary_paired,IN738LC,0,792,41,42.718358700157324
+depth,primary_paired,IN738LC,0,793,41,28.365199941812705
+depth,primary_paired,IN738LC,0,796,41,82.1460997563768
+depth,primary_paired,IN738LC,0,797,41,35.17177025817733
+depth,primary_paired,IN738LC,0,798,41,30.676283973754977
+depth,primary_paired,IN738LC,0,799,41,136.6482121000684
+depth,primary_paired,IN738LC,0,801,41,66.67539924317649
+depth,primary_paired,IN738LC,0,804,41,11.57789548407061
+depth,primary_paired,IN738LC,0,809,41,-99.49500026079306
+depth,primary_paired,IN738LC,0,810,41,212.8895033748143
+depth,primary_paired,IN738LC,0,1531,78,-25.817192136525563
+depth,primary_paired,IN738LC,0,1533,78,-9.241758855296524
+depth,primary_paired,IN738LC,0,1534,78,-16.293924835384217
+depth,primary_paired,IN738LC,0,1535,78,-70.07271181950526
+depth,primary_paired,IN738LC,0,1541,78,-5.510803701967404
+depth,primary_paired,IN738LC,0,1546,78,62.08055519910249
+depth,primary_paired,SS17-4PH,0,509,25,21.244769481153668
+depth,primary_paired,SS17-4PH,0,512,25,-5.985240177776877
+depth,primary_paired,SS17-4PH,0,513,25,-6.723326238746139
+depth,primary_paired,SS17-4PH,0,514,25,-10.424875329111472
+depth,primary_paired,SS17-4PH,0,523,25,-16.323516251729558
+depth,primary_paired,SS17-4PH,0,525,25,-18.027770928953544
+depth,primary_paired,SS17-4PH,0,528,25,-18.55019513650946
+depth,primary_paired,SS17-4PH,0,539,25,-1.050687930502889
+depth,primary_paired,SS17-4PH,0,542,25,-537.8039877684732
+depth,primary_paired,SS17-4PH,0,544,25,-542.780210402909
+depth,primary_paired,SS17-4PH,0,553,25,-789.990847961198
+depth,primary_paired,SS17-4PH,0,556,25,-616.1987055962738
+depth,primary_paired,SS17-4PH,0,560,25,-1328.6841590272645
+depth,primary_paired,SS17-4PH,0,562,25,-1148.2381722601242
+depth,primary_paired,SS17-4PH,0,573,25,-1665.7301126042987
+depth,primary_paired,SS17-4PH,0,575,25,-1423.5130824040712
+depth,primary_paired,SS17-4PH,0,584,28,1.1844491974933078
+depth,primary_paired,SS17-4PH,0,590,28,3.729080364296621
+depth,primary_paired,SS17-4PH,0,597,28,6.304733166734096
+depth,primary_paired,SS17-4PH,0,605,28,0.7106878729577772
+depth,primary_paired,SS316L,0,327,16,-101.25250466734832
+depth,primary_paired,SS316L,0,328,16,50.90149854103129
+depth,primary_paired,SS316L,0,351,19,-173.35730145957933
+depth,primary_paired,SS316L,0,358,19,-68.97300993730569
+depth,primary_paired,SS316L,0,361,19,-171.88624217659415
+depth,primary_paired,SS316L,0,410,19,-285.9269484163723
+depth,primary_paired,SS316L,0,411,19,-247.65182299167395
+depth,primary_paired,SS316L,0,454,20,65.33615795217997
+depth,primary_paired,SS316L,0,493,22,107.34871357338997
+depth,primary_paired,SS316L,0,608,29,23.364343632896578
+depth,primary_paired,SS316L,0,609,29,73.69060870140015
+depth,primary_paired,SS316L,0,845,44,-90.61702532445992
+depth,primary_paired,SS316L,0,1011,56,-51.877284789733125
+depth,primary_paired,SS316L,0,1024,56,-193.38919779317285
+depth,primary_paired,SS316L,0,1032,57,-72.84832795051699
+depth,primary_paired,SS316L,0,1049,57,-41.413715665879565
+depth,primary_paired,SS316L,0,1081,58,11.426207458273396
+depth,primary_paired,SS316L,0,1097,58,-18.707559854748624
+depth,primary_paired,SS316L,0,1252,67,-2.866156529595102
+depth,primary_paired,SS316L,0,1277,67,-113.7643760485254
+depth,primary_paired,Ti-6Al-4V,0,0,1,-37.8840696262785
+depth,primary_paired,Ti-6Al-4V,0,8,1,9.034545827154687
+depth,primary_paired,Ti-6Al-4V,0,11,1,-121.71302491033791
+depth,primary_paired,Ti-6Al-4V,0,14,2,-94.6297576351596
+depth,primary_paired,Ti-6Al-4V,0,22,2,-130.07990383082108
+depth,primary_paired,Ti-6Al-4V,0,286,15,-238.04183551263043
+depth,primary_paired,Ti-6Al-4V,0,297,15,-199.4474241807304
+depth,primary_paired,Ti-6Al-4V,0,303,15,-297.3074191675252
+depth,primary_paired,Ti-6Al-4V,0,304,15,-271.1472962165747
+depth,primary_paired,Ti-6Al-4V,0,316,15,-234.41898993786674
+depth,primary_paired,Ti-6Al-4V,0,317,15,-251.3279824535664
+depth,primary_paired,Ti-6Al-4V,0,318,15,-246.68879606653638
+depth,primary_paired,Ti-6Al-4V,0,333,17,60.285002095016694
+depth,primary_paired,Ti-6Al-4V,0,335,17,90.92362999041836
+depth,primary_paired,Ti-6Al-4V,0,879,47,-65.09184638704812
+depth,primary_paired,Ti-6Al-4V,0,880,47,-24.56189350554618
+depth,primary_paired,Ti-6Al-4V,0,885,47,-123.06630910828994
+depth,primary_paired,Ti-6Al-4V,0,1285,70,42.01087377091275
+depth,primary_paired,Ti-6Al-4V,0,1553,79,-52.669859056434746
+depth,primary_paired,Ti-6Al-4V,0,1554,79,-51.93521978371636
+depth,secondary_9_only,AlSi10Mg,1,28,3,-238.3448132767644
+depth,secondary_9_only,AlSi10Mg,1,30,3,-219.91401270545816
+depth,secondary_9_only,AlSi10Mg,1,31,3,-207.33927560018594
+depth,secondary_9_only,AlSi10Mg,1,32,3,-197.87181431548672
+depth,secondary_9_only,AlSi10Mg,1,187,12,-108.82122919366435
+depth,secondary_9_only,AlSi10Mg,1,188,12,-110.65991816198996
+depth,secondary_9_only,AlSi10Mg,1,189,12,-83.15440885649227
+depth,secondary_9_only,AlSi10Mg,1,190,12,-91.27356439867344
+depth,secondary_9_only,AlSi10Mg,1,193,12,-239.3240950331268
+depth,secondary_9_only,AlSi10Mg,1,194,12,-294.3675239947979
+depth,secondary_9_only,AlSi10Mg,1,195,12,-322.9611395615997
+depth,secondary_9_only,AlSi10Mg,1,196,12,-170.5393256376444
+depth,secondary_9_only,AlSi10Mg,1,197,12,-302.466843329976
+depth,secondary_9_only,AlSi10Mg,1,198,12,-135.03037413101117
+depth,secondary_9_only,AlSi10Mg,1,200,12,-199.00948151999103
+depth,secondary_9_only,AlSi10Mg,1,1178,61,-73.05064152973875
+depth,secondary_9_only,AlSi10Mg,1,1180,61,-108.02459394535595
+depth,secondary_9_only,AlSi10Mg,1,1183,61,-111.0971480351725
+depth,secondary_9_only,AlSi10Mg,1,1548,79,1.1203886230684788
+depth,secondary_9_only,AlSi10Mg,1,1550,79,-42.05299221666374
+depth,primary_paired,Hastelloy X,1,109,8,-3.571947115207905
+depth,primary_paired,Hastelloy X,1,110,8,9.482366277215448
+depth,primary_paired,Hastelloy X,1,111,8,24.34176926346285
+depth,primary_paired,Hastelloy X,1,113,8,16.4993330801464
+depth,primary_paired,Hastelloy X,1,115,8,-1.0923976640426218
+depth,primary_paired,Hastelloy X,1,116,8,21.247503953077
+depth,primary_paired,Hastelloy X,1,119,8,-56.409116904347044
+depth,primary_paired,Hastelloy X,1,120,8,-49.091706379339115
+depth,primary_paired,Hastelloy X,1,121,8,-64.68299996371287
+depth,primary_paired,Hastelloy X,1,122,8,-51.559608171135295
+depth,primary_paired,Hastelloy X,1,124,8,-61.057494436256434
+depth,primary_paired,Hastelloy X,1,126,8,-59.423943311593234
+depth,primary_paired,Hastelloy X,1,127,8,-54.87057814196292
+depth,primary_paired,Hastelloy X,1,132,8,-26.354643912417544
+depth,primary_paired,Hastelloy X,1,133,8,-24.11009612296901
+depth,primary_paired,Hastelloy X,1,138,8,-17.100284801369952
+depth,primary_paired,Hastelloy X,1,140,8,13.839376641619282
+depth,primary_paired,Hastelloy X,1,141,8,13.087963677171928
+depth,primary_paired,Hastelloy X,1,637,31,20.22164748908486
+depth,primary_paired,Hastelloy X,1,638,31,2.4824157108543226
+depth,primary_paired,IN625,1,42,5,-26.153221999039772
+depth,primary_paired,IN625,1,45,5,-17.83439199169392
+depth,primary_paired,IN625,1,46,5,-31.776381888607233
+depth,primary_paired,IN625,1,47,5,-13.83439199169392
+depth,primary_paired,IN625,1,56,6,49.28861259222944
+depth,primary_paired,IN625,1,58,6,49.28861259222944
+depth,primary_paired,IN625,1,61,6,34.66402967729455
+depth,primary_paired,IN625,1,72,6,0.4494848526302917
+depth,primary_paired,IN625,1,75,6,-54.964900343228095
+depth,primary_paired,IN625,1,77,6,-54.964900343228095
+depth,primary_paired,IN625,1,86,6,-78.40817763609141
+depth,primary_paired,IN625,1,89,6,-161.7169899681025
+depth,primary_paired,IN625,1,93,6,-161.7169899681025
+depth,primary_paired,IN625,1,95,6,-258.2658554008857
+depth,primary_paired,IN625,1,481,21,49.66831208413328
+depth,primary_paired,IN625,1,855,46,-9.201156951126606
+depth,primary_paired,IN625,1,1302,71,-120.90253996040741
+depth,primary_paired,IN625,1,1310,71,-61.893962174972444
+depth,primary_paired,IN625,1,1317,71,-30.079378424102323
+depth,primary_paired,IN625,1,1325,71,-47.40362767300405
+depth,primary_paired,IN718,1,145,9,167.33995624071542
+depth,primary_paired,IN718,1,146,9,128.10764005868515
+depth,primary_paired,IN718,1,147,9,114.86530243423738
+depth,primary_paired,IN718,1,149,9,59.11981319949351
+depth,primary_paired,IN718,1,151,9,56.84888692410175
+depth,primary_paired,IN718,1,152,9,67.08876036851639
+depth,primary_paired,IN718,1,155,9,59.0752333803286
+depth,primary_paired,IN718,1,156,9,60.16897228373014
+depth,primary_paired,IN718,1,501,24,42.149059385264266
+depth,primary_paired,IN718,1,502,24,77.14005549528781
+depth,primary_paired,IN718,1,504,24,75.74199292103236
+depth,primary_paired,IN718,1,747,37,376.7604734664749
+depth,primary_paired,IN718,1,748,37,205.26286186651916
+depth,primary_paired,IN718,1,750,37,-24.876252347954107
+depth,primary_paired,IN718,1,857,46,157.34178609581102
+depth,primary_paired,IN718,1,858,46,47.48869909125628
+depth,primary_paired,IN718,1,978,53,118.42194709515891
+depth,primary_paired,IN718,1,980,53,-6.940810502997579
+depth,primary_paired,IN718,1,984,54,74.21480932556028
+depth,primary_paired,IN718,1,985,54,77.7277239970432
+depth,primary_paired,IN738LC,1,273,14,17.77958356384478
+depth,primary_paired,IN738LC,1,274,14,16.504885227453457
+depth,primary_paired,IN738LC,1,790,41,27.19579443844188
+depth,primary_paired,IN738LC,1,791,41,40.475420183542894
+depth,primary_paired,IN738LC,1,792,41,37.836882460895026
+depth,primary_paired,IN738LC,1,793,41,32.27938788827586
+depth,primary_paired,IN738LC,1,796,41,50.70809015785612
+depth,primary_paired,IN738LC,1,797,41,16.929488180872497
+depth,primary_paired,IN738LC,1,798,41,23.171965729132978
+depth,primary_paired,IN738LC,1,799,41,136.3371446931004
+depth,primary_paired,IN738LC,1,801,41,24.81567957501423
+depth,primary_paired,IN738LC,1,804,41,36.0933945909689
+depth,primary_paired,IN738LC,1,809,41,-11.467294357223011
+depth,primary_paired,IN738LC,1,810,41,192.6582881763366
+depth,primary_paired,IN738LC,1,1531,78,17.163508437289693
+depth,primary_paired,IN738LC,1,1533,78,18.871793903092467
+depth,primary_paired,IN738LC,1,1534,78,10.127467714966173
+depth,primary_paired,IN738LC,1,1535,78,-5.023217750259889
+depth,primary_paired,IN738LC,1,1541,78,41.05122632262834
+depth,primary_paired,IN738LC,1,1546,78,101.71046430834906
+depth,primary_paired,SS17-4PH,1,509,25,-35.48540154449249
+depth,primary_paired,SS17-4PH,1,512,25,-56.88733552286624
+depth,primary_paired,SS17-4PH,1,513,25,-54.40690664957533
+depth,primary_paired,SS17-4PH,1,514,25,-49.112029954632646
+depth,primary_paired,SS17-4PH,1,523,25,-38.91996075787745
+depth,primary_paired,SS17-4PH,1,525,25,-14.924703683007152
+depth,primary_paired,SS17-4PH,1,528,25,-37.07447592208075
+depth,primary_paired,SS17-4PH,1,539,25,-3.216220350162189
+depth,primary_paired,SS17-4PH,1,542,25,-274.7131707037922
+depth,primary_paired,SS17-4PH,1,544,25,-301.8780596556089
+depth,primary_paired,SS17-4PH,1,553,25,-306.0859497386159
+depth,primary_paired,SS17-4PH,1,556,25,-289.9652668831122
+depth,primary_paired,SS17-4PH,1,560,25,-466.5868869758142
+depth,primary_paired,SS17-4PH,1,562,25,-410.16199179904174
+depth,primary_paired,SS17-4PH,1,573,25,-699.1910785474797
+depth,primary_paired,SS17-4PH,1,575,25,-611.2112323502648
+depth,primary_paired,SS17-4PH,1,584,28,-22.423209474647905
+depth,primary_paired,SS17-4PH,1,590,28,-47.643578464857086
+depth,primary_paired,SS17-4PH,1,597,28,-33.43704958386461
+depth,primary_paired,SS17-4PH,1,605,28,-30.783189892205243
+depth,primary_paired,SS316L,1,327,16,-72.1378687610367
+depth,primary_paired,SS316L,1,328,16,66.16309004285031
+depth,primary_paired,SS316L,1,351,19,-54.9002028644268
+depth,primary_paired,SS316L,1,358,19,-7.6718488616716485
+depth,primary_paired,SS316L,1,361,19,-52.66865650086686
+depth,primary_paired,SS316L,1,410,19,-304.944996775509
+depth,primary_paired,SS316L,1,411,19,-281.290931663954
+depth,primary_paired,SS316L,1,454,20,-100.17525780501234
+depth,primary_paired,SS316L,1,493,22,110.89451287158067
+depth,primary_paired,SS316L,1,608,29,7.566842443671874
+depth,primary_paired,SS316L,1,609,29,58.018042268775275
+depth,primary_paired,SS316L,1,845,44,-135.1331604324766
+depth,primary_paired,SS316L,1,1011,56,-34.77713516924448
+depth,primary_paired,SS316L,1,1024,56,-194.13202776508228
+depth,primary_paired,SS316L,1,1032,57,-55.181402570722355
+depth,primary_paired,SS316L,1,1049,57,-21.176603446821872
+depth,primary_paired,SS316L,1,1081,58,-6.303581877010231
+depth,primary_paired,SS316L,1,1097,58,-10.545860350867489
+depth,primary_paired,SS316L,1,1252,67,-5.530201449263203
+depth,primary_paired,SS316L,1,1277,67,-88.26385060961607
+depth,primary_paired,Ti-6Al-4V,1,0,1,-27.999850456892446
+depth,primary_paired,Ti-6Al-4V,1,8,1,19.275474629889075
+depth,primary_paired,Ti-6Al-4V,1,11,1,-117.52451250069885
+depth,primary_paired,Ti-6Al-4V,1,14,2,2.5938372418385143
+depth,primary_paired,Ti-6Al-4V,1,22,2,-10.505313075342727
+depth,primary_paired,Ti-6Al-4V,1,286,15,-140.36574734255169
+depth,primary_paired,Ti-6Al-4V,1,297,15,-116.15393590822259
+depth,primary_paired,Ti-6Al-4V,1,303,15,-167.4052602476096
+depth,primary_paired,Ti-6Al-4V,1,304,15,-156.9392200821514
+depth,primary_paired,Ti-6Al-4V,1,316,15,-133.97877844348503
+depth,primary_paired,Ti-6Al-4V,1,317,15,-152.78753104758172
+depth,primary_paired,Ti-6Al-4V,1,318,15,-149.20729440249767
+depth,primary_paired,Ti-6Al-4V,1,333,17,92.28793087118606
+depth,primary_paired,Ti-6Al-4V,1,335,17,138.38421965524793
+depth,primary_paired,Ti-6Al-4V,1,879,47,19.735176290457787
+depth,primary_paired,Ti-6Al-4V,1,880,47,39.03945665187547
+depth,primary_paired,Ti-6Al-4V,1,885,47,-15.560080936477235
+depth,primary_paired,Ti-6Al-4V,1,1285,70,36.33604493519803
+depth,primary_paired,Ti-6Al-4V,1,1553,79,-43.61741531829952
+depth,primary_paired,Ti-6Al-4V,1,1554,79,-44.98453177736906
+depth,secondary_9_only,AlSi10Mg,2,28,3,-228.17829492633268
+depth,secondary_9_only,AlSi10Mg,2,30,3,-204.2530644243181
+depth,secondary_9_only,AlSi10Mg,2,31,3,-189.4904491733111
+depth,secondary_9_only,AlSi10Mg,2,32,3,-177.92595991499425
+depth,secondary_9_only,AlSi10Mg,2,187,12,-244.03283090256411
+depth,secondary_9_only,AlSi10Mg,2,188,12,-207.2814459573244
+depth,secondary_9_only,AlSi10Mg,2,189,12,-176.2366227198641
+depth,secondary_9_only,AlSi10Mg,2,190,12,-163.83775142379363
+depth,secondary_9_only,AlSi10Mg,2,193,12,-304.5107373889853
+depth,secondary_9_only,AlSi10Mg,2,194,12,-322.2330413443048
+depth,secondary_9_only,AlSi10Mg,2,195,12,-309.5330954499046
+depth,secondary_9_only,AlSi10Mg,2,196,12,-381.03699429708894
+depth,secondary_9_only,AlSi10Mg,2,197,12,-422.62786167708055
+depth,secondary_9_only,AlSi10Mg,2,198,12,-183.56466256842282
+depth,secondary_9_only,AlSi10Mg,2,200,12,-155.0807833712813
+depth,secondary_9_only,AlSi10Mg,2,1178,61,-33.36218531462575
+depth,secondary_9_only,AlSi10Mg,2,1180,61,-50.074150554938996
+depth,secondary_9_only,AlSi10Mg,2,1183,61,-23.176272326145636
+depth,secondary_9_only,AlSi10Mg,2,1548,79,33.20024680081579
+depth,secondary_9_only,AlSi10Mg,2,1550,79,-3.858821266998312
+depth,primary_paired,Hastelloy X,2,109,8,-17.502639576416122
+depth,primary_paired,Hastelloy X,2,110,8,-0.7450097917547396
+depth,primary_paired,Hastelloy X,2,111,8,12.376912158831729
+depth,primary_paired,Hastelloy X,2,113,8,6.461075427172844
+depth,primary_paired,Hastelloy X,2,115,8,-23.192369888626033
+depth,primary_paired,Hastelloy X,2,116,8,15.299566861486
+depth,primary_paired,Hastelloy X,2,119,8,-19.563308638919196
+depth,primary_paired,Hastelloy X,2,120,8,-10.932518251314704
+depth,primary_paired,Hastelloy X,2,121,8,-34.32800069957945
+depth,primary_paired,Hastelloy X,2,122,8,-17.45993297147038
+depth,primary_paired,Hastelloy X,2,124,8,-44.62131135129442
+depth,primary_paired,Hastelloy X,2,126,8,-35.55452360414448
+depth,primary_paired,Hastelloy X,2,127,8,-56.607596334319766
+depth,primary_paired,Hastelloy X,2,132,8,-36.47975204953886
+depth,primary_paired,Hastelloy X,2,133,8,-27.165349127206326
+depth,primary_paired,Hastelloy X,2,138,8,-29.56823877684222
+depth,primary_paired,Hastelloy X,2,140,8,-2.716207413518802
+depth,primary_paired,Hastelloy X,2,141,8,-2.7793458127100763
+depth,primary_paired,Hastelloy X,2,637,31,3.3374119270577722
+depth,primary_paired,Hastelloy X,2,638,31,-12.804966853788514
+depth,primary_paired,IN625,2,42,5,-17.548366860640286
+depth,primary_paired,IN625,2,45,5,-12.7551785749434
+depth,primary_paired,IN625,2,46,5,-19.761926985005132
+depth,primary_paired,IN625,2,47,5,-8.7551785749434
+depth,primary_paired,IN625,2,56,6,88.59517545712845
+depth,primary_paired,IN625,2,58,6,88.59517545712845
+depth,primary_paired,IN625,2,61,6,62.629448734923784
+depth,primary_paired,IN625,2,72,6,25.12225277968217
+depth,primary_paired,IN625,2,75,6,-25.21938726434692
+depth,primary_paired,IN625,2,77,6,-25.21938726434692
+depth,primary_paired,IN625,2,86,6,-59.877945968763214
+depth,primary_paired,IN625,2,89,6,-209.78764860164847
+depth,primary_paired,IN625,2,93,6,-209.78764860164847
+depth,primary_paired,IN625,2,95,6,-349.4411307275872
+depth,primary_paired,IN625,2,481,21,-12.201176513468909
+depth,primary_paired,IN625,2,855,46,-45.45058956603708
+depth,primary_paired,IN625,2,1302,71,-265.496742759666
+depth,primary_paired,IN625,2,1310,71,-234.87132852495415
+depth,primary_paired,IN625,2,1317,71,-22.074506770064474
+depth,primary_paired,IN625,2,1325,71,-36.5427913916519
+depth,primary_paired,IN718,2,145,9,195.37084099320202
+depth,primary_paired,IN718,2,146,9,161.0336622394503
+depth,primary_paired,IN718,2,147,9,157.17422126918518
+depth,primary_paired,IN718,2,149,9,82.89998661534648
+depth,primary_paired,IN718,2,151,9,93.08303747577878
+depth,primary_paired,IN718,2,152,9,97.60179548302895
+depth,primary_paired,IN718,2,155,9,72.36584140258165
+depth,primary_paired,IN718,2,156,9,72.58837846137652
+depth,primary_paired,IN718,2,501,24,54.10802473373823
+depth,primary_paired,IN718,2,502,24,89.09393980108854
+depth,primary_paired,IN718,2,504,24,107.04339568562261
+depth,primary_paired,IN718,2,747,37,401.83563880492056
+depth,primary_paired,IN718,2,748,37,222.95128490364
+depth,primary_paired,IN718,2,750,37,-20.60855966420229
+depth,primary_paired,IN718,2,857,46,149.0287271768127
+depth,primary_paired,IN718,2,858,46,32.86015324847452
+depth,primary_paired,IN718,2,978,53,113.31647919157751
+depth,primary_paired,IN718,2,980,53,23.48647519938396
+depth,primary_paired,IN718,2,984,54,443.24941864882163
+depth,primary_paired,IN718,2,985,54,449.41497909780446
+depth,primary_paired,IN738LC,2,273,14,0.7631385561147539
+depth,primary_paired,IN738LC,2,274,14,-16.075417037869798
+depth,primary_paired,IN738LC,2,790,41,52.52874753141302
+depth,primary_paired,IN738LC,2,791,41,48.879621865940834
+depth,primary_paired,IN738LC,2,792,41,40.13707700072251
+depth,primary_paired,IN738LC,2,793,41,28.237731807597957
+depth,primary_paired,IN738LC,2,796,41,71.47214678602792
+depth,primary_paired,IN738LC,2,797,41,21.96550719455074
+depth,primary_paired,IN738LC,2,798,41,17.31386975472799
+depth,primary_paired,IN738LC,2,799,41,223.52208436883515
+depth,primary_paired,IN738LC,2,801,41,50.65595779974794
+depth,primary_paired,IN738LC,2,804,41,77.92926588516389
+depth,primary_paired,IN738LC,2,809,41,-9.964358259912728
+depth,primary_paired,IN738LC,2,810,41,238.6074353142427
+depth,primary_paired,IN738LC,2,1531,78,8.480916313423123
+depth,primary_paired,IN738LC,2,1533,78,10.868106880792823
+depth,primary_paired,IN738LC,2,1534,78,6.268842709679561
+depth,primary_paired,IN738LC,2,1535,78,48.5232883221924
+depth,primary_paired,IN738LC,2,1541,78,62.26493186684209
+depth,primary_paired,IN738LC,2,1546,78,164.7802427841083
+depth,primary_paired,SS17-4PH,2,509,25,-24.5154936829844
+depth,primary_paired,SS17-4PH,2,512,25,-30.608321260536414
+depth,primary_paired,SS17-4PH,2,513,25,-29.78058475578075
+depth,primary_paired,SS17-4PH,2,514,25,-27.58841583827362
+depth,primary_paired,SS17-4PH,2,523,25,-38.237691608054206
+depth,primary_paired,SS17-4PH,2,525,25,-36.942973130364294
+depth,primary_paired,SS17-4PH,2,528,25,-29.387500228018368
+depth,primary_paired,SS17-4PH,2,539,25,-14.797565624298784
+depth,primary_paired,SS17-4PH,2,542,25,-471.8153710468522
+depth,primary_paired,SS17-4PH,2,544,25,-427.74156451887643
+depth,primary_paired,SS17-4PH,2,553,25,-378.3881537838168
+depth,primary_paired,SS17-4PH,2,556,25,-291.5216026618952
+depth,primary_paired,SS17-4PH,2,560,25,-647.4917921842764
+depth,primary_paired,SS17-4PH,2,562,25,-529.7398182576123
+depth,primary_paired,SS17-4PH,2,573,25,-624.3393366437188
+depth,primary_paired,SS17-4PH,2,575,25,-504.695847889064
+depth,primary_paired,SS17-4PH,2,584,28,-21.588492732709852
+depth,primary_paired,SS17-4PH,2,590,28,-5.994751508852616
+depth,primary_paired,SS17-4PH,2,597,28,-5.701569004473441
+depth,primary_paired,SS17-4PH,2,605,28,-14.969003684705115
+depth,primary_paired,SS316L,2,327,16,-54.03247501511372
+depth,primary_paired,SS316L,2,328,16,96.63213243576982
+depth,primary_paired,SS316L,2,351,19,-160.7106004627157
+depth,primary_paired,SS316L,2,358,19,-62.52073764065065
+depth,primary_paired,SS316L,2,361,19,-168.04689073089392
+depth,primary_paired,SS316L,2,410,19,-331.16116620061007
+depth,primary_paired,SS316L,2,411,19,-292.45975954740265
+depth,primary_paired,SS316L,2,454,20,10.492780123659088
+depth,primary_paired,SS316L,2,493,22,110.62469924893732
+depth,primary_paired,SS316L,2,608,29,-51.99771878088609
+depth,primary_paired,SS316L,2,609,29,37.18001081035527
+depth,primary_paired,SS316L,2,845,44,-136.16145133939276
+depth,primary_paired,SS316L,2,1011,56,-52.247538314336595
+depth,primary_paired,SS316L,2,1024,56,-277.4614316465224
+depth,primary_paired,SS316L,2,1032,57,-27.72085715332699
+depth,primary_paired,SS316L,2,1049,57,-13.720666701705426
+depth,primary_paired,SS316L,2,1081,58,-18.70020704022989
+depth,primary_paired,SS316L,2,1097,58,-28.5997506041571
+depth,primary_paired,SS316L,2,1252,67,-56.95533710989102
+depth,primary_paired,SS316L,2,1277,67,-80.19377208275768
+depth,primary_paired,Ti-6Al-4V,2,0,1,96.33933638476702
+depth,primary_paired,Ti-6Al-4V,2,8,1,124.88752563597987
+depth,primary_paired,Ti-6Al-4V,2,11,1,60.56118196635879
+depth,primary_paired,Ti-6Al-4V,2,14,2,69.770199765845
+depth,primary_paired,Ti-6Al-4V,2,22,2,69.58997908894753
+depth,primary_paired,Ti-6Al-4V,2,286,15,-24.28601155898461
+depth,primary_paired,Ti-6Al-4V,2,297,15,8.90207471760004
+depth,primary_paired,Ti-6Al-4V,2,303,15,-61.52625091055961
+depth,primary_paired,Ti-6Al-4V,2,304,15,-44.44498344113832
+depth,primary_paired,Ti-6Al-4V,2,316,15,-14.900706022028302
+depth,primary_paired,Ti-6Al-4V,2,317,15,-50.212171218829255
+depth,primary_paired,Ti-6Al-4V,2,318,15,-39.1741257322916
+depth,primary_paired,Ti-6Al-4V,2,333,17,77.99371846182652
+depth,primary_paired,Ti-6Al-4V,2,335,17,121.91733747795615
+depth,primary_paired,Ti-6Al-4V,2,879,47,97.02134652602373
+depth,primary_paired,Ti-6Al-4V,2,880,47,111.40807707725975
+depth,primary_paired,Ti-6Al-4V,2,885,47,74.68025989479173
+depth,primary_paired,Ti-6Al-4V,2,1285,70,104.95307230869926
+depth,primary_paired,Ti-6Al-4V,2,1553,79,80.04060960135703
+depth,primary_paired,Ti-6Al-4V,2,1554,79,76.98172554235467
+depth,secondary_9_only,AlSi10Mg,3,28,3,-416.57510850797007
+depth,secondary_9_only,AlSi10Mg,3,30,3,-417.6767931517008
+depth,secondary_9_only,AlSi10Mg,3,31,3,-415.4276354735658
+depth,secondary_9_only,AlSi10Mg,3,32,3,-417.3738806125907
+depth,secondary_9_only,AlSi10Mg,3,187,12,-528.9993076591693
+depth,secondary_9_only,AlSi10Mg,3,188,12,-560.6515949442262
+depth,secondary_9_only,AlSi10Mg,3,189,12,-574.9918910861112
+depth,secondary_9_only,AlSi10Mg,3,190,12,-607.5421665800235
+depth,secondary_9_only,AlSi10Mg,3,193,12,-563.6734949087734
+depth,secondary_9_only,AlSi10Mg,3,194,12,-615.6888572750902
+depth,secondary_9_only,AlSi10Mg,3,195,12,-646.7228290416972
+depth,secondary_9_only,AlSi10Mg,3,196,12,-468.66167773439247
+depth,secondary_9_only,AlSi10Mg,3,197,12,-576.0002579980924
+depth,secondary_9_only,AlSi10Mg,3,198,12,-379.5600448363781
+depth,secondary_9_only,AlSi10Mg,3,200,12,-367.27383910035405
+depth,secondary_9_only,AlSi10Mg,3,1178,61,-483.1072458565591
+depth,secondary_9_only,AlSi10Mg,3,1180,61,-469.53361457244137
+depth,secondary_9_only,AlSi10Mg,3,1183,61,-375.58554783845466
+depth,secondary_9_only,AlSi10Mg,3,1548,79,-259.35056113026644
+depth,secondary_9_only,AlSi10Mg,3,1550,79,-242.7823197696148
+depth,primary_paired,Hastelloy X,3,109,8,-17.247489651188815
+depth,primary_paired,Hastelloy X,3,110,8,-8.03990407346052
+depth,primary_paired,Hastelloy X,3,111,8,5.880991449229711
+depth,primary_paired,Hastelloy X,3,113,8,-7.5999537628335645
+depth,primary_paired,Hastelloy X,3,115,8,-39.78249036624317
+depth,primary_paired,Hastelloy X,3,116,8,-16.721385239173784
+depth,primary_paired,Hastelloy X,3,119,8,-20.16178594762401
+depth,primary_paired,Hastelloy X,3,120,8,-14.288594466217987
+depth,primary_paired,Hastelloy X,3,121,8,-28.987808320393157
+depth,primary_paired,Hastelloy X,3,122,8,-13.710692270825419
+depth,primary_paired,Hastelloy X,3,124,8,-39.97728922966715
+depth,primary_paired,Hastelloy X,3,126,8,-27.63533165787058
+depth,primary_paired,Hastelloy X,3,127,8,-50.62657649170636
+depth,primary_paired,Hastelloy X,3,132,8,-49.03121020676656
+depth,primary_paired,Hastelloy X,3,133,8,-47.25983020417253
+depth,primary_paired,Hastelloy X,3,138,8,-14.637263321811133
+depth,primary_paired,Hastelloy X,3,140,8,9.827159245637532
+depth,primary_paired,Hastelloy X,3,141,8,14.34309165154798
+depth,primary_paired,Hastelloy X,3,637,31,5.968352778991587
+depth,primary_paired,Hastelloy X,3,638,31,-30.477829119191895
+depth,primary_paired,IN625,3,42,5,-6.320884599570043
+depth,primary_paired,IN625,3,45,5,-2.2563085964946055
+depth,primary_paired,IN625,3,46,5,-8.804755403744906
+depth,primary_paired,IN625,3,47,5,1.7436914035053945
+depth,primary_paired,IN625,3,56,6,69.72699024088749
+depth,primary_paired,IN625,3,58,6,69.72699024088749
+depth,primary_paired,IN625,3,61,6,43.87538850996148
+depth,primary_paired,IN625,3,72,6,30.41555226353256
+depth,primary_paired,IN625,3,75,6,-7.455950938413437
+depth,primary_paired,IN625,3,77,6,-7.455950938413437
+depth,primary_paired,IN625,3,86,6,-34.43904646445145
+depth,primary_paired,IN625,3,89,6,-146.3402359731656
+depth,primary_paired,IN625,3,93,6,-146.3402359731656
+depth,primary_paired,IN625,3,95,6,-331.4721572763956
+depth,primary_paired,IN625,3,481,21,-32.188452139479296
+depth,primary_paired,IN625,3,855,46,-1.500919722169641
+depth,primary_paired,IN625,3,1302,71,-249.19513496759282
+depth,primary_paired,IN625,3,1310,71,-208.7682477336844
+depth,primary_paired,IN625,3,1317,71,-12.978674023551463
+depth,primary_paired,IN625,3,1325,71,-20.95548250136744
+depth,primary_paired,IN718,3,145,9,202.53810554383557
+depth,primary_paired,IN718,3,146,9,142.87559776042593
+depth,primary_paired,IN718,3,147,9,146.90157007300644
+depth,primary_paired,IN718,3,149,9,74.31006659236849
+depth,primary_paired,IN718,3,151,9,77.39597124850863
+depth,primary_paired,IN718,3,152,9,82.05983854436336
+depth,primary_paired,IN718,3,155,9,64.2605871491524
+depth,primary_paired,IN718,3,156,9,63.99360674870999
+depth,primary_paired,IN718,3,501,24,47.509472576818666
+depth,primary_paired,IN718,3,502,24,67.97298217010409
+depth,primary_paired,IN718,3,504,24,82.22042347269492
+depth,primary_paired,IN718,3,747,37,384.52879886323933
+depth,primary_paired,IN718,3,748,37,209.40397875921755
+depth,primary_paired,IN718,3,750,37,-12.680421478721527
+depth,primary_paired,IN718,3,857,46,109.98012921777547
+depth,primary_paired,IN718,3,858,46,-9.437118649304892
+depth,primary_paired,IN718,3,978,53,119.5673742007726
+depth,primary_paired,IN718,3,980,53,-22.54118951164469
+depth,primary_paired,IN718,3,984,54,129.9257339641009
+depth,primary_paired,IN718,3,985,54,149.2801068444721
+depth,primary_paired,IN738LC,3,273,14,-1.3114084801007664
+depth,primary_paired,IN738LC,3,274,14,-26.02532129229448
+depth,primary_paired,IN738LC,3,790,41,33.36164823015781
+depth,primary_paired,IN738LC,3,791,41,25.248966450611334
+depth,primary_paired,IN738LC,3,792,41,5.412072784839069
+depth,primary_paired,IN738LC,3,793,41,-5.717158050456931
+depth,primary_paired,IN738LC,3,796,41,49.69575273187526
+depth,primary_paired,IN738LC,3,797,41,-4.32680309274059
+depth,primary_paired,IN738LC,3,798,41,-10.650371369676805
+depth,primary_paired,IN738LC,3,799,41,145.40111525741
+depth,primary_paired,IN738LC,3,801,41,36.85736681650273
+depth,primary_paired,IN738LC,3,804,41,51.70297593575026
+depth,primary_paired,IN738LC,3,809,41,4.570956779459095
+depth,primary_paired,IN738LC,3,810,41,234.0517807827975
+depth,primary_paired,IN738LC,3,1531,78,-20.02531497552178
+depth,primary_paired,IN738LC,3,1533,78,-19.345267799289417
+depth,primary_paired,IN738LC,3,1534,78,-35.50820015233785
+depth,primary_paired,IN738LC,3,1535,78,4.134773051680071
+depth,primary_paired,IN738LC,3,1541,78,-20.042617126151868
+depth,primary_paired,IN738LC,3,1546,78,74.06733782108995
+depth,primary_paired,SS17-4PH,3,509,25,-20.183725987423728
+depth,primary_paired,SS17-4PH,3,512,25,-5.527383475352821
+depth,primary_paired,SS17-4PH,3,513,25,9.456689366161726
+depth,primary_paired,SS17-4PH,3,514,25,23.016760542089685
+depth,primary_paired,SS17-4PH,3,523,25,4.486790756400836
+depth,primary_paired,SS17-4PH,3,525,25,-27.522083968632955
+depth,primary_paired,SS17-4PH,3,528,25,-9.512023709947407
+depth,primary_paired,SS17-4PH,3,539,25,8.511931725007607
+depth,primary_paired,SS17-4PH,3,542,25,-531.3977763427009
+depth,primary_paired,SS17-4PH,3,544,25,-462.3337132510519
+depth,primary_paired,SS17-4PH,3,553,25,-302.184891625712
+depth,primary_paired,SS17-4PH,3,556,25,-204.32380446805496
+depth,primary_paired,SS17-4PH,3,560,25,-472.2608519602827
+depth,primary_paired,SS17-4PH,3,562,25,-323.3791923432796
+depth,primary_paired,SS17-4PH,3,573,25,-241.1207505235696
+depth,primary_paired,SS17-4PH,3,575,25,-188.25973347416766
+depth,primary_paired,SS17-4PH,3,584,28,31.24996265788624
+depth,primary_paired,SS17-4PH,3,590,28,-2.866443695836068
+depth,primary_paired,SS17-4PH,3,597,28,4.518887183152714
+depth,primary_paired,SS17-4PH,3,605,28,6.468715776126558
+depth,primary_paired,SS316L,3,327,16,-14.217810038804146
+depth,primary_paired,SS316L,3,328,16,99.57147614642878
+depth,primary_paired,SS316L,3,351,19,-91.25658655289595
+depth,primary_paired,SS316L,3,358,19,-5.529201976003748
+depth,primary_paired,SS316L,3,361,19,-110.39902206009845
+depth,primary_paired,SS316L,3,410,19,-253.1113107575802
+depth,primary_paired,SS316L,3,411,19,-233.84677516125987
+depth,primary_paired,SS316L,3,454,20,41.71487466127263
+depth,primary_paired,SS316L,3,493,22,136.10641373947277
+depth,primary_paired,SS316L,3,608,29,93.9786660728472
+depth,primary_paired,SS316L,3,609,29,167.5011841200743
+depth,primary_paired,SS316L,3,845,44,-100.93298286772247
+depth,primary_paired,SS316L,3,1011,56,-39.121633733073296
+depth,primary_paired,SS316L,3,1024,56,-130.0898708324889
+depth,primary_paired,SS316L,3,1032,57,-39.629127856975686
+depth,primary_paired,SS316L,3,1049,57,-30.662773890681095
+depth,primary_paired,SS316L,3,1081,58,5.242253353839317
+depth,primary_paired,SS316L,3,1097,58,-3.4072065140249777
+depth,primary_paired,SS316L,3,1252,67,-40.91704269304482
+depth,primary_paired,SS316L,3,1277,67,-85.85409641177725
+depth,primary_paired,Ti-6Al-4V,3,0,1,-12.366531981561963
+depth,primary_paired,Ti-6Al-4V,3,8,1,28.103085188518563
+depth,primary_paired,Ti-6Al-4V,3,11,1,-94.09279078881048
+depth,primary_paired,Ti-6Al-4V,3,14,2,83.66391082567571
+depth,primary_paired,Ti-6Al-4V,3,22,2,54.982985528435165
+depth,primary_paired,Ti-6Al-4V,3,286,15,-115.06464140105436
+depth,primary_paired,Ti-6Al-4V,3,297,15,-64.05600464620964
+depth,primary_paired,Ti-6Al-4V,3,303,15,-163.98790245479952
+depth,primary_paired,Ti-6Al-4V,3,304,15,-143.78157874877735
+depth,primary_paired,Ti-6Al-4V,3,316,15,-109.41578807686335
+depth,primary_paired,Ti-6Al-4V,3,317,15,-127.99612721574113
+depth,primary_paired,Ti-6Al-4V,3,318,15,-123.7134947252454
+depth,primary_paired,Ti-6Al-4V,3,333,17,-9.23081570552091
+depth,primary_paired,Ti-6Al-4V,3,335,17,29.538580252817212
+depth,primary_paired,Ti-6Al-4V,3,879,47,86.4633911016501
+depth,primary_paired,Ti-6Al-4V,3,880,47,102.67809707355639
+depth,primary_paired,Ti-6Al-4V,3,885,47,41.243199068560244
+depth,primary_paired,Ti-6Al-4V,3,1285,70,20.26819008313892
+depth,primary_paired,Ti-6Al-4V,3,1553,79,-46.089632561428616
+depth,primary_paired,Ti-6Al-4V,3,1554,79,-51.85319863204576
+depth,secondary_9_only,AlSi10Mg,4,28,3,-303.05374210149006
+depth,secondary_9_only,AlSi10Mg,4,30,3,-278.05896145323925
+depth,secondary_9_only,AlSi10Mg,4,31,3,-262.6015452107763
+depth,secondary_9_only,AlSi10Mg,4,32,3,-250.34412896831338
+depth,secondary_9_only,AlSi10Mg,4,187,12,-253.28684111289675
+depth,secondary_9_only,AlSi10Mg,4,188,12,-234.38761449963408
+depth,secondary_9_only,AlSi10Mg,4,189,12,-187.11609370838733
+depth,secondary_9_only,AlSi10Mg,4,190,12,-157.4457586347947
+depth,secondary_9_only,AlSi10Mg,4,193,12,-277.9433812585492
+depth,secondary_9_only,AlSi10Mg,4,194,12,-306.4316904142557
+depth,secondary_9_only,AlSi10Mg,4,195,12,-297.7426417849958
+depth,secondary_9_only,AlSi10Mg,4,196,12,-362.96603745571934
+depth,secondary_9_only,AlSi10Mg,4,197,12,-392.6179232864197
+depth,secondary_9_only,AlSi10Mg,4,198,12,-138.0018659800188
+depth,secondary_9_only,AlSi10Mg,4,200,12,-86.67574355149236
+depth,secondary_9_only,AlSi10Mg,4,1178,61,-94.24889736116285
+depth,secondary_9_only,AlSi10Mg,4,1180,61,-122.0304250697273
+depth,secondary_9_only,AlSi10Mg,4,1183,61,-109.07021589156079
+depth,secondary_9_only,AlSi10Mg,4,1548,79,-97.70646244173156
+depth,secondary_9_only,AlSi10Mg,4,1550,79,-138.78814215334685
+depth,primary_paired,Hastelloy X,4,109,8,-22.8525881677117
+depth,primary_paired,Hastelloy X,4,110,8,-38.471385599282
+depth,primary_paired,Hastelloy X,4,111,8,-6.598166106147659
+depth,primary_paired,Hastelloy X,4,113,8,-36.311442213094836
+depth,primary_paired,Hastelloy X,4,115,8,-43.93441628206753
+depth,primary_paired,Hastelloy X,4,116,8,-25.7804847649612
+depth,primary_paired,Hastelloy X,4,119,8,-7.754439717565113
+depth,primary_paired,Hastelloy X,4,120,8,0.9731881454531788
+depth,primary_paired,Hastelloy X,4,121,8,-35.46639666120353
+depth,primary_paired,Hastelloy X,4,122,8,-17.356676318787024
+depth,primary_paired,Hastelloy X,4,124,8,-48.7417573396081
+depth,primary_paired,Hastelloy X,4,126,8,-34.97121995032796
+depth,primary_paired,Hastelloy X,4,127,8,-52.2518972506394
+depth,primary_paired,Hastelloy X,4,132,8,-75.20932721033074
+depth,primary_paired,Hastelloy X,4,133,8,-73.45760944744592
+depth,primary_paired,Hastelloy X,4,138,8,-54.83287054484444
+depth,primary_paired,Hastelloy X,4,140,8,-12.450628746384524
+depth,primary_paired,Hastelloy X,4,141,8,-22.591527959685166
+depth,primary_paired,Hastelloy X,4,637,31,-14.418153691485202
+depth,primary_paired,Hastelloy X,4,638,31,-31.3558709338392
+depth,primary_paired,IN625,4,42,5,-48.21521174831028
+depth,primary_paired,IN625,4,45,5,-37.96304151232954
+depth,primary_paired,IN625,4,46,5,-48.872787876928356
+depth,primary_paired,IN625,4,47,5,-33.96304151232954
+depth,primary_paired,IN625,4,56,6,89.62056366074188
+depth,primary_paired,IN625,4,58,6,89.62056366074188
+depth,primary_paired,IN625,4,61,6,58.22997623492131
+depth,primary_paired,IN625,4,72,6,53.39761174755479
+depth,primary_paired,IN625,4,75,6,-41.950514680533104
+depth,primary_paired,IN625,4,77,6,-41.950514680533104
+depth,primary_paired,IN625,4,86,6,-84.57669325644181
+depth,primary_paired,IN625,4,89,6,-236.85055661054218
+depth,primary_paired,IN625,4,93,6,-236.85055661054218
+depth,primary_paired,IN625,4,95,6,-365.83417021974026
+depth,primary_paired,IN625,4,481,21,-43.90450384400083
+depth,primary_paired,IN625,4,855,46,-65.35068456172257
+depth,primary_paired,IN625,4,1302,71,-254.3528156442751
+depth,primary_paired,IN625,4,1310,71,-192.414969892224
+depth,primary_paired,IN625,4,1317,71,6.453535788212179
+depth,primary_paired,IN625,4,1325,71,4.775530540686203
+depth,primary_paired,IN718,4,145,9,152.9818353171476
+depth,primary_paired,IN718,4,146,9,108.52323417330255
+depth,primary_paired,IN718,4,147,9,116.76370964105553
+depth,primary_paired,IN718,4,149,9,59.8721590850445
+depth,primary_paired,IN718,4,151,9,73.49167067166641
+depth,primary_paired,IN718,4,152,9,75.18409992087462
+depth,primary_paired,IN718,4,155,9,58.279816245005975
+depth,primary_paired,IN718,4,156,9,55.58654716902424
+depth,primary_paired,IN718,4,501,24,43.6298407316589
+depth,primary_paired,IN718,4,502,24,57.73485065245127
+depth,primary_paired,IN718,4,504,24,65.37241345151588
+depth,primary_paired,IN718,4,747,37,272.2220659830777
+depth,primary_paired,IN718,4,748,37,161.53637882034255
+depth,primary_paired,IN718,4,750,37,9.790024519290057
+depth,primary_paired,IN718,4,857,46,64.36447010259621
+depth,primary_paired,IN718,4,858,46,19.575858034270354
+depth,primary_paired,IN718,4,978,53,68.14099148653128
+depth,primary_paired,IN718,4,980,53,-118.13524973125499
+depth,primary_paired,IN718,4,984,54,217.74214493343385
+depth,primary_paired,IN718,4,985,54,240.0385464352966
+depth,primary_paired,IN738LC,4,273,14,-44.49373856580816
+depth,primary_paired,IN738LC,4,274,14,-55.08769576249502
+depth,primary_paired,IN738LC,4,790,41,51.97218880817201
+depth,primary_paired,IN738LC,4,791,41,35.21835763728157
+depth,primary_paired,IN738LC,4,792,41,2.9227696032031076
+depth,primary_paired,IN738LC,4,793,41,-0.9010199250290896
+depth,primary_paired,IN738LC,4,796,41,49.97581289294773
+depth,primary_paired,IN738LC,4,797,41,0.6157357534939791
+depth,primary_paired,IN738LC,4,798,41,-7.753908543691718
+depth,primary_paired,IN738LC,4,799,41,24.315223639679175
+depth,primary_paired,IN738LC,4,801,41,28.44622615229335
+depth,primary_paired,IN738LC,4,804,41,-186.30008315277632
+depth,primary_paired,IN738LC,4,809,41,-295.129735031451
+depth,primary_paired,IN738LC,4,810,41,72.9704892889198
+depth,primary_paired,IN738LC,4,1531,78,-36.94549746640996
+depth,primary_paired,IN738LC,4,1533,78,-41.79337909521067
+depth,primary_paired,IN738LC,4,1534,78,-59.14446512685868
+depth,primary_paired,IN738LC,4,1535,78,-1.6402818850528433
+depth,primary_paired,IN738LC,4,1541,78,30.094272853708986
+depth,primary_paired,IN738LC,4,1546,78,76.98609232945114
+depth,primary_paired,SS17-4PH,4,509,25,-14.16601923923946
+depth,primary_paired,SS17-4PH,4,512,25,-22.62379281154186
+depth,primary_paired,SS17-4PH,4,513,25,-18.002079929712593
+depth,primary_paired,SS17-4PH,4,514,25,-12.89506944118709
+depth,primary_paired,SS17-4PH,4,523,25,-6.573705619376511
+depth,primary_paired,SS17-4PH,4,525,25,-37.98034102084122
+depth,primary_paired,SS17-4PH,4,528,25,-23.489464285679503
+depth,primary_paired,SS17-4PH,4,539,25,-20.10793284638487
+depth,primary_paired,SS17-4PH,4,542,25,-256.5085404703559
+depth,primary_paired,SS17-4PH,4,544,25,-247.47531482005547
+depth,primary_paired,SS17-4PH,4,553,25,-88.56406092575287
+depth,primary_paired,SS17-4PH,4,556,25,-38.53910946688697
+depth,primary_paired,SS17-4PH,4,560,25,-162.1369543220087
+depth,primary_paired,SS17-4PH,4,562,25,-94.6686307375931
+depth,primary_paired,SS17-4PH,4,573,25,-221.9352621140385
+depth,primary_paired,SS17-4PH,4,575,25,-118.12031098076304
+depth,primary_paired,SS17-4PH,4,584,28,2.2287626998282093
+depth,primary_paired,SS17-4PH,4,590,28,-24.27364508679939
+depth,primary_paired,SS17-4PH,4,597,28,-6.49195214655748
+depth,primary_paired,SS17-4PH,4,605,28,0.6334632217125176
+depth,primary_paired,SS316L,4,327,16,-50.95864659290868
+depth,primary_paired,SS316L,4,328,16,101.78489393119492
+depth,primary_paired,SS316L,4,351,19,-146.57998338724582
+depth,primary_paired,SS316L,4,358,19,-44.789340804897634
+depth,primary_paired,SS316L,4,361,19,-166.36599812493148
+depth,primary_paired,SS316L,4,410,19,-446.70791774548
+depth,primary_paired,SS316L,4,411,19,-395.25361741882057
+depth,primary_paired,SS316L,4,454,20,31.39375457659611
+depth,primary_paired,SS316L,4,493,22,99.45023168471971
+depth,primary_paired,SS316L,4,608,29,-109.6671267430537
+depth,primary_paired,SS316L,4,609,29,-69.81517925424339
+depth,primary_paired,SS316L,4,845,44,-62.56589472110903
+depth,primary_paired,SS316L,4,1011,56,-45.58088299209689
+depth,primary_paired,SS316L,4,1024,56,-327.0429794915239
+depth,primary_paired,SS316L,4,1032,57,-29.570106755976468
+depth,primary_paired,SS316L,4,1049,57,-10.382004150464368
+depth,primary_paired,SS316L,4,1081,58,25.71061103215291
+depth,primary_paired,SS316L,4,1097,58,16.801554284862775
+depth,primary_paired,SS316L,4,1252,67,-3.4402903473551234
+depth,primary_paired,SS316L,4,1277,67,-59.836422468568244
+depth,primary_paired,Ti-6Al-4V,4,0,1,13.074954642833063
+depth,primary_paired,Ti-6Al-4V,4,8,1,31.290993146556985
+depth,primary_paired,Ti-6Al-4V,4,11,1,-23.592516967483192
+depth,primary_paired,Ti-6Al-4V,4,14,2,39.50247178630116
+depth,primary_paired,Ti-6Al-4V,4,22,2,41.593962266393675
+depth,primary_paired,Ti-6Al-4V,4,286,15,-25.09271750834614
+depth,primary_paired,Ti-6Al-4V,4,297,15,15.743462056989388
+depth,primary_paired,Ti-6Al-4V,4,303,15,-65.68187204126335
+depth,primary_paired,Ti-6Al-4V,4,304,15,-45.42363308832989
+depth,primary_paired,Ti-6Al-4V,4,316,15,-23.72649712818196
+depth,primary_paired,Ti-6Al-4V,4,317,15,-32.74629800666129
+depth,primary_paired,Ti-6Al-4V,4,318,15,-29.40841633887584
+depth,primary_paired,Ti-6Al-4V,4,333,17,91.17908456696776
+depth,primary_paired,Ti-6Al-4V,4,335,17,130.40855531093695
+depth,primary_paired,Ti-6Al-4V,4,879,47,36.343205155060815
+depth,primary_paired,Ti-6Al-4V,4,880,47,41.08601044123503
+depth,primary_paired,Ti-6Al-4V,4,885,47,34.000259327136604
+depth,primary_paired,Ti-6Al-4V,4,1285,70,30.900483474961305
+depth,primary_paired,Ti-6Al-4V,4,1553,79,20.93985633606556
+depth,primary_paired,Ti-6Al-4V,4,1554,79,16.54680263520973
+length,primary_paired,IN625,0,56,6,-48.2796202559947
+length,primary_paired,IN625,0,57,6,-52.74160425053424
+length,primary_paired,IN625,0,58,6,-49.891604250534215
+length,primary_paired,IN625,0,60,6,87.89073649071213
+length,primary_paired,IN625,0,61,6,95.08169085296993
+length,primary_paired,IN625,0,62,6,-52.07449046734325
+length,primary_paired,IN625,0,63,6,-47.235634322122905
+length,primary_paired,IN625,0,66,6,-57.32321645393483
+length,primary_paired,IN625,0,67,6,-124.25334399053565
+length,primary_paired,IN625,0,68,6,-128.15354361016784
+length,primary_paired,IN625,0,69,6,-121.39438994485829
+length,primary_paired,IN625,0,71,6,-314.3319175831358
+length,primary_paired,IN625,0,74,6,-97.93024085174511
+length,primary_paired,IN625,0,85,6,-102.03952232071515
+length,primary_paired,IN625,0,87,6,-295.9509092708711
+length,primary_paired,IN625,0,88,6,-145.91790621777477
+length,primary_paired,IN625,0,91,6,-142.3302178263982
+length,primary_paired,IN625,0,92,6,-145.48327424689444
+length,primary_paired,IN625,0,96,6,-143.4114939179891
+length,primary_paired,IN625,0,97,6,-141.0229968002675
+length,secondary_9_only,SS316L,0,1250,67,-97.88608478146935
+length,secondary_9_only,SS316L,0,1252,67,-168.0076774989525
+length,secondary_9_only,SS316L,0,1253,67,-179.01915923905065
+length,secondary_9_only,SS316L,0,1254,67,-186.65786612719668
+length,secondary_9_only,SS316L,0,1256,67,-131.75128292986432
+length,secondary_9_only,SS316L,0,1258,67,-210.83247884636393
+length,secondary_9_only,SS316L,0,1259,67,-226.89950018879193
+length,secondary_9_only,SS316L,0,1262,67,-810.0665712072869
+length,secondary_9_only,SS316L,0,1263,67,-872.5794522039348
+length,secondary_9_only,SS316L,0,1264,67,-900.2090260806249
+length,secondary_9_only,SS316L,0,1265,67,-910.8674853555444
+length,secondary_9_only,SS316L,0,1266,67,-898.326260771968
+length,secondary_9_only,SS316L,0,1267,67,-886.8527397420816
+length,secondary_9_only,SS316L,0,1269,67,-1021.7894582397737
+length,secondary_9_only,SS316L,0,1270,67,-1069.2192996965114
+length,secondary_9_only,SS316L,0,1272,67,-1069.2338953576611
+length,secondary_9_only,SS316L,0,1276,67,-1279.8778010863568
+length,secondary_9_only,SS316L,0,1277,67,-1295.9160951728516
+length,secondary_9_only,SS316L,0,1278,67,-1282.938252878241
+length,secondary_9_only,SS316L,0,1279,67,-1277.5904816286843
+length,primary_paired,Ti-6Al-4V,0,278,15,-673.1450458824884
+length,primary_paired,Ti-6Al-4V,0,279,15,-605.5571008011535
+length,primary_paired,Ti-6Al-4V,0,282,15,-641.5433174506494
+length,primary_paired,Ti-6Al-4V,0,283,15,-660.7385714452957
+length,primary_paired,Ti-6Al-4V,0,284,15,-656.7730176231571
+length,primary_paired,Ti-6Al-4V,0,285,15,-656.2691647219804
+length,primary_paired,Ti-6Al-4V,0,288,15,-653.2691647219804
+length,primary_paired,Ti-6Al-4V,0,289,15,-651.2234979547335
+length,primary_paired,Ti-6Al-4V,0,290,15,-653.1694613647713
+length,primary_paired,Ti-6Al-4V,0,291,15,-655.1902021002987
+length,primary_paired,Ti-6Al-4V,0,293,15,-659.3937773643736
+length,primary_paired,Ti-6Al-4V,0,296,15,-625.1986384687561
+length,primary_paired,Ti-6Al-4V,0,302,15,-635.0745196292643
+length,primary_paired,Ti-6Al-4V,0,305,15,-671.0024914874026
+length,primary_paired,Ti-6Al-4V,0,310,15,-645.2357413159328
+length,primary_paired,Ti-6Al-4V,0,311,15,-595.5890347945058
+length,primary_paired,Ti-6Al-4V,0,312,15,-629.3598601554248
+length,primary_paired,Ti-6Al-4V,0,317,15,-659.3986738111329
+length,primary_paired,Ti-6Al-4V,0,318,15,-642.2357413159328
+length,primary_paired,Ti-6Al-4V,0,323,15,-619.0652163662072
+length,primary_paired,IN625,1,56,6,-75.3561776304872
+length,primary_paired,IN625,1,57,6,-78.10524742222412
+length,primary_paired,IN625,1,58,6,-75.2552474222241
+length,primary_paired,IN625,1,60,6,145.9985255602703
+length,primary_paired,IN625,1,61,6,150.85670641245497
+length,primary_paired,IN625,1,62,6,13.403414666825597
+length,primary_paired,IN625,1,63,6,14.493437094601063
+length,primary_paired,IN625,1,66,6,7.50994429543573
+length,primary_paired,IN625,1,67,6,-16.24606995445947
+length,primary_paired,IN625,1,68,6,-14.63545937410197
+length,primary_paired,IN625,1,69,6,-6.743790783361533
+length,primary_paired,IN625,1,71,6,-206.7700196198158
+length,primary_paired,IN625,1,74,6,127.81568179622798
+length,primary_paired,IN625,1,85,6,127.69510520354254
+length,primary_paired,IN625,1,87,6,-76.93982208901298
+length,primary_paired,IN625,1,88,6,75.36852914553549
+length,primary_paired,IN625,1,91,6,77.4844963483871
+length,primary_paired,IN625,1,92,6,79.28410235960814
+length,primary_paired,IN625,1,96,6,82.4176452880165
+length,primary_paired,IN625,1,97,6,84.5742405940374
+length,secondary_9_only,SS316L,1,1250,67,-71.08390272743736
+length,secondary_9_only,SS316L,1,1252,67,-110.69467447697903
+length,secondary_9_only,SS316L,1,1253,67,-122.69860477219709
+length,secondary_9_only,SS316L,1,1254,67,-119.3047233351194
+length,secondary_9_only,SS316L,1,1256,67,-113.66835243008393
+length,secondary_9_only,SS316L,1,1258,67,-165.0863949003109
+length,secondary_9_only,SS316L,1,1259,67,-178.5136929446087
+length,secondary_9_only,SS316L,1,1262,67,-817.522525874863
+length,secondary_9_only,SS316L,1,1263,67,-871.6625565807398
+length,secondary_9_only,SS316L,1,1264,67,-895.47244623438
+length,secondary_9_only,SS316L,1,1265,67,-903.35449585152
+length,secondary_9_only,SS316L,1,1266,67,-894.4647127620228
+length,secondary_9_only,SS316L,1,1267,67,-889.3131820915588
+length,secondary_9_only,SS316L,1,1269,67,-1077.4421417748115
+length,secondary_9_only,SS316L,1,1270,67,-1122.023477264395
+length,secondary_9_only,SS316L,1,1272,67,-1140.7162511241977
+length,secondary_9_only,SS316L,1,1276,67,-1278.4165020161336
+length,secondary_9_only,SS316L,1,1277,67,-1293.0317068471636
+length,secondary_9_only,SS316L,1,1278,67,-1304.478731136625
+length,secondary_9_only,SS316L,1,1279,67,-1303.0301756585018
+length,primary_paired,Ti-6Al-4V,1,278,15,-856.019206463084
+length,primary_paired,Ti-6Al-4V,1,279,15,-789.6065055989011
+length,primary_paired,Ti-6Al-4V,1,282,15,-805.9535436649828
+length,primary_paired,Ti-6Al-4V,1,283,15,-828.598560015884
+length,primary_paired,Ti-6Al-4V,1,284,15,-824.6742345985278
+length,primary_paired,Ti-6Al-4V,1,285,15,-820.019206463084
+length,primary_paired,Ti-6Al-4V,1,288,15,-817.019206463084
+length,primary_paired,Ti-6Al-4V,1,289,15,-816.7473799336944
+length,primary_paired,Ti-6Al-4V,1,290,15,-816.0001568378686
+length,primary_paired,Ti-6Al-4V,1,291,15,-817.8088826966086
+length,primary_paired,Ti-6Al-4V,1,293,15,-843.9344940397672
+length,primary_paired,Ti-6Al-4V,1,296,15,-790.5132114297642
+length,primary_paired,Ti-6Al-4V,1,302,15,-819.5132114297642
+length,primary_paired,Ti-6Al-4V,1,305,15,-854.1902716839812
+length,primary_paired,Ti-6Al-4V,1,310,15,-827.274318844901
+length,primary_paired,Ti-6Al-4V,1,311,15,-768.7591783421371
+length,primary_paired,Ti-6Al-4V,1,312,15,-792.274318844901
+length,primary_paired,Ti-6Al-4V,1,317,15,-845.8696484542736
+length,primary_paired,Ti-6Al-4V,1,318,15,-824.274318844901
+length,primary_paired,Ti-6Al-4V,1,323,15,-792.0884772355812
+length,primary_paired,IN625,2,56,6,-294.6361142196072
+length,primary_paired,IN625,2,57,6,-290.324916666872
+length,primary_paired,IN625,2,58,6,-287.474916666872
+length,primary_paired,IN625,2,60,6,-411.53678731946343
+length,primary_paired,IN625,2,61,6,-400.59613541995566
+length,primary_paired,IN625,2,62,6,-503.8482248632496
+length,primary_paired,IN625,2,63,6,-494.6883193498405
+length,primary_paired,IN625,2,66,6,-503.2278894119996
+length,primary_paired,IN625,2,67,6,-524.3177116995456
+length,primary_paired,IN625,2,68,6,-530.8819574019831
+length,primary_paired,IN625,2,69,6,-520.5703461708571
+length,primary_paired,IN625,2,71,6,-614.1087914454148
+length,primary_paired,IN625,2,74,6,-494.40507063457994
+length,primary_paired,IN625,2,85,6,-495.9032658958845
+length,primary_paired,IN625,2,87,6,-585.551348977687
+length,primary_paired,IN625,2,88,6,-457.53502063457995
+length,primary_paired,IN625,2,91,6,-454.8348696942494
+length,primary_paired,IN625,2,92,6,-456.3501494254916
+length,primary_paired,IN625,2,96,6,-434.64150487903896
+length,primary_paired,IN625,2,97,6,-429.7314375989786
+length,secondary_9_only,SS316L,2,1250,67,-126.76816514729597
+length,secondary_9_only,SS316L,2,1252,67,-187.28045817908242
+length,secondary_9_only,SS316L,2,1253,67,-198.90941933933584
+length,secondary_9_only,SS316L,2,1254,67,-223.37711393007874
+length,secondary_9_only,SS316L,2,1256,67,-177.36072801345102
+length,secondary_9_only,SS316L,2,1258,67,-253.43376556441007
+length,secondary_9_only,SS316L,2,1259,67,-268.398184008849
+length,secondary_9_only,SS316L,2,1262,67,-776.9583738192842
+length,secondary_9_only,SS316L,2,1263,67,-833.1341957419376
+length,secondary_9_only,SS316L,2,1264,67,-843.0369339746584
+length,secondary_9_only,SS316L,2,1265,67,-858.1464823778676
+length,secondary_9_only,SS316L,2,1266,67,-820.9913100959694
+length,secondary_9_only,SS316L,2,1267,67,-809.8292103272714
+length,secondary_9_only,SS316L,2,1269,67,-982.8171103553032
+length,secondary_9_only,SS316L,2,1270,67,-1010.6387201721222
+length,secondary_9_only,SS316L,2,1272,67,-1007.2052346597577
+length,secondary_9_only,SS316L,2,1276,67,-1163.5003696695633
+length,secondary_9_only,SS316L,2,1277,67,-1188.483645012308
+length,secondary_9_only,SS316L,2,1278,67,-1140.8463819706972
+length,secondary_9_only,SS316L,2,1279,67,-1134.437485830664
+length,primary_paired,Ti-6Al-4V,2,278,15,-853.8360988810103
+length,primary_paired,Ti-6Al-4V,2,279,15,-796.3892923787107
+length,primary_paired,Ti-6Al-4V,2,282,15,-807.5937390768912
+length,primary_paired,Ti-6Al-4V,2,283,15,-832.0557345177735
+length,primary_paired,Ti-6Al-4V,2,284,15,-828.0773929771776
+length,primary_paired,Ti-6Al-4V,2,285,15,-828.5465395098798
+length,primary_paired,Ti-6Al-4V,2,288,15,-825.5465395098798
+length,primary_paired,Ti-6Al-4V,2,289,15,-829.0446654226688
+length,primary_paired,Ti-6Al-4V,2,290,15,-829.0446654226688
+length,primary_paired,Ti-6Al-4V,2,291,15,-826.7849417103378
+length,primary_paired,Ti-6Al-4V,2,293,15,-835.8063140057114
+length,primary_paired,Ti-6Al-4V,2,296,15,-798.1889015463354
+length,primary_paired,Ti-6Al-4V,2,302,15,-816.478460917466
+length,primary_paired,Ti-6Al-4V,2,305,15,-850.267477999382
+length,primary_paired,Ti-6Al-4V,2,310,15,-826.033063122112
+length,primary_paired,Ti-6Al-4V,2,311,15,-759.2604297701868
+length,primary_paired,Ti-6Al-4V,2,312,15,-801.7435037509814
+length,primary_paired,Ti-6Al-4V,2,317,15,-835.4215394446792
+length,primary_paired,Ti-6Al-4V,2,318,15,-823.033063122112
+length,primary_paired,Ti-6Al-4V,2,323,15,-786.3970009185422
+length,primary_paired,IN625,3,56,6,-194.80266468053742
+length,primary_paired,IN625,3,57,6,-191.12362535818067
+length,primary_paired,IN625,3,58,6,-188.27362535818065
+length,primary_paired,IN625,3,60,6,-169.195357765876
+length,primary_paired,IN625,3,61,6,-154.30553129582358
+length,primary_paired,IN625,3,62,6,-302.70258785947465
+length,primary_paired,IN625,3,63,6,-292.6548752499126
+length,primary_paired,IN625,3,66,6,-299.918918612212
+length,primary_paired,IN625,3,67,6,-127.96446391640382
+length,primary_paired,IN625,3,68,6,-133.28531954290906
+length,primary_paired,IN625,3,69,6,-120.64441021110872
+length,primary_paired,IN625,3,71,6,-329.13528844886616
+length,primary_paired,IN625,3,74,6,-100.68950969000912
+length,primary_paired,IN625,3,85,6,-98.68002155063004
+length,primary_paired,IN625,3,87,6,-303.9693196492749
+length,primary_paired,IN625,3,88,6,-151.0502069613069
+length,primary_paired,IN625,3,91,6,-144.374590390119
+length,primary_paired,IN625,3,92,6,-144.5752672440916
+length,primary_paired,IN625,3,96,6,-151.5498798701616
+length,primary_paired,IN625,3,97,6,-145.94380361853064
+length,secondary_9_only,SS316L,3,1250,67,-100.58083322090584
+length,secondary_9_only,SS316L,3,1252,67,-133.16510651156764
+length,secondary_9_only,SS316L,3,1253,67,-144.91860936098809
+length,secondary_9_only,SS316L,3,1254,67,-143.99303250961503
+length,secondary_9_only,SS316L,3,1256,67,-169.728045107274
+length,secondary_9_only,SS316L,3,1258,67,-207.74256605599618
+length,secondary_9_only,SS316L,3,1259,67,-227.94206680478578
+length,secondary_9_only,SS316L,3,1262,67,-879.7340872085936
+length,secondary_9_only,SS316L,3,1263,67,-923.4074418427056
+length,secondary_9_only,SS316L,3,1264,67,-945.0888620922372
+length,secondary_9_only,SS316L,3,1265,67,-964.7943615476634
+length,secondary_9_only,SS316L,3,1266,67,-1020.5832641107395
+length,secondary_9_only,SS316L,3,1267,67,-1024.9311971725149
+length,secondary_9_only,SS316L,3,1269,67,-1110.0520653479668
+length,secondary_9_only,SS316L,3,1270,67,-1161.2396289348746
+length,secondary_9_only,SS316L,3,1272,67,-1227.013556843599
+length,secondary_9_only,SS316L,3,1276,67,-1319.608302464483
+length,secondary_9_only,SS316L,3,1277,67,-1350.581149826813
+length,secondary_9_only,SS316L,3,1278,67,-1452.8589149774489
+length,secondary_9_only,SS316L,3,1279,67,-1452.994256017203
+length,primary_paired,Ti-6Al-4V,3,278,15,-742.3511650330598
+length,primary_paired,Ti-6Al-4V,3,279,15,-648.4789707727213
+length,primary_paired,Ti-6Al-4V,3,282,15,-713.8995709734384
+length,primary_paired,Ti-6Al-4V,3,283,15,-732.1880043830431
+length,primary_paired,Ti-6Al-4V,3,284,15,-727.344271453234
+length,primary_paired,Ti-6Al-4V,3,285,15,-725.4432480681181
+length,primary_paired,Ti-6Al-4V,3,288,15,-722.4432480681181
+length,primary_paired,Ti-6Al-4V,3,289,15,-720.5945048658548
+length,primary_paired,Ti-6Al-4V,3,290,15,-723.621674892698
+length,primary_paired,Ti-6Al-4V,3,291,15,-721.1430995477425
+length,primary_paired,Ti-6Al-4V,3,293,15,-732.3376795838635
+length,primary_paired,Ti-6Al-4V,3,296,15,-692.7245639018151
+length,primary_paired,Ti-6Al-4V,3,302,15,-702.6324808667569
+length,primary_paired,Ti-6Al-4V,3,305,15,-745.654771956262
+length,primary_paired,Ti-6Al-4V,3,310,15,-713.6936989635038
+length,primary_paired,Ti-6Al-4V,3,311,15,-676.8046653260684
+length,primary_paired,Ti-6Al-4V,3,312,15,-697.7857819985621
+length,primary_paired,Ti-6Al-4V,3,317,15,-731.5393929553504
+length,primary_paired,Ti-6Al-4V,3,318,15,-710.6936989635038
+length,primary_paired,Ti-6Al-4V,3,323,15,-691.4456806059259
+length,primary_paired,IN625,4,56,6,47.7378013180612
+length,primary_paired,IN625,4,57,6,50.47860871323917
+length,primary_paired,IN625,4,58,6,53.32860871323919
+length,primary_paired,IN625,4,60,6,243.9796203739167
+length,primary_paired,IN625,4,61,6,246.11343015679813
+length,primary_paired,IN625,4,62,6,201.73082027731357
+length,primary_paired,IN625,4,63,6,211.32310362983173
+length,primary_paired,IN625,4,66,6,207.91331074582888
+length,primary_paired,IN625,4,67,6,95.92912471440388
+length,primary_paired,IN625,4,68,6,92.99031709127291
+length,primary_paired,IN625,4,69,6,100.02385627263857
+length,primary_paired,IN625,4,71,6,42.953229356432075
+length,primary_paired,IN625,4,74,6,187.1243023284528
+length,primary_paired,IN625,4,85,6,191.51093101961226
+length,primary_paired,IN625,4,87,6,132.53546464910676
+length,primary_paired,IN625,4,88,6,131.86021323378395
+length,primary_paired,IN625,4,91,6,136.61277165374406
+length,primary_paired,IN625,4,92,6,136.66338122253774
+length,primary_paired,IN625,4,96,6,137.71912830262784
+length,primary_paired,IN625,4,97,6,138.83778200187248
+length,secondary_9_only,SS316L,4,1250,67,-166.6018464172608
+length,secondary_9_only,SS316L,4,1252,67,-239.1773381850495
+length,secondary_9_only,SS316L,4,1253,67,-253.45630612431762
+length,secondary_9_only,SS316L,4,1254,67,-242.03031167630195
+length,secondary_9_only,SS316L,4,1256,67,-218.3943929117671
+length,secondary_9_only,SS316L,4,1258,67,-307.3936715567869
+length,secondary_9_only,SS316L,4,1259,67,-322.8610247015685
+length,secondary_9_only,SS316L,4,1262,67,-805.5384010855862
+length,secondary_9_only,SS316L,4,1263,67,-856.379506747105
+length,secondary_9_only,SS316L,4,1264,67,-891.0707626632004
+length,secondary_9_only,SS316L,4,1265,67,-905.8028658545486
+length,secondary_9_only,SS316L,4,1266,67,-890.471672376298
+length,secondary_9_only,SS316L,4,1267,67,-883.9068845970256
+length,secondary_9_only,SS316L,4,1269,67,-1047.578279199465
+length,secondary_9_only,SS316L,4,1270,67,-1105.7360313727097
+length,secondary_9_only,SS316L,4,1272,67,-1100.5873469849914
+length,secondary_9_only,SS316L,4,1276,67,-1272.6812969004916
+length,secondary_9_only,SS316L,4,1277,67,-1291.7696219811678
+length,secondary_9_only,SS316L,4,1278,67,-1274.798348874935
+length,secondary_9_only,SS316L,4,1279,67,-1263.405298039692
+length,primary_paired,Ti-6Al-4V,4,278,15,-880.4982327129542
+length,primary_paired,Ti-6Al-4V,4,279,15,-795.2177443794328
+length,primary_paired,Ti-6Al-4V,4,282,15,-822.0101943654756
+length,primary_paired,Ti-6Al-4V,4,283,15,-849.113243879178
+length,primary_paired,Ti-6Al-4V,4,284,15,-846.113243879178
+length,primary_paired,Ti-6Al-4V,4,285,15,-844.4982327129542
+length,primary_paired,Ti-6Al-4V,4,288,15,-841.4982327129542
+length,primary_paired,Ti-6Al-4V,4,289,15,-843.0528035600976
+length,primary_paired,Ti-6Al-4V,4,290,15,-844.3697685923212
+length,primary_paired,Ti-6Al-4V,4,291,15,-845.7659371423376
+length,primary_paired,Ti-6Al-4V,4,293,15,-863.6421623970152
+length,primary_paired,Ti-6Al-4V,4,296,15,-818.1555173661562
+length,primary_paired,Ti-6Al-4V,4,302,15,-847.1555173661562
+length,primary_paired,Ti-6Al-4V,4,305,15,-879.799228258307
+length,primary_paired,Ti-6Al-4V,4,310,15,-855.0026485858408
+length,primary_paired,Ti-6Al-4V,4,311,15,-781.8446931902964
+length,primary_paired,Ti-6Al-4V,4,312,15,-820.0026485858408
+length,primary_paired,Ti-6Al-4V,4,317,15,-865.5583230985428
+length,primary_paired,Ti-6Al-4V,4,318,15,-852.0026485858408
+length,primary_paired,Ti-6Al-4V,4,323,15,-812.0871510162956
+width,secondary_9_only,Cu10Sn,0,1330,72,0.14423434933877388
+width,secondary_9_only,Cu10Sn,0,1331,72,32.22997758827239
+width,secondary_9_only,Cu10Sn,0,1332,72,10.35229129167979
+width,secondary_9_only,Cu10Sn,0,1334,72,29.947711798114398
+width,secondary_9_only,Cu10Sn,0,1336,72,242.93987836832378
+width,secondary_9_only,Cu10Sn,0,1337,72,116.27409021240288
+width,secondary_9_only,Cu10Sn,0,1340,72,46.09821977296846
+width,secondary_9_only,Cu10Sn,0,1341,72,92.57071957277691
+width,secondary_9_only,Cu10Sn,0,1342,72,57.4774316472635
+width,secondary_9_only,Cu10Sn,0,1343,72,51.64372796568239
+width,secondary_9_only,Cu10Sn,0,1344,72,47.46685448748394
+width,secondary_9_only,Cu10Sn,0,1345,72,171.04140632512474
+width,secondary_9_only,Cu10Sn,0,1347,72,111.02903996207277
+width,secondary_9_only,Cu10Sn,0,1348,72,88.15135366548017
+width,secondary_9_only,Cu10Sn,0,1354,72,-98.18678044566718
+width,secondary_9_only,Cu10Sn,0,1356,72,-74.10497781736137
+width,secondary_9_only,Cu10Sn,0,1359,72,-155.77592384637563
+width,secondary_9_only,Cu10Sn,0,1360,72,-204.95279732457408
+width,secondary_9_only,Cu10Sn,0,1361,72,-121.58015168335618
+width,secondary_9_only,Cu10Sn,0,1362,72,-125.77740398717498
+width,primary_paired,Hastelloy X,0,109,8,-38.33192815767272
+width,primary_paired,Hastelloy X,0,110,8,-27.120886432883623
+width,primary_paired,Hastelloy X,0,111,8,-24.471239546337443
+width,primary_paired,Hastelloy X,0,113,8,-5.16214401456665
+width,primary_paired,Hastelloy X,0,115,8,-21.866878655987037
+width,primary_paired,Hastelloy X,0,116,8,4.3236819353200815
+width,primary_paired,Hastelloy X,0,119,8,-31.634515402386512
+width,primary_paired,Hastelloy X,0,120,8,-12.981575044218573
+width,primary_paired,Hastelloy X,0,121,8,-23.33192815767272
+width,primary_paired,Hastelloy X,0,122,8,-27.120886432883623
+width,primary_paired,Hastelloy X,0,124,8,-27.560678471033782
+width,primary_paired,Hastelloy X,0,126,8,-0.8616972761855806
+width,primary_paired,Hastelloy X,0,127,8,-5.866878655987037
+width,primary_paired,Hastelloy X,0,132,8,-10.981575044218573
+width,primary_paired,Hastelloy X,0,133,8,-19.33192815767272
+width,primary_paired,Hastelloy X,0,138,8,-3.8616972761855806
+width,primary_paired,Hastelloy X,0,140,8,1.3236819353200815
+width,primary_paired,Hastelloy X,0,141,8,-5.6763180646799185
+width,primary_paired,Hastelloy X,0,637,31,-28.120886432883623
+width,primary_paired,Hastelloy X,0,638,31,-31.560678471033782
+width,primary_paired,IN625,0,41,5,-29.448130175996226
+width,primary_paired,IN625,0,45,5,-14.999578808348787
+width,primary_paired,IN625,0,46,5,7.6956310251660796
+width,primary_paired,IN625,0,47,5,-3.9995788083487867
+width,primary_paired,IN625,0,56,6,18.413257242026205
+width,primary_paired,IN625,0,67,6,-4.6357215200784765
+width,primary_paired,IN625,0,70,6,-3.8957215200784674
+width,primary_paired,IN625,0,74,6,11.061841065307249
+width,primary_paired,IN625,0,76,6,10.561841065307249
+width,primary_paired,IN625,0,82,6,72.87422211036397
+width,primary_paired,IN625,0,88,6,46.97693107015593
+width,primary_paired,IN625,0,94,6,71.64594082601553
+width,primary_paired,IN625,0,95,6,72.14594082601553
+width,primary_paired,IN625,0,474,21,63.64662045237397
+width,primary_paired,IN625,0,1304,71,5.390572944126006
+width,primary_paired,IN625,0,1312,71,-24.98821424920601
+width,primary_paired,IN625,0,1316,71,-76.60055495171702
+width,primary_paired,IN625,0,1320,71,12.704232338644289
+width,primary_paired,IN625,0,1322,71,-43.19194578785428
+width,primary_paired,IN625,0,1323,71,-56.6006254203248
+width,primary_paired,IN718,0,146,9,12.670820688693226
+width,primary_paired,IN718,0,147,9,-18.2044018735632
+width,primary_paired,IN718,0,158,9,-30.5020200392853
+width,primary_paired,IN718,0,159,9,1.5954099024825723
+width,primary_paired,IN718,0,160,9,29.376736946873294
+width,primary_paired,IN718,0,161,9,15.485327963370878
+width,primary_paired,IN718,0,165,9,21.84213402873783
+width,primary_paired,IN718,0,176,11,5.0872316560146515
+width,primary_paired,IN718,0,178,11,-9.845780220656792
+width,primary_paired,IN718,0,181,11,0.8698801232782785
+width,primary_paired,IN718,0,186,11,21.142233518253818
+width,primary_paired,IN718,0,648,33,3.2657030189612044
+width,primary_paired,IN718,0,651,33,19.018511960707613
+width,primary_paired,IN718,0,747,37,59.78161171146212
+width,primary_paired,IN718,0,750,37,26.509886904732326
+width,primary_paired,IN718,0,752,37,43.49891201238307
+width,primary_paired,IN718,0,757,37,53.556912251642075
+width,primary_paired,IN718,0,759,37,43.61434487012201
+width,primary_paired,IN718,0,984,54,46.78233002693804
+width,primary_paired,IN718,0,985,54,58.58626844256105
+width,primary_paired,IN738LC,0,273,14,17.020088395661944
+width,primary_paired,IN738LC,0,274,14,-12.20033248482548
+width,primary_paired,IN738LC,0,790,41,46.85894327715649
+width,primary_paired,IN738LC,0,791,41,47.57691173557038
+width,primary_paired,IN738LC,0,792,41,24.97935227059999
+width,primary_paired,IN738LC,0,793,41,-16.9881992651046
+width,primary_paired,IN738LC,0,796,41,33.78216158106657
+width,primary_paired,IN738LC,0,797,41,19.95754230345812
+width,primary_paired,IN738LC,0,798,41,-27.975032430134632
+width,primary_paired,IN738LC,0,799,41,20.71777322336655
+width,primary_paired,IN738LC,0,801,41,27.740910473381163
+width,primary_paired,IN738LC,0,804,41,113.76165383287363
+width,primary_paired,IN738LC,0,809,41,136.4132297973923
+width,primary_paired,IN738LC,0,810,41,102.71472717169445
+width,primary_paired,IN738LC,0,1531,78,-13.356632768094414
+width,primary_paired,IN738LC,0,1533,78,-18.878686333592555
+width,primary_paired,IN738LC,0,1534,78,-126.72170539413821
+width,primary_paired,IN738LC,0,1535,78,-5.952325346407662
+width,primary_paired,IN738LC,0,1541,78,-28.660545268375927
+width,primary_paired,IN738LC,0,1546,78,-55.58677020260771
+width,primary_paired,SS17-4PH,0,509,25,-16.729938110206362
+width,primary_paired,SS17-4PH,0,512,25,-16.394795427013335
+width,primary_paired,SS17-4PH,0,513,25,-13.899717563497518
+width,primary_paired,SS17-4PH,0,514,25,-12.97023046651286
+width,primary_paired,SS17-4PH,0,517,25,-21.537433384305317
+width,primary_paired,SS17-4PH,0,523,25,19.87926978054822
+width,primary_paired,SS17-4PH,0,528,25,-7.293412087182645
+width,primary_paired,SS17-4PH,0,534,25,-13.724833260172517
+width,primary_paired,SS17-4PH,0,537,25,6.7121946340718495
+width,primary_paired,SS17-4PH,0,539,25,26.835318898027694
+width,primary_paired,SS17-4PH,0,540,25,3.2645902743266504
+width,primary_paired,SS17-4PH,0,542,25,61.73772283271995
+width,primary_paired,SS17-4PH,0,547,25,112.92633402370615
+width,primary_paired,SS17-4PH,0,549,25,91.2910743560277
+width,primary_paired,SS17-4PH,0,556,25,149.56282709237885
+width,primary_paired,SS17-4PH,0,565,25,205.73239723671213
+width,primary_paired,SS17-4PH,0,572,25,271.73239723671213
+width,primary_paired,SS17-4PH,0,593,28,-18.822295390640306
+width,primary_paired,SS17-4PH,0,602,28,-47.17980719954579
+width,primary_paired,SS17-4PH,0,1241,65,-18.822295390640306
+width,primary_paired,SS316L,0,266,14,17.226462595546764
+width,primary_paired,SS316L,0,384,19,-17.29859227453028
+width,primary_paired,SS316L,0,395,19,-159.3048550094798
+width,primary_paired,SS316L,0,399,19,48.61382701385699
+width,primary_paired,SS316L,0,410,19,-208.38516772531682
+width,primary_paired,SS316L,0,413,19,-6.571761236155396
+width,primary_paired,SS316L,0,436,20,-19.3376696163092
+width,primary_paired,SS316L,0,441,20,14.672902292730242
+width,primary_paired,SS316L,0,473,20,-100.3365963923232
+width,primary_paired,SS316L,0,493,22,-0.781524492406362
+width,primary_paired,SS316L,0,1407,73,-171.83484640647998
+width,primary_paired,SS316L,0,1442,73,-80.10701422880612
+width,primary_paired,SS316L,0,1471,73,-126.91965290592651
+width,primary_paired,SS316L,0,1507,75,-130.38394633207918
+width,primary_paired,SS316L,0,1631,80,-44.75205469606257
+width,primary_paired,SS316L,0,1649,80,-73.90587653990923
+width,primary_paired,SS316L,0,1658,80,-80.26792536727808
+width,primary_paired,SS316L,0,1660,80,-89.79421493381633
+width,primary_paired,SS316L,0,1673,80,-161.6401875404634
+width,primary_paired,SS316L,0,1685,80,-270.0481050476896
+width,primary_paired,Ti-6Al-4V,0,14,2,9.620600928695666
+width,primary_paired,Ti-6Al-4V,0,15,2,15.896717939922976
+width,primary_paired,Ti-6Al-4V,0,18,2,-11.59134970775952
+width,primary_paired,Ti-6Al-4V,0,27,2,23.5763962687996
+width,primary_paired,Ti-6Al-4V,0,280,15,-14.495244684172377
+width,primary_paired,Ti-6Al-4V,0,282,15,17.012435369992573
+width,primary_paired,Ti-6Al-4V,0,288,15,-17.467961586123238
+width,primary_paired,Ti-6Al-4V,0,291,15,-20.467961586123238
+width,primary_paired,Ti-6Al-4V,0,293,15,62.120513915483464
+width,primary_paired,Ti-6Al-4V,0,294,15,-2.658560969440458
+width,primary_paired,Ti-6Al-4V,0,295,15,50.6169548254592
+width,primary_paired,Ti-6Al-4V,0,297,15,-11.444491105107403
+width,primary_paired,Ti-6Al-4V,0,300,15,-17.76503036831565
+width,primary_paired,Ti-6Al-4V,0,303,15,50.6169548254592
+width,primary_paired,Ti-6Al-4V,0,316,15,-16.76503036831565
+width,primary_paired,Ti-6Al-4V,0,318,15,-1.6585609694404582
+width,primary_paired,Ti-6Al-4V,0,1510,76,20.527770965682322
+width,primary_paired,Ti-6Al-4V,0,1512,76,-41.85543648303637
+width,primary_paired,Ti-6Al-4V,0,1517,76,-31.454570132773583
+width,primary_paired,Ti-6Al-4V,0,1553,79,10.127281289309295
+width,secondary_9_only,Cu10Sn,1,1330,72,53.563298988598774
+width,secondary_9_only,Cu10Sn,1,1331,72,59.77516852625601
+width,secondary_9_only,Cu10Sn,1,1332,72,1.2717290181103351
+width,secondary_9_only,Cu10Sn,1,1334,72,10.72233510287748
+width,secondary_9_only,Cu10Sn,1,1336,72,274.95584186075286
+width,secondary_9_only,Cu10Sn,1,1337,72,157.7945806320389
+width,secondary_9_only,Cu10Sn,1,1340,72,22.8289059088184
+width,secondary_9_only,Cu10Sn,1,1341,72,78.43676787293936
+width,secondary_9_only,Cu10Sn,1,1342,72,38.39803153080254
+width,secondary_9_only,Cu10Sn,1,1343,72,34.04171070182434
+width,secondary_9_only,Cu10Sn,1,1344,72,29.041710701824343
+width,secondary_9_only,Cu10Sn,1,1345,72,230.53947319268144
+width,secondary_9_only,Cu10Sn,1,1347,72,137.7045116048207
+width,secondary_9_only,Cu10Sn,1,1348,72,77.49172771364215
+width,secondary_9_only,Cu10Sn,1,1354,72,-93.85330178614362
+width,secondary_9_only,Cu10Sn,1,1356,72,-109.7693208132846
+width,secondary_9_only,Cu10Sn,1,1359,72,-205.2002755531073
+width,secondary_9_only,Cu10Sn,1,1360,72,-255.2002755531073
+width,secondary_9_only,Cu10Sn,1,1361,72,-189.9481787625778
+width,secondary_9_only,Cu10Sn,1,1362,72,-223.23460047713866
+width,primary_paired,Hastelloy X,1,109,8,-43.681368756489476
+width,primary_paired,Hastelloy X,1,110,8,-28.356390734551184
+width,primary_paired,Hastelloy X,1,111,8,-21.55348814682347
+width,primary_paired,Hastelloy X,1,113,8,-17.896797757478282
+width,primary_paired,Hastelloy X,1,115,8,-34.33469408593888
+width,primary_paired,Hastelloy X,1,116,8,-1.3049025219136041
+width,primary_paired,Hastelloy X,1,119,8,-38.168898537693565
+width,primary_paired,Hastelloy X,1,120,8,-19.74862148392367
+width,primary_paired,Hastelloy X,1,121,8,-28.681368756489476
+width,primary_paired,Hastelloy X,1,122,8,-28.356390734551184
+width,primary_paired,Hastelloy X,1,124,8,-24.85701640727376
+width,primary_paired,Hastelloy X,1,126,8,-12.8791903850381
+width,primary_paired,Hastelloy X,1,127,8,-18.334694085938878
+width,primary_paired,Hastelloy X,1,132,8,-17.74862148392367
+width,primary_paired,Hastelloy X,1,133,8,-24.681368756489476
+width,primary_paired,Hastelloy X,1,138,8,-15.8791903850381
+width,primary_paired,Hastelloy X,1,140,8,-4.304902521913604
+width,primary_paired,Hastelloy X,1,141,8,-0.21885427571471894
+width,primary_paired,Hastelloy X,1,637,31,-29.356390734551184
+width,primary_paired,Hastelloy X,1,638,31,-28.85701640727376
+width,primary_paired,IN625,1,41,5,-11.14539599235971
+width,primary_paired,IN625,1,45,5,8.158045739750719
+width,primary_paired,IN625,1,46,5,23.07004982228551
+width,primary_paired,IN625,1,47,5,19.15804573975072
+width,primary_paired,IN625,1,56,6,44.68631146146683
+width,primary_paired,IN625,1,67,6,29.60059250742586
+width,primary_paired,IN625,1,70,6,30.340592507425868
+width,primary_paired,IN625,1,74,6,52.011168300066856
+width,primary_paired,IN625,1,76,6,51.511168300066856
+width,primary_paired,IN625,1,82,6,120.8937279874544
+width,primary_paired,IN625,1,88,6,100.18559671675268
+width,primary_paired,IN625,1,94,6,95.10908285502336
+width,primary_paired,IN625,1,95,6,95.60908285502336
+width,primary_paired,IN625,1,474,21,55.238516007953436
+width,primary_paired,IN625,1,1304,71,35.07213254793392
+width,primary_paired,IN625,1,1312,71,39.8583567454953
+width,primary_paired,IN625,1,1316,71,-34.6806948891211
+width,primary_paired,IN625,1,1320,71,46.71657450204367
+width,primary_paired,IN625,1,1322,71,-41.382491315232954
+width,primary_paired,IN625,1,1323,71,-55.37181460750648
+width,primary_paired,IN718,1,146,9,15.24322244651708
+width,primary_paired,IN718,1,147,9,-14.621087436379298
+width,primary_paired,IN718,1,158,9,-25.472283670216598
+width,primary_paired,IN718,1,159,9,24.137760208464726
+width,primary_paired,IN718,1,160,9,19.01437197410337
+width,primary_paired,IN718,1,161,9,6.479265530596052
+width,primary_paired,IN718,1,165,9,2.420823056899195
+width,primary_paired,IN718,1,176,11,-7.127851765354279
+width,primary_paired,IN718,1,178,11,-7.337432082855969
+width,primary_paired,IN718,1,181,11,4.117660773512966
+width,primary_paired,IN718,1,186,11,6.790049782500446
+width,primary_paired,IN718,1,648,33,13.556275436088526
+width,primary_paired,IN718,1,651,33,-2.302399052841082
+width,primary_paired,IN718,1,747,37,77.2532283165362
+width,primary_paired,IN718,1,750,37,12.771694106633063
+width,primary_paired,IN718,1,752,37,43.01177255387455
+width,primary_paired,IN718,1,757,37,51.0030388099683
+width,primary_paired,IN718,1,759,37,8.755933170557967
+width,primary_paired,IN718,1,984,54,59.732369602129694
+width,primary_paired,IN718,1,985,54,64.25940765279438
+width,primary_paired,IN738LC,1,273,14,9.33184273977605
+width,primary_paired,IN738LC,1,274,14,-18.722122033811218
+width,primary_paired,IN738LC,1,790,41,66.51162556113671
+width,primary_paired,IN738LC,1,791,41,67.02027714802233
+width,primary_paired,IN738LC,1,792,41,47.05153277143015
+width,primary_paired,IN738LC,1,793,41,7.373017545404462
+width,primary_paired,IN738LC,1,796,41,29.389970311400006
+width,primary_paired,IN738LC,1,797,41,16.762102182177337
+width,primary_paired,IN738LC,1,798,41,-29.916413043848408
+width,primary_paired,IN738LC,1,799,41,51.347074496863144
+width,primary_paired,IN738LC,1,801,41,33.005770772976646
+width,primary_paired,IN738LC,1,804,41,130.2280887976428
+width,primary_paired,IN738LC,1,809,41,121.82833570080908
+width,primary_paired,IN738LC,1,810,41,74.9337203849368
+width,primary_paired,IN738LC,1,1531,78,-10.735105940687419
+width,primary_paired,IN738LC,1,1533,78,-23.74616267608377
+width,primary_paired,IN738LC,1,1534,78,-113.2027899730432
+width,primary_paired,IN738LC,1,1535,78,-8.784654173879261
+width,primary_paired,IN738LC,1,1541,78,-28.507388657356273
+width,primary_paired,IN738LC,1,1546,78,-70.17166429919092
+width,primary_paired,SS17-4PH,1,509,25,-8.036719864889008
+width,primary_paired,SS17-4PH,1,512,25,-10.032103396355325
+width,primary_paired,SS17-4PH,1,513,25,-2.7905258407643885
+width,primary_paired,SS17-4PH,1,514,25,-0.5354041668583207
+width,primary_paired,SS17-4PH,1,517,25,-11.254757617898804
+width,primary_paired,SS17-4PH,1,523,25,30.557489953710217
+width,primary_paired,SS17-4PH,1,528,25,4.2261849273727705
+width,primary_paired,SS17-4PH,1,534,25,-4.863847473811759
+width,primary_paired,SS17-4PH,1,537,25,19.563428960692647
+width,primary_paired,SS17-4PH,1,539,25,28.60039997798023
+width,primary_paired,SS17-4PH,1,540,25,24.60039997798023
+width,primary_paired,SS17-4PH,1,542,25,58.30030259876679
+width,primary_paired,SS17-4PH,1,547,25,9.729625219964817
+width,primary_paired,SS17-4PH,1,549,25,48.503950643730974
+width,primary_paired,SS17-4PH,1,556,25,131.5450401892567
+width,primary_paired,SS17-4PH,1,565,25,188.87787918763615
+width,primary_paired,SS17-4PH,1,572,25,254.87787918763615
+width,primary_paired,SS17-4PH,1,593,28,-17.683629503462242
+width,primary_paired,SS17-4PH,1,602,28,-44.7839510827466
+width,primary_paired,SS17-4PH,1,1241,65,-17.085628806857528
+width,primary_paired,SS316L,1,266,14,2.76821037603564
+width,primary_paired,SS316L,1,384,19,-65.26517739612348
+width,primary_paired,SS316L,1,395,19,-26.223718079119294
+width,primary_paired,SS316L,1,399,19,-0.14383855199395157
+width,primary_paired,SS316L,1,410,19,-94.4339024604489
+width,primary_paired,SS316L,1,413,19,-52.61211540459385
+width,primary_paired,SS316L,1,436,20,-45.092036538760254
+width,primary_paired,SS316L,1,441,20,-4.92940605538152
+width,primary_paired,SS316L,1,473,20,-135.38626615684262
+width,primary_paired,SS316L,1,493,22,-27.94614219689913
+width,primary_paired,SS316L,1,1407,73,-236.44863480842167
+width,primary_paired,SS316L,1,1442,73,-135.63442083255558
+width,primary_paired,SS316L,1,1471,73,-210.5744169033593
+width,primary_paired,SS316L,1,1507,75,-0.9615697605992182
+width,primary_paired,SS316L,1,1631,80,-87.46560068327898
+width,primary_paired,SS316L,1,1649,80,-147.0725174631199
+width,primary_paired,SS316L,1,1658,80,-159.6035082218764
+width,primary_paired,SS316L,1,1660,80,-120.94742902844908
+width,primary_paired,SS316L,1,1673,80,-201.52350867840158
+width,primary_paired,SS316L,1,1685,80,-256.366203732364
+width,primary_paired,Ti-6Al-4V,1,14,2,6.351635005122127
+width,primary_paired,Ti-6Al-4V,1,15,2,40.67678117019383
+width,primary_paired,Ti-6Al-4V,1,18,2,-13.70383678830511
+width,primary_paired,Ti-6Al-4V,1,27,2,45.61277563825085
+width,primary_paired,Ti-6Al-4V,1,280,15,-30.984294291647302
+width,primary_paired,Ti-6Al-4V,1,282,15,-51.18241032754071
+width,primary_paired,Ti-6Al-4V,1,288,15,-15.247915508557327
+width,primary_paired,Ti-6Al-4V,1,291,15,-18.247915508557327
+width,primary_paired,Ti-6Al-4V,1,293,15,-12.158810103468653
+width,primary_paired,Ti-6Al-4V,1,294,15,3.192401708199796
+width,primary_paired,Ti-6Al-4V,1,295,15,-51.39314958944439
+width,primary_paired,Ti-6Al-4V,1,297,15,-5.555300423407402
+width,primary_paired,Ti-6Al-4V,1,300,15,-1.172712147140885
+width,primary_paired,Ti-6Al-4V,1,303,15,-51.39314958944439
+width,primary_paired,Ti-6Al-4V,1,316,15,-0.172712147140885
+width,primary_paired,Ti-6Al-4V,1,318,15,4.192401708199796
+width,primary_paired,Ti-6Al-4V,1,1510,76,40.61446711587445
+width,primary_paired,Ti-6Al-4V,1,1512,76,-3.083214476331161
+width,primary_paired,Ti-6Al-4V,1,1517,76,-2.080343232592213
+width,primary_paired,Ti-6Al-4V,1,1553,79,-10.425780183420287
+width,secondary_9_only,Cu10Sn,2,1330,72,23.876046015458087
+width,secondary_9_only,Cu10Sn,2,1331,72,32.84256010483199
+width,secondary_9_only,Cu10Sn,2,1332,72,-38.977621960715794
+width,secondary_9_only,Cu10Sn,2,1334,72,-18.339599784658304
+width,secondary_9_only,Cu10Sn,2,1336,72,106.69561857665548
+width,secondary_9_only,Cu10Sn,2,1337,72,84.09049874974477
+width,secondary_9_only,Cu10Sn,2,1340,72,-42.87452394521591
+width,secondary_9_only,Cu10Sn,2,1341,72,40.58571147378461
+width,secondary_9_only,Cu10Sn,2,1342,72,-13.567698733363386
+width,secondary_9_only,Cu10Sn,2,1343,72,-16.314231378177595
+width,secondary_9_only,Cu10Sn,2,1344,72,-21.314231378177595
+width,secondary_9_only,Cu10Sn,2,1345,72,167.72373213253837
+width,secondary_9_only,Cu10Sn,2,1347,72,97.88226956536516
+width,secondary_9_only,Cu10Sn,2,1348,72,25.56373742929776
+width,secondary_9_only,Cu10Sn,2,1354,72,-90.5435422019786
+width,secondary_9_only,Cu10Sn,2,1356,72,-113.56036621280055
+width,secondary_9_only,Cu10Sn,2,1359,72,-205.9358405082013
+width,secondary_9_only,Cu10Sn,2,1360,72,-255.9358405082013
+width,secondary_9_only,Cu10Sn,2,1361,72,-177.2987319114801
+width,secondary_9_only,Cu10Sn,2,1362,72,-220.32887417059538
+width,primary_paired,Hastelloy X,2,109,8,-42.198682468695296
+width,primary_paired,Hastelloy X,2,110,8,-25.760519372243436
+width,primary_paired,Hastelloy X,2,111,8,-20.811810548669882
+width,primary_paired,Hastelloy X,2,113,8,-13.774254117596797
+width,primary_paired,Hastelloy X,2,115,8,-33.12035826197331
+width,primary_paired,Hastelloy X,2,116,8,-6.142324342646418
+width,primary_paired,Hastelloy X,2,119,8,-31.141826719037084
+width,primary_paired,Hastelloy X,2,120,8,-20.49039629796897
+width,primary_paired,Hastelloy X,2,121,8,-27.198682468695296
+width,primary_paired,Hastelloy X,2,122,8,-25.760519372243436
+width,primary_paired,Hastelloy X,2,124,8,-17.217546806082282
+width,primary_paired,Hastelloy X,2,126,8,-10.197503483288045
+width,primary_paired,Hastelloy X,2,127,8,-17.12035826197331
+width,primary_paired,Hastelloy X,2,132,8,-18.49039629796897
+width,primary_paired,Hastelloy X,2,133,8,-23.198682468695296
+width,primary_paired,Hastelloy X,2,138,8,-13.197503483288045
+width,primary_paired,Hastelloy X,2,140,8,-9.142324342646418
+width,primary_paired,Hastelloy X,2,141,8,-16.14232434264642
+width,primary_paired,Hastelloy X,2,637,31,-26.760519372243436
+width,primary_paired,Hastelloy X,2,638,31,-21.217546806082282
+width,primary_paired,IN625,2,41,5,-39.468318758336494
+width,primary_paired,IN625,2,45,5,-4.423299797590687
+width,primary_paired,IN625,2,46,5,-6.178893569374935
+width,primary_paired,IN625,2,47,5,6.576700202409313
+width,primary_paired,IN625,2,56,6,45.585297523511656
+width,primary_paired,IN625,2,67,6,3.545778767682691
+width,primary_paired,IN625,2,70,6,4.2857787676827
+width,primary_paired,IN625,2,74,6,34.098066720152616
+width,primary_paired,IN625,2,76,6,33.598066720152616
+width,primary_paired,IN625,2,82,6,116.04797586693728
+width,primary_paired,IN625,2,88,6,61.79460152002699
+width,primary_paired,IN625,2,94,6,118.54263361562127
+width,primary_paired,IN625,2,95,6,119.04263361562127
+width,primary_paired,IN625,2,474,21,59.48510191170844
+width,primary_paired,IN625,2,1304,71,8.84268512715198
+width,primary_paired,IN625,2,1312,71,-1.8530514861576535
+width,primary_paired,IN625,2,1316,71,-56.61495106570655
+width,primary_paired,IN625,2,1320,71,40.37514464930803
+width,primary_paired,IN625,2,1322,71,-20.216703274130026
+width,primary_paired,IN625,2,1323,71,-35.47301135867164
+width,primary_paired,IN718,2,146,9,16.234037651159525
+width,primary_paired,IN718,2,147,9,-20.157025860457765
+width,primary_paired,IN718,2,158,9,-7.286853427048612
+width,primary_paired,IN718,2,159,9,10.606187413053107
+width,primary_paired,IN718,2,160,9,29.925004434393443
+width,primary_paired,IN718,2,161,9,13.195963997407773
+width,primary_paired,IN718,2,165,9,5.683487129290484
+width,primary_paired,IN718,2,176,11,30.6567611530373
+width,primary_paired,IN718,2,178,11,-6.506896616572561
+width,primary_paired,IN718,2,181,11,4.30237837483125
+width,primary_paired,IN718,2,186,11,22.619810440071277
+width,primary_paired,IN718,2,648,33,23.271684674365304
+width,primary_paired,IN718,2,651,33,18.466860857625093
+width,primary_paired,IN718,2,747,37,75.94644263070398
+width,primary_paired,IN718,2,750,37,14.47457785341156
+width,primary_paired,IN718,2,752,37,23.247468182903617
+width,primary_paired,IN718,2,757,37,61.30718517246231
+width,primary_paired,IN718,2,759,37,4.358243662397626
+width,primary_paired,IN718,2,984,54,60.06324006864031
+width,primary_paired,IN718,2,985,54,63.99347051096518
+width,primary_paired,IN738LC,2,273,14,14.957962427913785
+width,primary_paired,IN738LC,2,274,14,-13.747278781831994
+width,primary_paired,IN738LC,2,790,41,39.51995921605984
+width,primary_paired,IN738LC,2,791,41,52.356624509776196
+width,primary_paired,IN738LC,2,792,41,30.64068510701432
+width,primary_paired,IN738LC,2,793,41,-12.164701410020442
+width,primary_paired,IN738LC,2,796,41,23.99114349527713
+width,primary_paired,IN738LC,2,797,41,10.53664129568402
+width,primary_paired,IN738LC,2,798,41,-38.04714285512466
+width,primary_paired,IN738LC,2,799,41,31.761902384165467
+width,primary_paired,IN738LC,2,801,41,32.436998160695794
+width,primary_paired,IN738LC,2,804,41,97.51278999612956
+width,primary_paired,IN738LC,2,809,41,103.87685814822913
+width,primary_paired,IN738LC,2,810,41,69.51467537717568
+width,primary_paired,IN738LC,2,1531,78,-18.047086256115648
+width,primary_paired,IN738LC,2,1533,78,-21.086213517310227
+width,primary_paired,IN738LC,2,1534,78,-106.24690187845223
+width,primary_paired,IN738LC,2,1535,78,-10.381919837561782
+width,primary_paired,IN738LC,2,1541,78,-42.04836445008999
+width,primary_paired,IN738LC,2,1546,78,-88.8325585639223
+width,primary_paired,SS17-4PH,2,509,25,-16.994704262410707
+width,primary_paired,SS17-4PH,2,512,25,-17.52993696076861
+width,primary_paired,SS17-4PH,2,513,25,-10.33135215089348
+width,primary_paired,SS17-4PH,2,514,25,-12.33135215089348
+width,primary_paired,SS17-4PH,2,517,25,-23.016908525309603
+width,primary_paired,SS17-4PH,2,523,25,20.983041217290122
+width,primary_paired,SS17-4PH,2,528,25,-4.133988353217447
+width,primary_paired,SS17-4PH,2,534,25,-13.057719621515815
+width,primary_paired,SS17-4PH,2,537,25,5.413766465590953
+width,primary_paired,SS17-4PH,2,539,25,23.19972367273185
+width,primary_paired,SS17-4PH,2,540,25,6.3380447337064965
+width,primary_paired,SS17-4PH,2,542,25,87.09723589524071
+width,primary_paired,SS17-4PH,2,547,25,16.119013076665624
+width,primary_paired,SS17-4PH,2,549,25,63.3731920160096
+width,primary_paired,SS17-4PH,2,556,25,114.60681700574531
+width,primary_paired,SS17-4PH,2,565,25,167.73337488215685
+width,primary_paired,SS17-4PH,2,572,25,233.73337488215685
+width,primary_paired,SS17-4PH,2,593,28,-21.08850026688509
+width,primary_paired,SS17-4PH,2,602,28,-38.801799784678906
+width,primary_paired,SS17-4PH,2,1241,65,-16.24726378971181
+width,primary_paired,SS316L,2,266,14,1.6449767718619057
+width,primary_paired,SS316L,2,384,19,-42.70929097052888
+width,primary_paired,SS316L,2,395,19,22.512880675285913
+width,primary_paired,SS316L,2,399,19,27.410186077502914
+width,primary_paired,SS316L,2,410,19,-200.41759078644532
+width,primary_paired,SS316L,2,413,19,10.50666177049186
+width,primary_paired,SS316L,2,436,20,-24.539384663018524
+width,primary_paired,SS316L,2,441,20,-4.99332245123756
+width,primary_paired,SS316L,2,473,20,-126.33862332557777
+width,primary_paired,SS316L,2,493,22,-11.900796631898032
+width,primary_paired,SS316L,2,1407,73,-153.90550236308871
+width,primary_paired,SS316L,2,1442,73,-61.91117464569675
+width,primary_paired,SS316L,2,1471,73,-141.03169457137545
+width,primary_paired,SS316L,2,1507,75,-211.67198676615385
+width,primary_paired,SS316L,2,1631,80,-72.9004241537088
+width,primary_paired,SS316L,2,1649,80,-106.59766553358341
+width,primary_paired,SS316L,2,1658,80,-128.53324292283102
+width,primary_paired,SS316L,2,1660,80,-88.88693950911377
+width,primary_paired,SS316L,2,1673,80,-134.77440180758748
+width,primary_paired,SS316L,2,1685,80,-304.0547817590985
+width,primary_paired,Ti-6Al-4V,2,14,2,7.10478953791047
+width,primary_paired,Ti-6Al-4V,2,15,2,15.06793692032149
+width,primary_paired,Ti-6Al-4V,2,18,2,-7.2171460162016245
+width,primary_paired,Ti-6Al-4V,2,27,2,2.623574434978025
+width,primary_paired,Ti-6Al-4V,2,280,15,-6.5699764319320195
+width,primary_paired,Ti-6Al-4V,2,282,15,-38.0454516544585
+width,primary_paired,Ti-6Al-4V,2,288,15,-12.448651835690328
+width,primary_paired,Ti-6Al-4V,2,291,15,-15.448651835690328
+width,primary_paired,Ti-6Al-4V,2,293,15,-36.042294054091315
+width,primary_paired,Ti-6Al-4V,2,294,15,-9.715083764010473
+width,primary_paired,Ti-6Al-4V,2,295,15,-18.166776250700252
+width,primary_paired,Ti-6Al-4V,2,297,15,-23.629074462151664
+width,primary_paired,Ti-6Al-4V,2,300,15,-4.849659675910914
+width,primary_paired,Ti-6Al-4V,2,303,15,-18.166776250700252
+width,primary_paired,Ti-6Al-4V,2,316,15,-3.849659675910914
+width,primary_paired,Ti-6Al-4V,2,318,15,-8.715083764010473
+width,primary_paired,Ti-6Al-4V,2,1510,76,12.123156836140794
+width,primary_paired,Ti-6Al-4V,2,1512,76,-19.604095725574965
+width,primary_paired,Ti-6Al-4V,2,1517,76,-23.319529075848564
+width,primary_paired,Ti-6Al-4V,2,1553,79,-6.220731735689682
+width,secondary_9_only,Cu10Sn,3,1330,72,24.708592658014112
+width,secondary_9_only,Cu10Sn,3,1331,72,48.37171643602244
+width,secondary_9_only,Cu10Sn,3,1332,72,-25.29338420416545
+width,secondary_9_only,Cu10Sn,3,1334,72,-8.316759850634554
+width,secondary_9_only,Cu10Sn,3,1336,72,271.5937244259663
+width,secondary_9_only,Cu10Sn,3,1337,72,130.91306087825114
+width,secondary_9_only,Cu10Sn,3,1340,72,-1.6158364518319104
+width,secondary_9_only,Cu10Sn,3,1341,72,59.05929882956141
+width,secondary_9_only,Cu10Sn,3,1342,72,13.284496349259598
+width,secondary_9_only,Cu10Sn,3,1343,72,11.301132045024303
+width,secondary_9_only,Cu10Sn,3,1344,72,6.301132045024303
+width,secondary_9_only,Cu10Sn,3,1345,72,192.7706249820236
+width,secondary_9_only,Cu10Sn,3,1347,72,131.4082712312518
+width,secondary_9_only,Cu10Sn,3,1348,72,56.74317059106389
+width,secondary_9_only,Cu10Sn,3,1354,72,-111.96174453307202
+width,secondary_9_only,Cu10Sn,3,1356,72,-94.90953173184062
+width,secondary_9_only,Cu10Sn,3,1359,72,-203.9611674851165
+width,secondary_9_only,Cu10Sn,3,1360,72,-253.9611674851165
+width,secondary_9_only,Cu10Sn,3,1361,72,-175.9837241786292
+width,secondary_9_only,Cu10Sn,3,1362,72,-227.01345489117102
+width,primary_paired,Hastelloy X,3,109,8,-46.20874314048784
+width,primary_paired,Hastelloy X,3,110,8,-30.167564272502062
+width,primary_paired,Hastelloy X,3,111,8,-24.410678065087637
+width,primary_paired,Hastelloy X,3,113,8,-28.78760481300938
+width,primary_paired,Hastelloy X,3,115,8,-36.557215530062365
+width,primary_paired,Hastelloy X,3,116,8,-2.1795037206327947
+width,primary_paired,Hastelloy X,3,119,8,-35.78133354710636
+width,primary_paired,Hastelloy X,3,120,8,-22.071702262900573
+width,primary_paired,Hastelloy X,3,121,8,-31.20874314048784
+width,primary_paired,Hastelloy X,3,122,8,-30.167564272502062
+width,primary_paired,Hastelloy X,3,124,8,-24.11687804093164
+width,primary_paired,Hastelloy X,3,126,8,-20.756644905126905
+width,primary_paired,Hastelloy X,3,127,8,-20.557215530062365
+width,primary_paired,Hastelloy X,3,132,8,-20.071702262900573
+width,primary_paired,Hastelloy X,3,133,8,-27.20874314048784
+width,primary_paired,Hastelloy X,3,138,8,-23.756644905126905
+width,primary_paired,Hastelloy X,3,140,8,-5.179503720632795
+width,primary_paired,Hastelloy X,3,141,8,1.6748332181731627
+width,primary_paired,Hastelloy X,3,637,31,-31.167564272502062
+width,primary_paired,Hastelloy X,3,638,31,-28.11687804093164
+width,primary_paired,IN625,3,41,5,7.253826587996713
+width,primary_paired,IN625,3,45,5,15.01232878992856
+width,primary_paired,IN625,3,46,5,29.502325190161642
+width,primary_paired,IN625,3,47,5,26.01232878992856
+width,primary_paired,IN625,3,56,6,32.9664620308394
+width,primary_paired,IN625,3,67,6,47.56955894342772
+width,primary_paired,IN625,3,70,6,48.30955894342773
+width,primary_paired,IN625,3,74,6,68.90746095978322
+width,primary_paired,IN625,3,76,6,68.40746095978322
+width,primary_paired,IN625,3,82,6,117.2374584792692
+width,primary_paired,IN625,3,88,6,93.18894838233837
+width,primary_paired,IN625,3,94,6,110.2951567758634
+width,primary_paired,IN625,3,95,6,110.7951567758634
+width,primary_paired,IN625,3,474,21,64.73434551650692
+width,primary_paired,IN625,3,1304,71,34.4227072213112
+width,primary_paired,IN625,3,1312,71,26.97144293978735
+width,primary_paired,IN625,3,1316,71,-18.927493780296857
+width,primary_paired,IN625,3,1320,71,49.31274331049312
+width,primary_paired,IN625,3,1322,71,2.0681384333097554
+width,primary_paired,IN625,3,1323,71,-9.913599726371245
+width,primary_paired,IN718,3,146,9,16.572765800044095
+width,primary_paired,IN718,3,147,9,-28.962864798392246
+width,primary_paired,IN718,3,158,9,-55.99821676583764
+width,primary_paired,IN718,3,159,9,14.861806733470104
+width,primary_paired,IN718,3,160,9,19.068546993465787
+width,primary_paired,IN718,3,161,9,-5.176099132384451
+width,primary_paired,IN718,3,165,9,6.560417571414646
+width,primary_paired,IN718,3,176,11,-21.35656841510962
+width,primary_paired,IN718,3,178,11,-17.283253508791972
+width,primary_paired,IN718,3,181,11,-7.042510480162463
+width,primary_paired,IN718,3,186,11,-3.8021257690173655
+width,primary_paired,IN718,3,648,33,4.905343502023754
+width,primary_paired,IN718,3,651,33,-2.518944295371085
+width,primary_paired,IN718,3,747,37,69.3929139557776
+width,primary_paired,IN718,3,750,37,-2.7734516052084643
+width,primary_paired,IN718,3,752,37,17.35155085493909
+width,primary_paired,IN718,3,757,37,12.847378625661236
+width,primary_paired,IN718,3,759,37,-18.63405769476293
+width,primary_paired,IN718,3,984,54,60.020757246784484
+width,primary_paired,IN718,3,985,54,59.42548770401922
+width,primary_paired,IN738LC,3,273,14,22.109437988266833
+width,primary_paired,IN738LC,3,274,14,-3.3822689079515555
+width,primary_paired,IN738LC,3,790,41,62.088467600671535
+width,primary_paired,IN738LC,3,791,41,72.11515493440929
+width,primary_paired,IN738LC,3,792,41,55.380052958575476
+width,primary_paired,IN738LC,3,793,41,9.796240819605089
+width,primary_paired,IN738LC,3,796,41,25.866765903368105
+width,primary_paired,IN738LC,3,797,41,16.35460202830216
+width,primary_paired,IN738LC,3,798,41,-34.82484899216735
+width,primary_paired,IN738LC,3,799,41,35.70403047983632
+width,primary_paired,IN738LC,3,801,41,41.99650940373547
+width,primary_paired,IN738LC,3,804,41,119.14226806325195
+width,primary_paired,IN738LC,3,809,41,113.15588543806467
+width,primary_paired,IN738LC,3,810,41,67.97411315825883
+width,primary_paired,IN738LC,3,1531,78,1.1892383519059564
+width,primary_paired,IN738LC,3,1533,78,-12.637399605273515
+width,primary_paired,IN738LC,3,1534,78,-85.2740979921708
+width,primary_paired,IN738LC,3,1535,78,-35.4032585837283
+width,primary_paired,IN738LC,3,1541,78,-38.67860884549745
+width,primary_paired,IN738LC,3,1546,78,-78.84411456193533
+width,primary_paired,SS17-4PH,3,509,25,-12.336315432174914
+width,primary_paired,SS17-4PH,3,512,25,-14.682725164431517
+width,primary_paired,SS17-4PH,3,513,25,-6.416421093156913
+width,primary_paired,SS17-4PH,3,514,25,-7.781733228803546
+width,primary_paired,SS17-4PH,3,517,25,-27.506883801302664
+width,primary_paired,SS17-4PH,3,523,25,9.039956227715706
+width,primary_paired,SS17-4PH,3,528,25,-13.541305657784065
+width,primary_paired,SS17-4PH,3,534,25,-22.10358416533022
+width,primary_paired,SS17-4PH,3,537,25,-3.7077194818015045
+width,primary_paired,SS17-4PH,3,539,25,-18.19226810761728
+width,primary_paired,SS17-4PH,3,540,25,5.051181770764728
+width,primary_paired,SS17-4PH,3,542,25,47.848411334902096
+width,primary_paired,SS17-4PH,3,547,25,-22.14037318524487
+width,primary_paired,SS17-4PH,3,549,25,19.07655535166299
+width,primary_paired,SS17-4PH,3,556,25,66.02550287560831
+width,primary_paired,SS17-4PH,3,565,25,139.76479370645072
+width,primary_paired,SS17-4PH,3,572,25,205.76479370645072
+width,primary_paired,SS17-4PH,3,593,28,-31.02032800849267
+width,primary_paired,SS17-4PH,3,602,28,-51.06758173116535
+width,primary_paired,SS17-4PH,3,1241,65,-36.16671456544074
+width,primary_paired,SS316L,3,266,14,4.2599577103959945
+width,primary_paired,SS316L,3,384,19,-61.24712375029691
+width,primary_paired,SS316L,3,395,19,-151.361945304168
+width,primary_paired,SS316L,3,399,19,-9.703822517438482
+width,primary_paired,SS316L,3,410,19,-371.82458827076334
+width,primary_paired,SS316L,3,413,19,-103.665822624572
+width,primary_paired,SS316L,3,436,20,-39.74928489787982
+width,primary_paired,SS316L,3,441,20,5.544699015068559
+width,primary_paired,SS316L,3,473,20,-83.11301687496518
+width,primary_paired,SS316L,3,493,22,2.1869835893531615
+width,primary_paired,SS316L,3,1407,73,-188.94358552271842
+width,primary_paired,SS316L,3,1442,73,-91.07996281153083
+width,primary_paired,SS316L,3,1471,73,-232.206137715487
+width,primary_paired,SS316L,3,1507,75,-268.8976724865181
+width,primary_paired,SS316L,3,1631,80,-89.69646513052166
+width,primary_paired,SS316L,3,1649,80,-126.72353340153799
+width,primary_paired,SS316L,3,1658,80,-238.04416537359768
+width,primary_paired,SS316L,3,1660,80,-133.9281817354752
+width,primary_paired,SS316L,3,1673,80,-239.73071026479425
+width,primary_paired,SS316L,3,1685,80,-332.80553683827384
+width,primary_paired,Ti-6Al-4V,3,14,2,17.679650774948858
+width,primary_paired,Ti-6Al-4V,3,15,2,44.04287406927649
+width,primary_paired,Ti-6Al-4V,3,18,2,-26.82159821111344
+width,primary_paired,Ti-6Al-4V,3,27,2,37.594930427804044
+width,primary_paired,Ti-6Al-4V,3,280,15,-11.04747135362274
+width,primary_paired,Ti-6Al-4V,3,282,15,-54.69714682850264
+width,primary_paired,Ti-6Al-4V,3,288,15,-28.418383823391338
+width,primary_paired,Ti-6Al-4V,3,291,15,-31.418383823391338
+width,primary_paired,Ti-6Al-4V,3,293,15,-36.21680002833949
+width,primary_paired,Ti-6Al-4V,3,294,15,-26.14053946100674
+width,primary_paired,Ti-6Al-4V,3,295,15,-14.550424533118786
+width,primary_paired,Ti-6Al-4V,3,297,15,-10.813220976121244
+width,primary_paired,Ti-6Al-4V,3,300,15,-15.590985442863996
+width,primary_paired,Ti-6Al-4V,3,303,15,-14.550424533118786
+width,primary_paired,Ti-6Al-4V,3,316,15,-14.590985442863996
+width,primary_paired,Ti-6Al-4V,3,318,15,-25.14053946100674
+width,primary_paired,Ti-6Al-4V,3,1510,76,29.74726935062641
+width,primary_paired,Ti-6Al-4V,3,1512,76,-51.394688538792835
+width,primary_paired,Ti-6Al-4V,3,1517,76,-16.977386353857142
+width,primary_paired,Ti-6Al-4V,3,1553,79,13.469731874711385
+width,secondary_9_only,Cu10Sn,4,1330,72,20.274233981556108
+width,secondary_9_only,Cu10Sn,4,1331,72,32.73939045500404
+width,secondary_9_only,Cu10Sn,4,1332,72,-37.2558908799229
+width,secondary_9_only,Cu10Sn,4,1334,72,-25.85015918604759
+width,secondary_9_only,Cu10Sn,4,1336,72,228.02129034373075
+width,secondary_9_only,Cu10Sn,4,1337,72,95.92022773732009
+width,secondary_9_only,Cu10Sn,4,1340,72,-25.18710421315356
+width,secondary_9_only,Cu10Sn,4,1341,72,14.12703371280935
+width,secondary_9_only,Cu10Sn,4,1342,72,-20.78137251927825
+width,secondary_9_only,Cu10Sn,4,1343,72,-27.2510381100966
+width,secondary_9_only,Cu10Sn,4,1344,72,-31.623269662329506
+width,secondary_9_only,Cu10Sn,4,1345,72,158.2015908452243
+width,secondary_9_only,Cu10Sn,4,1347,72,111.3338466388524
+width,secondary_9_only,Cu10Sn,4,1348,72,39.44339667119792
+width,secondary_9_only,Cu10Sn,4,1354,72,-110.74843884519248
+width,secondary_9_only,Cu10Sn,4,1356,72,-90.09177018042959
+width,secondary_9_only,Cu10Sn,4,1359,72,-200.1551894939165
+width,secondary_9_only,Cu10Sn,4,1360,72,-249.52742104614936
+width,secondary_9_only,Cu10Sn,4,1361,72,-173.1370127738037
+width,secondary_9_only,Cu10Sn,4,1362,72,-204.89907645535448
+width,primary_paired,Hastelloy X,4,109,8,-49.496735614745646
+width,primary_paired,Hastelloy X,4,110,8,-36.34574094468354
+width,primary_paired,Hastelloy X,4,111,8,-26.015028648755276
+width,primary_paired,Hastelloy X,4,113,8,-21.293259375319963
+width,primary_paired,Hastelloy X,4,115,8,-38.620818168563716
+width,primary_paired,Hastelloy X,4,116,8,-7.458665000894598
+width,primary_paired,Hastelloy X,4,119,8,-49.41512438647595
+width,primary_paired,Hastelloy X,4,120,8,-32.66857470825502
+width,primary_paired,Hastelloy X,4,121,8,-34.496735614745646
+width,primary_paired,Hastelloy X,4,122,8,-36.34574094468354
+width,primary_paired,Hastelloy X,4,124,8,-33.24671035747434
+width,primary_paired,Hastelloy X,4,126,8,-18.043380982327875
+width,primary_paired,Hastelloy X,4,127,8,-22.620818168563716
+width,primary_paired,Hastelloy X,4,132,8,-30.668574708255022
+width,primary_paired,Hastelloy X,4,133,8,-30.496735614745646
+width,primary_paired,Hastelloy X,4,138,8,-21.043380982327875
+width,primary_paired,Hastelloy X,4,140,8,-10.458665000894598
+width,primary_paired,Hastelloy X,4,141,8,-11.614190944721358
+width,primary_paired,Hastelloy X,4,637,31,-37.34574094468354
+width,primary_paired,Hastelloy X,4,638,31,-37.24671035747434
+width,primary_paired,IN625,4,41,5,2.461620152307603
+width,primary_paired,IN625,4,45,5,17.329101352405843
+width,primary_paired,IN625,4,46,5,32.530431906536904
+width,primary_paired,IN625,4,47,5,28.329101352405843
+width,primary_paired,IN625,4,56,6,43.84999533665275
+width,primary_paired,IN625,4,67,6,75.59002993111687
+width,primary_paired,IN625,4,70,6,76.33002993111688
+width,primary_paired,IN625,4,74,6,98.7291345174597
+width,primary_paired,IN625,4,76,6,98.2291345174597
+width,primary_paired,IN625,4,82,6,168.94272067799696
+width,primary_paired,IN625,4,88,6,131.96303549856867
+width,primary_paired,IN625,4,94,6,177.37557094544684
+width,primary_paired,IN625,4,95,6,177.87557094544684
+width,primary_paired,IN625,4,474,21,56.92382144895449
+width,primary_paired,IN625,4,1304,71,53.29460826835364
+width,primary_paired,IN625,4,1312,71,69.12516757871964
+width,primary_paired,IN625,4,1316,71,6.800946340977205
+width,primary_paired,IN625,4,1320,71,100.40959289889398
+width,primary_paired,IN625,4,1322,71,19.9023112625744
+width,primary_paired,IN625,4,1323,71,5.459828780141905
+width,primary_paired,IN718,4,146,9,30.833421566050077
+width,primary_paired,IN718,4,147,9,-2.572953164263481
+width,primary_paired,IN718,4,158,9,-1.3352203300720475
+width,primary_paired,IN718,4,159,9,33.20596685159086
+width,primary_paired,IN718,4,160,9,29.218176605688157
+width,primary_paired,IN718,4,161,9,11.028931486707506
+width,primary_paired,IN718,4,165,9,34.797158074680524
+width,primary_paired,IN718,4,176,11,7.267544846435911
+width,primary_paired,IN718,4,178,11,-1.0538760890289183
+width,primary_paired,IN718,4,181,11,12.104499138482026
+width,primary_paired,IN718,4,186,11,43.13912754495075
+width,primary_paired,IN718,4,648,33,17.506822267726875
+width,primary_paired,IN718,4,651,33,36.53422805297433
+width,primary_paired,IN718,4,747,37,53.679401716998996
+width,primary_paired,IN718,4,750,37,24.495638495464064
+width,primary_paired,IN718,4,752,37,68.22046766699845
+width,primary_paired,IN718,4,757,37,105.77942170621822
+width,primary_paired,IN718,4,759,37,76.5536891114472
+width,primary_paired,IN718,4,984,54,74.27845480617276
+width,primary_paired,IN718,4,985,54,72.99737384150944
+width,primary_paired,IN738LC,4,273,14,26.192766042510954
+width,primary_paired,IN738LC,4,274,14,3.1394296662944043
+width,primary_paired,IN738LC,4,790,41,60.03955025008143
+width,primary_paired,IN738LC,4,791,41,60.05877458876505
+width,primary_paired,IN738LC,4,792,41,54.05016020055254
+width,primary_paired,IN738LC,4,793,41,19.15122150830052
+width,primary_paired,IN738LC,4,796,41,30.51984154554546
+width,primary_paired,IN738LC,4,797,41,34.24433136047971
+width,primary_paired,IN738LC,4,798,41,-7.654607331772297
+width,primary_paired,IN738LC,4,799,41,44.332011025770385
+width,primary_paired,IN738LC,4,801,41,43.22949952748131
+width,primary_paired,IN738LC,4,804,41,114.67467101227811
+width,primary_paired,IN738LC,4,809,41,122.0610639498816
+width,primary_paired,IN738LC,4,810,41,85.37118428788071
+width,primary_paired,IN738LC,4,1531,78,-10.610716186482165
+width,primary_paired,IN738LC,4,1533,78,-20.131183578855854
+width,primary_paired,IN738LC,4,1534,78,-54.97653642252959
+width,primary_paired,IN738LC,4,1535,78,-3.129247794675422
+width,primary_paired,IN738LC,4,1541,78,-45.59372007462545
+width,primary_paired,IN738LC,4,1546,78,-79.36568882030184
+width,primary_paired,SS17-4PH,4,509,25,-34.48758015358166
+width,primary_paired,SS17-4PH,4,512,25,-30.695329802174797
+width,primary_paired,SS17-4PH,4,513,25,-32.46455035122116
+width,primary_paired,SS17-4PH,4,514,25,-10.427650766606334
+width,primary_paired,SS17-4PH,4,517,25,-22.109609602008504
+width,primary_paired,SS17-4PH,4,523,25,9.275589170728978
+width,primary_paired,SS17-4PH,4,528,25,-11.991560232069062
+width,primary_paired,SS17-4PH,4,534,25,0.05077842865163973
+width,primary_paired,SS17-4PH,4,537,25,7.67259385751575
+width,primary_paired,SS17-4PH,4,539,25,18.139967575115108
+width,primary_paired,SS17-4PH,4,540,25,10.140917208189407
+width,primary_paired,SS17-4PH,4,542,25,30.802168709985494
+width,primary_paired,SS17-4PH,4,547,25,14.479535964421927
+width,primary_paired,SS17-4PH,4,549,25,36.62325881503352
+width,primary_paired,SS17-4PH,4,556,25,94.99441203733923
+width,primary_paired,SS17-4PH,4,565,25,164.43376794970342
+width,primary_paired,SS17-4PH,4,572,25,230.43376794970342
+width,primary_paired,SS17-4PH,4,593,28,-30.471356736386554
+width,primary_paired,SS17-4PH,4,602,28,-59.184978154673075
+width,primary_paired,SS17-4PH,4,1241,65,-28.250393824684238
+width,primary_paired,SS316L,4,266,14,-7.303695254902834
+width,primary_paired,SS316L,4,384,19,-27.075926114100042
+width,primary_paired,SS316L,4,395,19,-55.75074251403362
+width,primary_paired,SS316L,4,399,19,13.219339572068606
+width,primary_paired,SS316L,4,410,19,-171.03764996736618
+width,primary_paired,SS316L,4,413,19,-6.185349783013862
+width,primary_paired,SS316L,4,436,20,-51.437219535909804
+width,primary_paired,SS316L,4,441,20,-10.297289395643489
+width,primary_paired,SS316L,4,473,20,-105.17187754000497
+width,primary_paired,SS316L,4,493,22,-9.971208352066839
+width,primary_paired,SS316L,4,1407,73,-210.8898282110282
+width,primary_paired,SS316L,4,1442,73,-29.17899448448361
+width,primary_paired,SS316L,4,1471,73,-132.5542542822671
+width,primary_paired,SS316L,4,1507,75,-147.75938316524923
+width,primary_paired,SS316L,4,1631,80,-71.57066082124047
+width,primary_paired,SS316L,4,1649,80,-173.0543319192586
+width,primary_paired,SS316L,4,1658,80,-165.31635198776505
+width,primary_paired,SS316L,4,1660,80,-196.233476436556
+width,primary_paired,SS316L,4,1673,80,-152.77763210565587
+width,primary_paired,SS316L,4,1685,80,-308.5834906978796
+width,primary_paired,Ti-6Al-4V,4,14,2,9.278928493003818
+width,primary_paired,Ti-6Al-4V,4,15,2,25.82467875469867
+width,primary_paired,Ti-6Al-4V,4,18,2,-6.464514594661438
+width,primary_paired,Ti-6Al-4V,4,27,2,17.751032049309543
+width,primary_paired,Ti-6Al-4V,4,280,15,-16.20839286203332
+width,primary_paired,Ti-6Al-4V,4,282,15,-50.6902071514229
+width,primary_paired,Ti-6Al-4V,4,288,15,-30.415436349267367
+width,primary_paired,Ti-6Al-4V,4,291,15,-33.41543634926737
+width,primary_paired,Ti-6Al-4V,4,293,15,-36.46946038230942
+width,primary_paired,Ti-6Al-4V,4,294,15,17.534449708566797
+width,primary_paired,Ti-6Al-4V,4,295,15,-7.90984388666709
+width,primary_paired,Ti-6Al-4V,4,297,15,-12.395510605536714
+width,primary_paired,Ti-6Al-4V,4,300,15,-22.26183527496579
+width,primary_paired,Ti-6Al-4V,4,303,15,-7.90984388666709
+width,primary_paired,Ti-6Al-4V,4,316,15,-21.26183527496579
+width,primary_paired,Ti-6Al-4V,4,318,15,18.534449708566797
+width,primary_paired,Ti-6Al-4V,4,1510,76,12.81860493064822
+width,primary_paired,Ti-6Al-4V,4,1512,76,-20.021012969289536
+width,primary_paired,Ti-6Al-4V,4,1517,76,-32.55187569713
+width,primary_paired,Ti-6Al-4V,4,1553,79,9.363040118937661

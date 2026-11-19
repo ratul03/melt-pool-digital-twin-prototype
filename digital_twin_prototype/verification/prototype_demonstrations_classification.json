@@ -1,0 +1,369 @@
+[
+  {
+    "task": "classification",
+    "alloy": "IN718",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 105,
+          "k": 96,
+          "q": 0.71875,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1158",
+          "task": "classification",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 105,
+            "k": 96,
+            "q": 0.71875,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.11875,
+            "balling": 0.175,
+            "desirable": 0.25625,
+            "keyhole": 0.45
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_only",
+          "n_cal": 9,
+          "k": 9,
+          "q": 0.90625,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1158",
+          "task": "classification",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_only",
+            "n_cal": 9,
+            "k": 9,
+            "q": 0.90625,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.11875,
+            "balling": 0.175,
+            "desirable": 0.25625,
+            "keyhole": 0.45
+          },
+          "unit": "category",
+          "category_set": [
+            "LOF",
+            "balling",
+            "desirable",
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_only",
+          "n_cal": 20,
+          "k": 19,
+          "q": 0.9,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1158",
+          "task": "classification",
+          "alloy": "IN718",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_only",
+            "n_cal": 20,
+            "k": 19,
+            "q": 0.9,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.11875,
+            "balling": 0.175,
+            "desirable": 0.25625,
+            "keyhole": 0.45
+          },
+          "unit": "category",
+          "category_set": [
+            "LOF",
+            "balling",
+            "desirable",
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "classification",
+    "alloy": "SS316L",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 79,
+          "k": 72,
+          "q": 0.54375,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1192",
+          "task": "classification",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 79,
+            "k": 72,
+            "q": 0.54375,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.025,
+            "balling": 0.05,
+            "desirable": 0.0375,
+            "keyhole": 0.8875
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_only",
+          "n_cal": 9,
+          "k": 9,
+          "q": 0.91875,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1192",
+          "task": "classification",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_only",
+            "n_cal": 9,
+            "k": 9,
+            "q": 0.91875,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.025,
+            "balling": 0.05,
+            "desirable": 0.0375,
+            "keyhole": 0.8875
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_only",
+          "n_cal": 20,
+          "k": 19,
+          "q": 0.93125,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1192",
+          "task": "classification",
+          "alloy": "SS316L",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_only",
+            "n_cal": 20,
+            "k": 19,
+            "q": 0.93125,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.025,
+            "balling": 0.05,
+            "desirable": 0.0375,
+            "keyhole": 0.8875
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      }
+    ]
+  },
+  {
+    "task": "classification",
+    "alloy": "Ti-6Al-4V",
+    "budgets": [
+      {
+        "budget": 0,
+        "state": {
+          "version": 0,
+          "phase": "source",
+          "n_cal": 92,
+          "k": 84,
+          "q": 0.64375,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1248",
+          "task": "classification",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 0,
+            "phase": "source",
+            "n_cal": 92,
+            "k": 84,
+            "q": 0.64375,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.1875,
+            "balling": 0.0625,
+            "desirable": 0.11875,
+            "keyhole": 0.63125
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 9,
+        "state": {
+          "version": 9,
+          "phase": "target_only",
+          "n_cal": 9,
+          "k": 9,
+          "q": 0.70625,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1248",
+          "task": "classification",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 9,
+            "phase": "target_only",
+            "n_cal": 9,
+            "k": 9,
+            "q": 0.70625,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.1875,
+            "balling": 0.0625,
+            "desirable": 0.11875,
+            "keyhole": 0.63125
+          },
+          "unit": "category",
+          "category_set": [
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      },
+      {
+        "budget": 20,
+        "state": {
+          "version": 20,
+          "phase": "target_only",
+          "n_cal": 20,
+          "k": 19,
+          "q": 0.85625,
+          "unbounded": false
+        },
+        "example": {
+          "query_id": "meltpoolnet:classification:classification:1248",
+          "task": "classification",
+          "alloy": "Ti-6Al-4V",
+          "role": "fixed_test",
+          "state": {
+            "version": 20,
+            "phase": "target_only",
+            "n_cal": 20,
+            "k": 19,
+            "q": 0.85625,
+            "unbounded": false
+          },
+          "warnings": [],
+          "predicted": "keyhole",
+          "probabilities": {
+            "LOF": 0.1875,
+            "balling": 0.0625,
+            "desirable": 0.11875,
+            "keyhole": 0.63125
+          },
+          "unit": "category",
+          "category_set": [
+            "LOF",
+            "keyhole"
+          ]
+        },
+        "n_test_queries": 20
+      }
+    ]
+  }
+]

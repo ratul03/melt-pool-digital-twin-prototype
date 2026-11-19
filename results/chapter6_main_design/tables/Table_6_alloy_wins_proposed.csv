@@ -1,0 +1,71 @@
+task,budget,comparator,comparator_label,n_alloys,proposed_better,proposed_IS,comparator_IS
+depth,9,source_split,Calibration on other alloys (existing practice),7,7,438.7890937995583,1142.594126220573
+depth,9,mean_target_split,Training mean + target calibration,7,5,438.7890937995583,559.136741904395
+depth,9,target_split,ML + target calibration (20 Oct method),7,3,438.7890937995583,624.1386017431199
+depth,9,target_linPV_jk,Target-only fit on power and speed,7,4,438.7890937995583,451.6031732957928
+depth,9,ml_shift_jk,ML + shift update,7,3,438.7890937995583,566.8040494407059
+depth,12,source_split,Calibration on other alloys (existing practice),7,7,409.8247585074154,1142.594126220573
+depth,12,mean_target_split,Training mean + target calibration,7,7,409.8247585074154,538.1842732374105
+depth,12,target_split,ML + target calibration (20 Oct method),7,3,409.8247585074154,603.1080327496592
+depth,12,target_linPV_jk,Target-only fit on power and speed,7,4,409.8247585074154,410.2560864880141
+depth,12,ml_shift_jk,ML + shift update,7,3,409.8247585074154,544.869011051533
+depth,15,source_split,Calibration on other alloys (existing practice),7,7,396.62526992416815,1142.594126220573
+depth,15,mean_target_split,Training mean + target calibration,7,7,396.62526992416815,532.6941192990973
+depth,15,target_split,ML + target calibration (20 Oct method),7,3,396.62526992416815,593.9131805545766
+depth,15,target_linPV_jk,Target-only fit on power and speed,7,4,396.62526992416815,388.30386472151446
+depth,15,ml_shift_jk,ML + shift update,7,3,396.62526992416815,531.6608541735301
+depth,20,source_split,Calibration on other alloys (existing practice),7,7,384.2301023562637,1142.594126220573
+depth,20,mean_target_split,Training mean + target calibration,7,7,384.2301023562637,510.33934012996076
+depth,20,target_split,ML + target calibration (20 Oct method),7,4,384.2301023562637,593.215539600354
+depth,20,target_linPV_jk,Target-only fit on power and speed,7,4,384.2301023562637,371.61403839588417
+depth,20,ml_shift_jk,ML + shift update,7,3,384.2301023562637,521.5113262380016
+depth,30,source_split,Calibration on other alloys (existing practice),5,5,350.3378808368064,1250.8043620597632
+depth,30,mean_target_split,Training mean + target calibration,5,5,350.3378808368064,458.09982047599686
+depth,30,target_split,ML + target calibration (20 Oct method),5,4,350.3378808368064,658.5714400082326
+depth,30,target_linPV_jk,Target-only fit on power and speed,5,2,350.3378808368064,333.35891769024283
+depth,30,ml_shift_jk,ML + shift update,5,3,350.3378808368064,554.8046298317713
+length,9,source_split,Calibration on other alloys (existing practice),2,2,300.6656051511594,8592.280628010105
+length,9,mean_target_split,Training mean + target calibration,2,2,300.6656051511594,980.9270210526314
+length,9,target_split,ML + target calibration (20 Oct method),2,2,300.6656051511594,1172.1092768621088
+length,9,target_linPV_jk,Target-only fit on power and speed,2,0,300.6656051511594,217.4601083288617
+length,9,ml_shift_jk,ML + shift update,2,0,300.6656051511594,286.8639979866864
+length,12,source_split,Calibration on other alloys (existing practice),2,2,262.75306950189656,8592.280628010105
+length,12,mean_target_split,Training mean + target calibration,2,2,262.75306950189656,981.2138210526315
+length,12,target_split,ML + target calibration (20 Oct method),2,2,262.75306950189656,1168.4072606011373
+length,12,target_linPV_jk,Target-only fit on power and speed,2,0,262.75306950189656,147.78877211011684
+length,12,ml_shift_jk,ML + shift update,2,1,262.75306950189656,278.93364576003944
+length,15,source_split,Calibration on other alloys (existing practice),2,2,244.2834255349402,8592.280628010105
+length,15,mean_target_split,Training mean + target calibration,2,2,244.2834255349402,980.9238210526315
+length,15,target_split,ML + target calibration (20 Oct method),2,2,244.2834255349402,1167.281106418709
+length,15,target_linPV_jk,Target-only fit on power and speed,2,0,244.2834255349402,119.73160138694902
+length,15,ml_shift_jk,ML + shift update,2,1,244.2834255349402,277.34033318098795
+length,20,source_split,Calibration on other alloys (existing practice),2,2,210.0903896149615,8592.280628010105
+length,20,mean_target_split,Training mean + target calibration,2,2,210.0903896149615,977.8171210526314
+length,20,target_split,ML + target calibration (20 Oct method),2,2,210.0903896149615,1164.4533223084413
+length,20,target_linPV_jk,Target-only fit on power and speed,2,0,210.0903896149615,91.79453228046276
+length,20,ml_shift_jk,ML + shift update,2,1,210.0903896149615,252.43688613643707
+width,9,source_split,Calibration on other alloys (existing practice),7,4,293.27494802557743,425.6367681138543
+width,9,mean_target_split,Training mean + target calibration,7,5,293.27494802557743,374.7869862770902
+width,9,target_split,ML + target calibration (20 Oct method),7,3,293.27494802557743,315.64334043850386
+width,9,target_linPV_jk,Target-only fit on power and speed,7,6,293.27494802557743,314.69435319514554
+width,9,ml_shift_jk,ML + shift update,7,2,293.27494802557743,292.3543072800295
+width,12,source_split,Calibration on other alloys (existing practice),7,4,280.4574794200376,425.6367681138543
+width,12,mean_target_split,Training mean + target calibration,7,7,280.4574794200376,367.3269321503107
+width,12,target_split,ML + target calibration (20 Oct method),7,4,280.4574794200376,311.45044850170905
+width,12,target_linPV_jk,Target-only fit on power and speed,7,5,280.4574794200376,290.55875285244304
+width,12,ml_shift_jk,ML + shift update,7,3,280.4574794200376,285.5319804714819
+width,15,source_split,Calibration on other alloys (existing practice),7,4,282.9567523018939,425.6367681138543
+width,15,mean_target_split,Training mean + target calibration,7,7,282.9567523018939,365.0730486133561
+width,15,target_split,ML + target calibration (20 Oct method),7,4,282.9567523018939,315.5584929787986
+width,15,target_linPV_jk,Target-only fit on power and speed,7,4,282.9567523018939,278.6953264056327
+width,15,ml_shift_jk,ML + shift update,7,4,282.9567523018939,288.51829440340833
+width,20,source_split,Calibration on other alloys (existing practice),7,5,262.11189277814066,425.6367681138543
+width,20,mean_target_split,Training mean + target calibration,7,7,262.11189277814066,367.10735487718745
+width,20,target_split,ML + target calibration (20 Oct method),7,5,262.11189277814066,298.6929000377818
+width,20,target_linPV_jk,Target-only fit on power and speed,7,4,262.11189277814066,256.115217927836
+width,20,ml_shift_jk,ML + shift update,7,3,262.11189277814066,266.5519325886657
+width,30,source_split,Calibration on other alloys (existing practice),6,4,283.62701380363507,475.62267703941615
+width,30,mean_target_split,Training mean + target calibration,6,6,283.62701380363507,392.40169363239494
+width,30,target_split,ML + target calibration (20 Oct method),6,4,283.62701380363507,328.50971310251816
+width,30,target_linPV_jk,Target-only fit on power and speed,6,3,283.62701380363507,274.80540484023896
+width,30,ml_shift_jk,ML + shift update,6,3,283.62701380363507,294.0230489307554

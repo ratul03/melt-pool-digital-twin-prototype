@@ -1,0 +1,4 @@
+reproduce_work/
+digital_twin_prototype/saved_sessions/*.json
+__pycache__/
+*.pyc
